@@ -1,0 +1,102 @@
+[
+  {
+    "ContainingType": "ServiceAPI.Controllers.CustomerController",
+    "Method": "GetAllData",
+    "RelativePath": "ServiceAPI/v1/Customer/GetAllData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceAPI.Controllers.CustomerController",
+    "Method": "GetDatabyCustomerCode",
+    "RelativePath": "ServiceAPI/v1/Customer/GetDatabyCustomerCode",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerRequest",
+        "Type": "ServiceAPI.Models.MD.CustomerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceAPI.Controllers.TransactionController",
+    "Method": "GetTransactionbyCommand",
+    "RelativePath": "ServiceAPI/v1/Transaction/GetTransactionbyCommand",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TransactionRequest",
+        "Type": "ServiceAPI.Models.TransactionRequest.CommmandRequestGoFirt",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceAPI.Controllers.TransactionController",
+    "Method": "SaveTransaction",
+    "RelativePath": "ServiceAPI/v1/Transaction/SaveTransaction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "commmandRequest",
+        "Type": "ServiceAPI.Models.TransactionResponse.CommmandRequestTo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceAPI.Controllers.VehicleController",
+    "Method": "GetAllData",
+    "RelativePath": "ServiceAPI/v1/Vehicle/GetAllVehicle",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceAPI.Controllers.VehicleController",
+    "Method": "GetDatabyVehicleCode",
+    "RelativePath": "ServiceAPI/v1/Vehicle/GetDatabyVehicleCode",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vehicleRequest",
+        "Type": "ServiceAPI.Models.MD.VehicleRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceAPI.Controllers.VehicleController",
+    "Method": "SaveVehicle",
+    "RelativePath": "ServiceAPI/v1/Vehicle/SaveVehicle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ServiceAPI.Models.MD.VehicleSaveRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

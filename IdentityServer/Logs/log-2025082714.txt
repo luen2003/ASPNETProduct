@@ -1,0 +1,55 @@
+[INF] ==> [27/08/2025 14:09:12] Now listening on: https://localhost:62362
+[INF] ==> [27/08/2025 14:09:12] Now listening on: http://localhost:62363
+[INF] ==> [27/08/2025 14:09:12] Application started. Press Ctrl+C to shut down.
+[INF] ==> [27/08/2025 14:09:12] Hosting environment: Development
+[INF] ==> [27/08/2025 14:09:12] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [27/08/2025 14:09:35] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin","password":"admin"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 14:09:35","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwIiwianRpIjoiOTlkMzRhODUtOTAyYy00OGQ0LWJkOTMtNDI2NzYwOWRhOGQ5IiwibmFtZWlkIjoiYWRtaW4iLCJQb3NJZCI6IjAiLCJVc2VySWQiOiJhZG1pbiIsIlJvbGUiOiJVMCIsIlBseElkIjoiIiwibmJmIjoxNzU2Mjc4NTc1LCJleHAiOjIwNjczMTg1NzUsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA3OSIsImF1ZCI6IlZpbmhEUSJ9.q1m_rMu4bKvMsYIgljP-iUaBj7jmw4eVZLOKI3NJFOVRu9QkkdY0-faXnYDSKmYUnl_-8q-sHqo9NY5HpxQPYg"}}
+[INF] ==> [27/08/2025 14:46:52] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 500, Body: Error parsing column 5 (UserType=ADMIN - String)
+[INF] ==> [27/08/2025 14:51:46] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 500, Body: Error parsing column 5 (UserType=USER - String)
+[INF] ==> [27/08/2025 14:52:00] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 500, Body: Error parsing column 5 (UserType=USER - String)
+[INF] ==> [27/08/2025 14:55:57] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 14:55:57","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI2MTk4NTcxYS0xM2VjLTRjNDEtYjY2MS01YTk4NDg2NzFiNTEiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyODEzNTcsImV4cCI6MjA2NzMyMTM1NywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.rEHHG6O5uOJRwEi36pIs3LNVJxHAIqiZot978aIxKWs9XvCW2qsDn3pn84JVBNJ04R8CsX6Qbr93gw9hFjcBiw"}}
+[INF] ==> [27/08/2025 14:57:23] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 14:57:23","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI1NGFhODRmNy1lMGJjLTRjZTEtYjBlNS1hMWFhYzgwYzE1MDQiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyODE0NDMsImV4cCI6MjA2NzMyMTQ0MywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.DjE_8vC-ckFV3RdZFfP2aq5OelA0qAKoSa7k8MF2OnHMPG2PSS2BFWMHFSeoMLBQTxL125TqoIaC80w04Axlgw"}}
+[INF] ==> [27/08/2025 14:57:23] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 14:57:23","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI4NjRkYzdjMi0wY2QxLTQzZjQtYjFkNC02NGE2NGQ0ODU1NTUiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyODE0NDMsImV4cCI6MjA2NzMyMTQ0MywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.Ehwbw1aig0PndP6UpE-4MdIV7EqcGRxuYEMucwnXUGoHq8zVhTWsRhhW6kxZTfCivWHR8MhXtdxSkL6w6YdgfQ"}}
+[INF] ==> [27/08/2025 14:57:38] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin1234567"} 
+           Response => StatusCode: 200, Body: {"code":"03","message":"Mật khẩu không đúng.","data":null}
+[INF] ==> [27/08/2025 14:59:08] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin1234567"} 
+           Response => StatusCode: 200, Body: {"code":"03","message":"Mật khẩu không đúng.","data":null}
+[INF] ==> [27/08/2025 14:59:13] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 14:59:13","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJmYmYzOWRlOS05MzIyLTQxOWUtODk5OS01NTk1Y2QzZjBkZTQiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyODE1NTMsImV4cCI6MjA2NzMyMTU1MywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.idroogiN1XKWza8fM3UU6bLV3ZPraMUWc0z8tPKWwjXy471rG8ZyM-NMqTlTYEt9BKLfVdDTfCBEAODQgTItXg"}}

@@ -1,0 +1,19 @@
+@{
+ViewData["Title"] = "Đăng nhập";
+}
+<div class="row justify-content-center">
+<div class="col-md-4">
+<h3 class="mb-3">Đăng nhập</h3>
+<form method="post" asp-controller="Account" asp-action="Login">
+<div class="mb-3">
+<label class="form-label">Tài khoản</label>
+<input class="form-control" name="username" value="admin123" />
+</div>
+<div class="mb-3">
+<label class="form-label">Mật khẩu</label>
+<input class="form-control" type="password" name="password" value="admin123456" />
+</div>
+<button class="btn btn-primary w-100" type="submit">Đăng nhập</button>
+</form>
+</div>
+</div>  

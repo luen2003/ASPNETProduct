@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "IdentityServer.Controllers.AuthController",
+    "Method": "AuthService",
+    "RelativePath": "IdentityServer/v1/Auth/authService",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "IdentityServer.Models.Auth.AuthServiceRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IdentityServer.Controllers.AuthController",
+    "Method": "GetDataTest",
+    "RelativePath": "IdentityServer/v1/Auth/TestAPI",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

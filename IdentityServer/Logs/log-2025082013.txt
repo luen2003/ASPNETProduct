@@ -1,0 +1,5 @@
+[INF] ==> [20/08/2025 13:27:28] Now listening on: https://localhost:62362
+[INF] ==> [20/08/2025 13:27:28] Now listening on: http://localhost:62363
+[INF] ==> [20/08/2025 13:27:28] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/08/2025 13:27:28] Hosting environment: Development
+[INF] ==> [20/08/2025 13:27:28] Content root path: D:\APIERP\APIERP\IdentityServer

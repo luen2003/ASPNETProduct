@@ -1,0 +1,20 @@
+[INF] ==> [30/12/2024 16:17:30] Now listening on: https://localhost:62362
+[INF] ==> [30/12/2024 16:17:30] Now listening on: http://localhost:62363
+[INF] ==> [30/12/2024 16:17:30] Application started. Press Ctrl+C to shut down.
+[INF] ==> [30/12/2024 16:17:30] Hosting environment: Development
+[INF] ==> [30/12/2024 16:17:30] Content root path: E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\IdentityServer\
+[INF] ==> [30/12/2024 16:21:07] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234"} 
+           Response => StatusCode: 200, Body: {"code":"03","message":"Mật khẩu không đúng.","data":null}
+[INF] ==> [30/12/2024 16:21:13] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234"} 
+           Response => StatusCode: 200, Body: {"code":"03","message":"Mật khẩu không đúng.","data":null}
+[INF] ==> [30/12/2024 16:21:24] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"Piacom@123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"30/12/2024 16:21:24","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMTgwMTI4IiwianRpIjoiMzNmZjI1YWUtZDNjNy00NmIzLWExZTMtY2EyZWRhYjMwZDgwIiwibmFtZWlkIjoiMTY4a2llbmh4IiwiUG9zSWQiOiIxNjgiLCJVc2VySWQiOiIxNjhraWVuaHgiLCJSb2xlIjoiVTAiLCJQbHhJZCI6IiIsIm5iZiI6MTczNTU1MDQ4NCwiZXhwIjoyMDQ2NTkwNDg0LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwNzkiLCJhdWQiOiJWaW5oRFEifQ.YSqCUrKZE8HETVhuFstXMjKoR8uXfRIHAnfqORJMOskXlogVqX-XnLdUfd7RXjyX8-3VrYWacEOZ4bR9Wr_cmA"}}

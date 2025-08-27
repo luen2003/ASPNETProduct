@@ -1,0 +1,5 @@
+[INF] ==> [14/04/2025 22:39:29] Now listening on: https://localhost:62362
+[INF] ==> [14/04/2025 22:39:29] Now listening on: http://localhost:62363
+[INF] ==> [14/04/2025 22:39:29] Application started. Press Ctrl+C to shut down.
+[INF] ==> [14/04/2025 22:39:29] Hosting environment: Development
+[INF] ==> [14/04/2025 22:39:29] Content root path: E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\IdentityServer

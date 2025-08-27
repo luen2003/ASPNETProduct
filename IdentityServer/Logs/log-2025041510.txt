@@ -1,0 +1,20 @@
+[INF] ==> [15/04/2025 10:20:05] Now listening on: https://localhost:62362
+[INF] ==> [15/04/2025 10:20:05] Now listening on: http://localhost:62363
+[INF] ==> [15/04/2025 10:20:05] Application started. Press Ctrl+C to shut down.
+[INF] ==> [15/04/2025 10:20:05] Hosting environment: Development
+[INF] ==> [15/04/2025 10:20:05] Content root path: E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\IdentityServer
+[INF] ==> [15/04/2025 10:40:26] Now listening on: https://localhost:62362
+[INF] ==> [15/04/2025 10:40:26] Now listening on: http://localhost:62363
+[INF] ==> [15/04/2025 10:40:26] Application started. Press Ctrl+C to shut down.
+[INF] ==> [15/04/2025 10:40:26] Hosting environment: Development
+[INF] ==> [15/04/2025 10:40:26] Content root path: E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\IdentityServer
+[INF] ==> [15/04/2025 10:47:38] Now listening on: https://localhost:62362
+[INF] ==> [15/04/2025 10:47:38] Now listening on: http://localhost:62363
+[INF] ==> [15/04/2025 10:47:38] Application started. Press Ctrl+C to shut down.
+[INF] ==> [15/04/2025 10:47:38] Hosting environment: Development
+[INF] ==> [15/04/2025 10:47:38] Content root path: E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\IdentityServer
+[INF] ==> [15/04/2025 10:51:13] Now listening on: https://localhost:62362
+[INF] ==> [15/04/2025 10:51:13] Now listening on: http://localhost:62363
+[INF] ==> [15/04/2025 10:51:13] Application started. Press Ctrl+C to shut down.
+[INF] ==> [15/04/2025 10:51:13] Hosting environment: Development
+[INF] ==> [15/04/2025 10:51:13] Content root path: E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\IdentityServer

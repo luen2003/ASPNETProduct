@@ -1,0 +1,105 @@
+[INF] ==> [21/11/2024 15:01:46] Now listening on: https://localhost:62362
+[INF] ==> [21/11/2024 15:01:46] Now listening on: http://localhost:62363
+[INF] ==> [21/11/2024 15:01:46] Application started. Press Ctrl+C to shut down.
+[INF] ==> [21/11/2024 15:01:46] Hosting environment: Development
+[INF] ==> [21/11/2024 15:01:46] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [21/11/2024 15:03:06] Now listening on: https://localhost:62362
+[INF] ==> [21/11/2024 15:03:06] Now listening on: http://localhost:62363
+[INF] ==> [21/11/2024 15:03:06] Application started. Press Ctrl+C to shut down.
+[INF] ==> [21/11/2024 15:03:06] Hosting environment: Development
+[INF] ==> [21/11/2024 15:03:06] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [21/11/2024 15:16:21] Now listening on: https://localhost:62362
+[INF] ==> [21/11/2024 15:16:21] Now listening on: http://localhost:62363
+[INF] ==> [21/11/2024 15:16:21] Application started. Press Ctrl+C to shut down.
+[INF] ==> [21/11/2024 15:16:21] Hosting environment: Development
+[INF] ==> [21/11/2024 15:16:21] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [21/11/2024 15:22:48] Now listening on: https://localhost:62362
+[INF] ==> [21/11/2024 15:22:48] Now listening on: http://localhost:62363
+[INF] ==> [21/11/2024 15:22:48] Application started. Press Ctrl+C to shut down.
+[INF] ==> [21/11/2024 15:22:48] Hosting environment: Development
+[INF] ==> [21/11/2024 15:22:48] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [21/11/2024 15:23:02] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"21/11/2024 15:23:02","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMTgwMTI4IiwianRpIjoiZTVkYTdmZGEtMzBlMC00ZTJkLThkNzItODIwMzgwZWFjMGE3IiwiaWF0IjoiMTEvMjEvMjAyNCA4OjIzOjAyIEFNIiwibmFtZWlkIjoiMTY4a2llbmh4IiwiUG9zSWQiOiIxNTIiLCJVc2VySWQiOiIxNjhraWVuaHgiLCJSb2xlIjoiVTAiLCJQbHhJZCI6IiIsIm5iZiI6MTczMjE3NzM4MiwiZXhwIjoyMDQzMjE3MzgyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwNzkiLCJhdWQiOiJWaW5oRFEifQ.A_lLqdrJUFv618UM6EMFuU4u63fHWa4PEm7LyRkok377G55pLnbOb0_Delgz8u4fqHOM7tEmiCrS8MZguKU8mQ"}}
+[INF] ==> [21/11/2024 15:25:20] Now listening on: https://localhost:62362
+[INF] ==> [21/11/2024 15:25:20] Now listening on: http://localhost:62363
+[INF] ==> [21/11/2024 15:25:20] Application started. Press Ctrl+C to shut down.
+[INF] ==> [21/11/2024 15:25:20] Hosting environment: Development
+[INF] ==> [21/11/2024 15:25:20] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [21/11/2024 15:25:48] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"21/11/2024 15:25:48","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMTgwMTI4IiwianRpIjoiNmNkMGI5NWYtMDUwMS00YmQ1LTk5NmItYzQ2MzdhYzllYTUyIiwiaWF0IjoiMTEvMjEvMjAyNCA4OjI1OjQ4IEFNIiwibmFtZWlkIjoiMTY4a2llbmh4IiwiUG9zSWQiOiIxNTIiLCJVc2VySWQiOiIxNjhraWVuaHgiLCJSb2xlIjoiVTAiLCJQbHhJZCI6IiIsIm5iZiI6MTczMjE3NzU0OCwiZXhwIjoyMDQzMjE3NTQ4LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwNzkiLCJhdWQiOiJWaW5oRFEifQ.oKMdTxURpf4TfnjTe79WwR2G2lcxnA9XONr_W-aU0o8n_nCdC3AYQlEwE6hx40DMnrjG-KjOZuxXHaw0R-2ApQ"}}
+[INF] ==> [21/11/2024 15:28:26] Now listening on: https://localhost:62362
+[INF] ==> [21/11/2024 15:28:27] Now listening on: http://localhost:62363
+[INF] ==> [21/11/2024 15:28:27] Application started. Press Ctrl+C to shut down.
+[INF] ==> [21/11/2024 15:28:27] Hosting environment: Development
+[INF] ==> [21/11/2024 15:28:27] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [21/11/2024 15:28:30] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"21/11/2024 15:28:29","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMTgwMTI4IiwianRpIjoiZGNhZWYzNzctNmJjYy00NjkzLTllZGItMjM2OWQwMmZmMjQyIiwibmFtZWlkIjoiMTY4a2llbmh4IiwiUG9zSWQiOiIxNTIiLCJVc2VySWQiOiIxNjhraWVuaHgiLCJSb2xlIjoiVTAiLCJQbHhJZCI6IiIsIm5iZiI6MTczMjE3NzcwOSwiZXhwIjoyMDQzMjE3NzA5LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwNzkiLCJhdWQiOiJWaW5oRFEifQ.6qXKZQdW8nNRj6MqablUkDNomplVxkTjY3-wEI_kvty6FtT9bAsX9u8pkmxQYlqRpBmCMhAA48Pu4PLpHXclQA"}}
+[INF] ==> [21/11/2024 15:29:31] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"21/11/2024 15:29:31","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMTgwMTI4IiwianRpIjoiNjIzMjdjODMtMzQzMC00ZGQzLWI1YmMtYTY2N2RhYThiZWEzIiwibmFtZWlkIjoiMTY4a2llbmh4IiwiUG9zSWQiOiIxNTIiLCJVc2VySWQiOiIxNjhraWVuaHgiLCJSb2xlIjoiVTAiLCJQbHhJZCI6IiIsIm5iZiI6MTczMjE3Nzc3MSwiZXhwIjoyMDQzMjE3NzcxLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwNzkiLCJhdWQiOiJWaW5oRFEifQ.k-SMPAKN3Azy0pngLllGt3OV_sfUYLii5tEacMuzX_gEzpy1wF3uX1zjCIn5hg1BY3ktTXWnx36m6oSBbObwgA"}}
+[INF] ==> [21/11/2024 15:30:30] Now listening on: https://localhost:62362
+[INF] ==> [21/11/2024 15:30:30] Now listening on: http://localhost:62363
+[INF] ==> [21/11/2024 15:30:30] Application started. Press Ctrl+C to shut down.
+[INF] ==> [21/11/2024 15:30:30] Hosting environment: Development
+[INF] ==> [21/11/2024 15:30:30] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [21/11/2024 15:31:28] Now listening on: https://localhost:62362
+[INF] ==> [21/11/2024 15:31:28] Now listening on: http://localhost:62363
+[INF] ==> [21/11/2024 15:31:28] Application started. Press Ctrl+C to shut down.
+[INF] ==> [21/11/2024 15:31:28] Hosting environment: Development
+[INF] ==> [21/11/2024 15:31:28] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [21/11/2024 15:33:22] Now listening on: https://localhost:62362
+[INF] ==> [21/11/2024 15:33:22] Now listening on: http://localhost:62363
+[INF] ==> [21/11/2024 15:33:22] Application started. Press Ctrl+C to shut down.
+[INF] ==> [21/11/2024 15:33:22] Hosting environment: Development
+[INF] ==> [21/11/2024 15:33:22] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [21/11/2024 15:33:41] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"21/11/2024 15:33:41","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMTgwMTI4IiwianRpIjoiOTA5OWY5NTQtYWUzNy00OTJjLWI2ZGMtNGZjMjU4MGRjYjM3IiwibmFtZWlkIjoiMTY4a2llbmh4IiwiUG9zSWQiOiIxNTIiLCJVc2VySWQiOiIxNjhraWVuaHgiLCJSb2xlIjoiVTAiLCJQbHhJZCI6IiIsIm5iZiI6MTczMjE3ODAyMSwiZXhwIjoyMDQzMjE4MDIxLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwNzkiLCJhdWQiOiJWaW5oRFEifQ.2Z4FG7VGDY1dibZ0H3Szb6pvoamFkMIcQUmwoSPPq28dokABV1LJ1uUPeN6dQzQhR-FabMJEHpZS_Jnxv35I8Q"}}
+[INF] ==> [21/11/2024 15:35:28] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"21/11/2024 15:35:28","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMTgwMTI4IiwianRpIjoiNDkyNTZlYWUtY2YwZS00MTBmLWI5YmMtOGVmMmYzN2Q2YjAwIiwibmFtZWlkIjoiMTY4a2llbmh4IiwiUG9zSWQiOiIxNTIiLCJVc2VySWQiOiIxNjhraWVuaHgiLCJSb2xlIjoiVTAiLCJQbHhJZCI6IiIsIm5iZiI6MTczMjE3ODEyOCwiZXhwIjoyMDQzMjE4MTI4LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwNzkiLCJhdWQiOiJWaW5oRFEifQ.uYqAMSPEqalSY6EdXsxNY8Igcjt1vKYx-KBOZl_FhocvdTD7bpRiyhcU11dntQjjOGC5uIq-5PkSvCFoK4glfg"}}
+[INF] ==> [21/11/2024 15:37:07] Now listening on: https://localhost:62362
+[INF] ==> [21/11/2024 15:37:07] Now listening on: http://localhost:62363
+[INF] ==> [21/11/2024 15:37:07] Application started. Press Ctrl+C to shut down.
+[INF] ==> [21/11/2024 15:37:07] Hosting environment: Development
+[INF] ==> [21/11/2024 15:37:07] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [21/11/2024 15:37:50] Now listening on: https://localhost:62362
+[INF] ==> [21/11/2024 15:37:50] Now listening on: http://localhost:62363
+[INF] ==> [21/11/2024 15:37:51] Application started. Press Ctrl+C to shut down.
+[INF] ==> [21/11/2024 15:37:51] Hosting environment: Development
+[INF] ==> [21/11/2024 15:37:51] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [21/11/2024 15:39:10] Now listening on: https://localhost:62362
+[INF] ==> [21/11/2024 15:39:10] Now listening on: http://localhost:62363
+[INF] ==> [21/11/2024 15:39:10] Application started. Press Ctrl+C to shut down.
+[INF] ==> [21/11/2024 15:39:10] Hosting environment: Development
+[INF] ==> [21/11/2024 15:39:10] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [21/11/2024 15:40:39] Now listening on: https://localhost:62362
+[INF] ==> [21/11/2024 15:40:39] Now listening on: http://localhost:62363
+[INF] ==> [21/11/2024 15:40:39] Application started. Press Ctrl+C to shut down.
+[INF] ==> [21/11/2024 15:40:39] Hosting environment: Development
+[INF] ==> [21/11/2024 15:40:39] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [21/11/2024 15:40:54] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"21/11/2024 15:40:54","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMTgwMTI4IiwianRpIjoiZjM5MDYzOWMtYzdjYi00ZGU0LTgzNmItMWZkNDgxZjJmYzZiIiwibmFtZWlkIjoiMTY4a2llbmh4IiwiUG9zSWQiOiIxNTIiLCJVc2VySWQiOiIxNjhraWVuaHgiLCJSb2xlIjoiVTAiLCJQbHhJZCI6IiIsIm5iZiI6MTczMjE3ODQ1MywiZXhwIjoyMDQzMjE4NDUzLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwNzkiLCJhdWQiOiJWaW5oRFEifQ.-fqLO-BLq6Bb6Pp96G-RhL4QoRZyCgPLx1PwqShVsV-1sEM9OPwgTF1yjXwOvbgxrfjk5hkoUW4KgREplj5iVA"}}
+[INF] ==> [21/11/2024 15:43:22] Now listening on: https://localhost:62362
+[INF] ==> [21/11/2024 15:43:22] Now listening on: http://localhost:62363
+[INF] ==> [21/11/2024 15:43:22] Application started. Press Ctrl+C to shut down.
+[INF] ==> [21/11/2024 15:43:22] Hosting environment: Development
+[INF] ==> [21/11/2024 15:43:22] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\

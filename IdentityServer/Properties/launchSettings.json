@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "IdentityServer": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:62362;http://localhost:62363",
+      "launchUrl": "swagger"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "IdentityServer\\IdentityServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ServiceAPI\\ServiceAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "OcelotAPIGateway\\OcelotAPIGateway.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ProductView\\ProductView.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

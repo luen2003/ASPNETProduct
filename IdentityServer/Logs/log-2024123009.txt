@@ -1,0 +1,10 @@
+[INF] ==> [30/12/2024 09:01:34] Now listening on: https://localhost:62362
+[INF] ==> [30/12/2024 09:01:34] Now listening on: http://localhost:62363
+[INF] ==> [30/12/2024 09:01:34] Application started. Press Ctrl+C to shut down.
+[INF] ==> [30/12/2024 09:01:34] Hosting environment: Development
+[INF] ==> [30/12/2024 09:01:34] Content root path: E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\IdentityServer\
+[INF] ==> [30/12/2024 09:02:08] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"30/12/2024 09:02:08","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMTgwMTI4IiwianRpIjoiYjNiOTU4M2YtMDY2Ni00YWEwLWFmOWMtNzRlZDBhNTU1OTM3IiwibmFtZWlkIjoiMTY4a2llbmh4IiwiUG9zSWQiOiIxNjgiLCJVc2VySWQiOiIxNjhraWVuaHgiLCJSb2xlIjoiVTAiLCJQbHhJZCI6IiIsIm5iZiI6MTczNTUyNDEyOCwiZXhwIjoyMDQ2NTY0MTI4LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwNzkiLCJhdWQiOiJWaW5oRFEifQ.rHYVNp5oWouTczSsl-_A6pqz4rAxLELa-WY2rPcReI_XWloERe4B0ufL2PNcdPpHlcRVvX9Eyg_7zNkfB12m5w"}}

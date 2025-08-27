@@ -1,0 +1,2626 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\APIERP\\APIERP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D70F4B8-F908-473D-BA7B-FDE483EC07F9}|ProductView\\ProductView.csproj|d:\\apierp\\apierp\\productview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D70F4B8-F908-473D-BA7B-FDE483EC07F9}|ProductView\\ProductView.csproj|solutionrelative:productview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D70F4B8-F908-473D-BA7B-FDE483EC07F9}|ProductView\\ProductView.csproj|d:\\apierp\\apierp\\productview\\models\\productdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D70F4B8-F908-473D-BA7B-FDE483EC07F9}|ProductView\\ProductView.csproj|solutionrelative:productview\\models\\productdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D70F4B8-F908-473D-BA7B-FDE483EC07F9}|ProductView\\ProductView.csproj|d:\\apierp\\apierp\\productview\\models\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D70F4B8-F908-473D-BA7B-FDE483EC07F9}|ProductView\\ProductView.csproj|solutionrelative:productview\\models\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D70F4B8-F908-473D-BA7B-FDE483EC07F9}|ProductView\\ProductView.csproj|d:\\apierp\\apierp\\productview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D70F4B8-F908-473D-BA7B-FDE483EC07F9}|ProductView\\ProductView.csproj|solutionrelative:productview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\models\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\models\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\models\\responses\\transactionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\models\\responses\\transactionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\authentication\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\authentication\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\auth\\authserviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\auth\\authserviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\account\\signuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\account\\signuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|d:\\apierp\\apierp\\ocelotapigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|solutionrelative:ocelotapigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|d:\\apierp\\apierp\\ocelotapigateway\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|solutionrelative:ocelotapigateway\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|d:\\apierp\\apierp\\ocelotapigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|solutionrelative:ocelotapigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|d:\\apierp\\apierp\\ocelotapigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|solutionrelative:ocelotapigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|d:\\apierp\\apierp\\ocelotapigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|solutionrelative:ocelotapigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|d:\\apierp\\apierp\\ocelotapigateway\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|solutionrelative:ocelotapigateway\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|d:\\apierp\\apierp\\ocelotapigateway\\ocelotapigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|solutionrelative:ocelotapigateway\\ocelotapigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\logs\\log-2024123016.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\logs\\log-2024123016.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\domains\\entities\\serviceurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\domains\\entities\\serviceurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\domains\\param\\useraddnewparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\domains\\param\\useraddnewparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\repositories\\serviceurlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\repositories\\serviceurlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\domains\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\domains\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\domains\\dto\\usercompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\domains\\dto\\usercompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\identityserver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\identityserver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\globaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\globaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\identityserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\identityserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\serviceapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\serviceapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\utils\\datetimeparse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\utils\\datetimeparse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\utils\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\utils\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\utils\\callapihttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\utils\\callapihttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\repositories\\interfaces\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\repositories\\interfaces\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\repositories\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\repositories\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\models\\transaction\\transactiontypemd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\models\\transaction\\transactiontypemd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\models\\transaction\\transactionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\models\\transaction\\transactionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\models\\transaction\\transactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\models\\transaction\\transactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\models\\md\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\models\\md\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\models\\md\\pagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\models\\md\\pagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\models\\md\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\models\\md\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\lib\\bosl.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     ",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\lib\\bosl.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\lib\\bosl.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\lib\\bosl.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\enums\\systemenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\enums\\systemenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\enums\\rbdmsenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\enums\\rbdmsenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\serviceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\serviceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|d:\\apierp\\apierp\\ocelotapigateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|solutionrelative:ocelotapigateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|d:\\apierp\\apierp\\ocelotapigateway\\properties\\publishprofiles\\folderprofile1.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|solutionrelative:ocelotapigateway\\properties\\publishprofiles\\folderprofile1.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|d:\\apierp\\apierp\\ocelotapigateway\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|solutionrelative:ocelotapigateway\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|d:\\apierp\\apierp\\ocelotapigateway\\ocelotapigateway.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5A0134FD-BE40-4956-A1CA-841BF9565DDD}|OcelotAPIGateway\\OcelotAPIGateway.csproj|solutionrelative:ocelotapigateway\\ocelotapigateway.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\utils\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\utils\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\utils\\callapihttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\utils\\callapihttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\contexts\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\contexts\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\repositories\\interfaces\\iserviceurlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\repositories\\interfaces\\iserviceurlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\providers\\secretgenerator\\isecretgeneratorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\providers\\secretgenerator\\isecretgeneratorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\providers\\secretgenerator\\implementations\\baserandomsecretgeneratorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\providers\\secretgenerator\\implementations\\baserandomsecretgeneratorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\providers\\secretgenerator\\implementations\\secret128bitrandomgeneratorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\providers\\secretgenerator\\implementations\\secret128bitrandomgeneratorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\providers\\secretgenerator\\implementations\\secret160bitrandomgeneratorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\providers\\secretgenerator\\implementations\\secret160bitrandomgeneratorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\providers\\secretgenerator\\implementations\\hmac256useridsecretgeneratorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\providers\\secretgenerator\\implementations\\hmac256useridsecretgeneratorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\serilogsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\serilogsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\basicresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\basicresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\settings\\rsacrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\settings\\rsacrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\settings\\otpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\settings\\otpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\settings\\isettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\settings\\isettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\settings\\audience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\settings\\audience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\responses\\plxauthenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\responses\\plxauthenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\otpresult\\validateotpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\otpresult\\validateotpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\otpresult\\validateotprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\otpresult\\validateotprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\otpresult\\sendotpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\otpresult\\sendotpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\otpresult\\sendotprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\otpresult\\sendotprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\otpresult\\otpresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\otpresult\\otpresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\auth\\smsdriverpurchaserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\auth\\smsdriverpurchaserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\auth\\signinresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\auth\\signinresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\auth\\signinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\auth\\signinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\auth\\sendpinsmsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\auth\\sendpinsmsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\auth\\refreshbothtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\auth\\refreshbothtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\auth\\getcryptkeyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\auth\\getcryptkeyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\auth\\createuserbyplxidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\auth\\createuserbyplxidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\auth\\createuserbyplxidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\auth\\createuserbyplxidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\auth\\checkpinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\auth\\checkpinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\auth\\authservicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\auth\\authservicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\account\\signupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\account\\signupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\account\\sendotppasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\account\\sendotppasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\account\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\account\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\account\\mapuservehiclerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\account\\mapuservehiclerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\account\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\account\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\models\\account\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\models\\account\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\logs\\log-2024112318.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\logs\\log-2024112318.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\lib\\bosdll.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\lib\\bosdll.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\helpers\\sqlmethodhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\helpers\\sqlmethodhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\helpers\\methodhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\helpers\\methodhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\helpers\\logginghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\helpers\\logginghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\helpers\\identityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\helpers\\identityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\helpers\\exceptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\helpers\\exceptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\helpers\\assemblyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\helpers\\assemblyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\guards\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\guards\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\extensions\\dictionaryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\extensions\\dictionaryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\extensions\\datetimeparse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\extensions\\datetimeparse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\extensions\\datetimeconvertertimezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\extensions\\datetimeconvertertimezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\extensions\\dateonlytypeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\extensions\\dateonlytypeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\extensions\\dateonlyjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\extensions\\dateonlyjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\extensions\\dapperextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\extensions\\dapperextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\exceptions\\globalinternalserverexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\exceptions\\globalinternalserverexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\exceptions\\forbiddenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\exceptions\\forbiddenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\enums\\systemenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\enums\\systemenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\enums\\rbdmsenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\enums\\rbdmsenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\domains\\entities\\userpin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\domains\\entities\\userpin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\domains\\dto\\usersetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\domains\\dto\\usersetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\domains\\dto\\plxidinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\domains\\dto\\plxidinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\domains\\dto\\logsms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\domains\\dto\\logsms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\domains\\dto\\customerinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\domains\\dto\\customerinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\domains\\dto\\checkpindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\domains\\dto\\checkpindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\converters\\stringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\converters\\stringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\converters\\ionewayconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\converters\\ionewayconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\converters\\hotpvaluelongtobytearrayconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\converters\\hotpvaluelongtobytearrayconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\contexts\\efcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\contexts\\efcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\communication\\sync\\httpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\communication\\sync\\httpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\common\\globaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\common\\globaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|d:\\apierp\\apierp\\serviceapi\\serviceapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{144FAE75-C5A3-48A1-A770-3ABCCCBECA02}|ServiceAPI\\ServiceAPI.csproj|solutionrelative:serviceapi\\serviceapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\authentication\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\authentication\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\attributes\\rolerejectedattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\attributes\\rolerejectedattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\attributes\\roleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\attributes\\roleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\attributes\\roleacceptedattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\attributes\\roleacceptedattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\attributes\\customrouteattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\attributes\\customrouteattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 183,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDtos.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ProductView\\Models\\ProductDtos.cs",
+              "RelativeDocumentMoniker": "ProductView\\Models\\ProductDtos.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ProductView\\Models\\ProductDtos.cs",
+              "RelativeToolTip": "ProductView\\Models\\ProductDtos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T09:08:02.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ProductView\\Models\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "ProductView\\Models\\AuthDtos.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ProductView\\Models\\AuthDtos.cs",
+              "RelativeToolTip": "ProductView\\Models\\AuthDtos.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T09:07:33.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ProductView\\Program.cs",
+              "RelativeDocumentMoniker": "ProductView\\Program.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ProductView\\Program.cs",
+              "RelativeToolTip": "ProductView\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv0YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T09:05:09.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ProductView\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductView\\appsettings.json",
+              "ToolTip": "D:\\APIERP\\APIERP\\ProductView\\appsettings.json",
+              "RelativeToolTip": "ProductView\\appsettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T09:04:44.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Controllers\\TransactionController.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "ServiceAPI\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T23:53:21.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ServiceAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:03:17.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Startup.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Startup.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Startup.cs",
+              "RelativeToolTip": "IdentityServer\\Startup.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAADgv4QAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T05:48:46.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ServiceAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:13:16.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ServiceAPI\\appsettings.json",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\appsettings.json",
+              "RelativeToolTip": "ServiceAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T08:36:33.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\Responses\\Response.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Models\\Responses\\Response.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\Responses\\Response.cs",
+              "RelativeToolTip": "ServiceAPI\\Models\\Responses\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:12:49.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "IdentityServer\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvw0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:04:46.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Program.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Program.cs",
+              "RelativeToolTip": "ServiceAPI\\Program.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAIBJwIkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:14:31.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ServiceAPI\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA6wCcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:12:47.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Models\\ApiResponse.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "ServiceAPI\\Models\\ApiResponse.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswBAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:58:54.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "ServiceAPI\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:12:19.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Models\\Product.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\Product.cs",
+              "RelativeToolTip": "ServiceAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:11:18.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TransactionResponse.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\Responses\\TransactionResponse.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Models\\Responses\\TransactionResponse.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\Responses\\TransactionResponse.cs",
+              "RelativeToolTip": "ServiceAPI\\Models\\Responses\\TransactionResponse.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:12:52.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Authentication\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Authentication\\ApplicationUser.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Authentication\\ApplicationUser.cs",
+              "RelativeToolTip": "ServiceAPI\\Authentication\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:11:41.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Authentication\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Authentication\\JwtMiddleware.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Authentication\\JwtMiddleware.cs",
+              "RelativeToolTip": "ServiceAPI\\Authentication\\JwtMiddleware.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:11:44.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Context\\DapperContext.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Context\\DapperContext.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Context\\DapperContext.cs",
+              "RelativeToolTip": "ServiceAPI\\Context\\DapperContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:11:54.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthServiceResponse.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\AuthServiceResponse.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\AuthServiceResponse.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\AuthServiceResponse.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Auth\\AuthServiceResponse.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA4wAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:56:16.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Services\\AuthService.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Services\\AuthService.cs",
+              "RelativeToolTip": "IdentityServer\\Services\\AuthService.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAQwI0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T05:13:51.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SignUpRequest.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Account\\SignUpRequest.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Account\\SignUpRequest.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Account\\SignUpRequest.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Account\\SignUpRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:51:11.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Response.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Response.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:27:17.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Program.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Program.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Program.cs",
+              "RelativeToolTip": "IdentityServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T05:46:08.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "OcelotAPIGateway\\appsettings.json",
+              "ToolTip": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\appsettings.json",
+              "RelativeToolTip": "OcelotAPIGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T03:12:15.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\Startup.cs",
+              "RelativeDocumentMoniker": "OcelotAPIGateway\\Startup.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\Startup.cs",
+              "RelativeToolTip": "OcelotAPIGateway\\Startup.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAIBJwCgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:33:33.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "OcelotAPIGateway\\ocelot.json",
+              "ToolTip": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\ocelot.json",
+              "RelativeToolTip": "OcelotAPIGateway\\ocelot.json",
+              "ViewState": "AgIAAFMAAAAAAAAAAABRwAMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T03:01:29.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\Dockerfile",
+              "RelativeDocumentMoniker": "OcelotAPIGateway\\Dockerfile",
+              "ToolTip": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\Dockerfile",
+              "RelativeToolTip": "OcelotAPIGateway\\Dockerfile",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-13T03:12:11.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\Program.cs",
+              "RelativeDocumentMoniker": "OcelotAPIGateway\\Program.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\Program.cs",
+              "RelativeToolTip": "OcelotAPIGateway\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T03:01:26.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "OcelotAPIGateway\\WeatherForecast.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\WeatherForecast.cs",
+              "RelativeToolTip": "OcelotAPIGateway\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T11:05:44.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OcelotAPIGateway.csproj",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\OcelotAPIGateway.csproj",
+              "RelativeDocumentMoniker": "OcelotAPIGateway\\OcelotAPIGateway.csproj",
+              "ToolTip": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\OcelotAPIGateway.csproj",
+              "RelativeToolTip": "OcelotAPIGateway\\OcelotAPIGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-16T05:44:24.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\appsettings.json",
+              "RelativeDocumentMoniker": "IdentityServer\\appsettings.json",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\appsettings.json",
+              "RelativeToolTip": "IdentityServer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T05:43:16.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Utils\\Utils.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Utils\\Utils.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Utils\\Utils.cs",
+              "RelativeToolTip": "IdentityServer\\Utils\\Utils.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T05:37:31.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Utils\\Utils.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Utils\\Utils.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Utils\\Utils.cs",
+              "RelativeToolTip": "ServiceAPI\\Utils\\Utils.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:14:23.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserCompanyDto.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Dto\\UserCompanyDto.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Domains\\Dto\\UserCompanyDto.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Dto\\UserCompanyDto.cs",
+              "RelativeToolTip": "IdentityServer\\Domains\\Dto\\UserCompanyDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA4wAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:21:31.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserAddNewParam.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Param\\UserAddNewParam.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Domains\\Param\\UserAddNewParam.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Param\\UserAddNewParam.cs",
+              "RelativeToolTip": "IdentityServer\\Domains\\Param\\UserAddNewParam.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIA9wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:26:20.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Domains\\Entities\\User.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Entities\\User.cs",
+              "RelativeToolTip": "IdentityServer\\Domains\\Entities\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA9wA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:23:39.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "log-2024123016.txt",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Logs\\log-2024123016.txt",
+              "RelativeDocumentMoniker": "IdentityServer\\Logs\\log-2024123016.txt",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Logs\\log-2024123016.txt",
+              "RelativeToolTip": "IdentityServer\\Logs\\log-2024123016.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-20T08:37:01.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ServiceUrlRepository.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Repositories\\ServiceUrlRepository.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Repositories\\ServiceUrlRepository.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Repositories\\ServiceUrlRepository.cs",
+              "RelativeToolTip": "IdentityServer\\Repositories\\ServiceUrlRepository.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAWwGsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:44:27.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ServiceUrl.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Entities\\ServiceUrl.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Domains\\Entities\\ServiceUrl.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Entities\\ServiceUrl.cs",
+              "RelativeToolTip": "IdentityServer\\Domains\\Entities\\ServiceUrl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:23:35.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "IdentityServer\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAWwDgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T05:10:50.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IdentityServer\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IdentityServer\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T08:45:31.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IdentityServer",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\IdentityServer.csproj",
+              "RelativeDocumentMoniker": "IdentityServer\\IdentityServer.csproj",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\IdentityServer.csproj",
+              "RelativeToolTip": "IdentityServer\\IdentityServer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-13T08:45:27.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Guard.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Guard.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Guard.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Guard.cs",
+              "RelativeToolTip": "IdentityServer\\Guard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T05:46:04.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GlobalData.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\GlobalData.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\GlobalData.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\GlobalData.cs",
+              "RelativeToolTip": "IdentityServer\\GlobalData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T05:45:59.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\GlobalUsings.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\GlobalUsings.cs",
+              "RelativeToolTip": "IdentityServer\\GlobalUsings.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T05:46:01.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IdentityServer.csproj",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\IdentityServer.csproj",
+              "RelativeDocumentMoniker": "IdentityServer\\IdentityServer.csproj",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\IdentityServer.csproj",
+              "RelativeToolTip": "IdentityServer\\IdentityServer.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-13T08:45:05.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DateTimeParse.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Utils\\DateTimeParse.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Utils\\DateTimeParse.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Utils\\DateTimeParse.cs",
+              "RelativeToolTip": "ServiceAPI\\Utils\\DateTimeParse.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAIBJwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:39:34.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ServiceAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ServiceAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAACAAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T11:11:09.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Utils\\Constant.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Utils\\Constant.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Utils\\Constant.cs",
+              "RelativeToolTip": "ServiceAPI\\Utils\\Constant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:14:21.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ServiceAPI.http",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\ServiceAPI.http",
+              "RelativeDocumentMoniker": "ServiceAPI\\ServiceAPI.http",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\ServiceAPI.http",
+              "RelativeToolTip": "ServiceAPI\\ServiceAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-16T16:43:58.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CallAPIHttpClient.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Utils\\CallAPIHttpClient.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Utils\\CallAPIHttpClient.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Utils\\CallAPIHttpClient.cs",
+              "RelativeToolTip": "ServiceAPI\\Utils\\CallAPIHttpClient.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:14:18.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Services\\VehicleService.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Services\\VehicleService.cs",
+              "RelativeToolTip": "ServiceAPI\\Services\\VehicleService.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:09:38.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Services\\CustomerService.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Services\\CustomerService.cs",
+              "RelativeToolTip": "ServiceAPI\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwDQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:15:12.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Repositories\\VehicleRepository.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\VehicleRepository.cs",
+              "RelativeToolTip": "ServiceAPI\\Repositories\\VehicleRepository.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAowIQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:14:06.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Repositories\\TransactionRepository.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\TransactionRepository.cs",
+              "RelativeToolTip": "ServiceAPI\\Repositories\\TransactionRepository.cs",
+              "ViewState": "AgIAAPMDAAAAAAAAAIBJwOwDAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:57:41.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Services\\TransactionService.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Services\\TransactionService.cs",
+              "RelativeToolTip": "ServiceAPI\\Services\\TransactionService.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAIBJwN4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T02:45:06.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "ServiceAPI\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:51:58.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IVehicleRepository.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\Interfaces\\IVehicleRepository.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Repositories\\Interfaces\\IVehicleRepository.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\Interfaces\\IVehicleRepository.cs",
+              "RelativeToolTip": "ServiceAPI\\Repositories\\Interfaces\\IVehicleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:13:31.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\Interfaces\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Repositories\\Interfaces\\ITransactionRepository.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\Interfaces\\ITransactionRepository.cs",
+              "RelativeToolTip": "ServiceAPI\\Repositories\\Interfaces\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T02:49:40.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "ServiceAPI\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:16:12.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "TransactionTypeMD.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\Transaction\\TransactionTypeMD.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Models\\Transaction\\TransactionTypeMD.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\Transaction\\TransactionTypeMD.cs",
+              "RelativeToolTip": "ServiceAPI\\Models\\Transaction\\TransactionTypeMD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:13:13.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "TransactionResponse.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\Transaction\\TransactionResponse.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Models\\Transaction\\TransactionResponse.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\Transaction\\TransactionResponse.cs",
+              "RelativeToolTip": "ServiceAPI\\Models\\Transaction\\TransactionResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:27:20.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "TransactionRequest.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\Transaction\\TransactionRequest.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Models\\Transaction\\TransactionRequest.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\Transaction\\TransactionRequest.cs",
+              "RelativeToolTip": "ServiceAPI\\Models\\Transaction\\TransactionRequest.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAA6wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:13:03.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\MD\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Models\\MD\\Vehicle.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\MD\\Vehicle.cs",
+              "RelativeToolTip": "ServiceAPI\\Models\\MD\\Vehicle.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:12:27.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "PageRequest.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\MD\\PageRequest.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Models\\MD\\PageRequest.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\MD\\PageRequest.cs",
+              "RelativeToolTip": "ServiceAPI\\Models\\MD\\PageRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:06:19.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\MD\\Customer.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Models\\MD\\Customer.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\MD\\Customer.cs",
+              "RelativeToolTip": "ServiceAPI\\Models\\MD\\Customer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T03:13:34.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "BOSL.dll - 1 [Neutral] - Version",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Lib\\BOSL.dll",
+              "RelativeDocumentMoniker": "ServiceAPI\\Lib\\BOSL.dll",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Lib\\BOSL.dll - 1 [Neutral] - Version",
+              "RelativeToolTip": "ServiceAPI\\Lib\\BOSL.dll - 1 [Neutral] - Version",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-08-16T15:12:09.833Z",
+              "EditorCaption": " - 1 [Neutral] - Version"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "SystemEnum.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Enums\\SystemEnum.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Enums\\SystemEnum.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Enums\\SystemEnum.cs",
+              "RelativeToolTip": "ServiceAPI\\Enums\\SystemEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:12:25.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "RoleEnum.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Enums\\RoleEnum.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Enums\\RoleEnum.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Enums\\RoleEnum.cs",
+              "RelativeToolTip": "ServiceAPI\\Enums\\RoleEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:12:23.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "RBDMSEnum.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Enums\\RBDMSEnum.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Enums\\RBDMSEnum.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Enums\\RBDMSEnum.cs",
+              "RelativeToolTip": "ServiceAPI\\Enums\\RBDMSEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:12:19.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "BOSL.dll",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Lib\\BOSL.dll",
+              "RelativeDocumentMoniker": "ServiceAPI\\Lib\\BOSL.dll",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Lib\\BOSL.dll",
+              "RelativeToolTip": "ServiceAPI\\Lib\\BOSL.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-08-13T11:12:29.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "ServiceAPI\\Controllers\\VehicleController.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "ServiceAPI\\Controllers\\VehicleController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T03:20:27.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ServiceAPI.csproj",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\ServiceAPI.csproj",
+              "RelativeDocumentMoniker": "ServiceAPI\\ServiceAPI.csproj",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\ServiceAPI.csproj",
+              "RelativeToolTip": "ServiceAPI\\ServiceAPI.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-13T10:51:09.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "ServiceAPI\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "ServiceAPI\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-08-13T11:11:22.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "OcelotAPIGateway\\appsettings.Development.json",
+              "ToolTip": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\appsettings.Development.json",
+              "RelativeToolTip": "OcelotAPIGateway\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T06:05:37.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "OcelotAPIGateway\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "OcelotAPIGateway\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-08-16T06:08:32.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "FolderProfile1.pubxml",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\Properties\\PublishProfiles\\FolderProfile1.pubxml",
+              "RelativeDocumentMoniker": "OcelotAPIGateway\\Properties\\PublishProfiles\\FolderProfile1.pubxml",
+              "ToolTip": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\Properties\\PublishProfiles\\FolderProfile1.pubxml",
+              "RelativeToolTip": "OcelotAPIGateway\\Properties\\PublishProfiles\\FolderProfile1.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-08-16T06:08:35.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "OcelotAPIGateway",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\OcelotAPIGateway.csproj",
+              "RelativeDocumentMoniker": "OcelotAPIGateway\\OcelotAPIGateway.csproj",
+              "ToolTip": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\OcelotAPIGateway.csproj",
+              "RelativeToolTip": "OcelotAPIGateway\\OcelotAPIGateway.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-16T06:05:25.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Dockerfile",
+              "RelativeDocumentMoniker": "IdentityServer\\Dockerfile",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Dockerfile",
+              "RelativeToolTip": "IdentityServer\\Dockerfile",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-16T05:45:46.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Utils\\Constant.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Utils\\Constant.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Utils\\Constant.cs",
+              "RelativeToolTip": "IdentityServer\\Utils\\Constant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T05:37:25.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "CallAPIHttpClient.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Utils\\CallAPIHttpClient.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Utils\\CallAPIHttpClient.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Utils\\CallAPIHttpClient.cs",
+              "RelativeToolTip": "IdentityServer\\Utils\\CallAPIHttpClient.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIBJwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T05:30:29.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "IdentityServer\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:44:16.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IServiceUrlRepository.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Repositories\\Interfaces\\IServiceUrlRepository.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Repositories\\Interfaces\\IServiceUrlRepository.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Repositories\\Interfaces\\IServiceUrlRepository.cs",
+              "RelativeToolTip": "IdentityServer\\Repositories\\Interfaces\\IServiceUrlRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA6wAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:41:46.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ISecretGeneratorProvider.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Providers\\SecretGenerator\\ISecretGeneratorProvider.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Providers\\SecretGenerator\\ISecretGeneratorProvider.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Providers\\SecretGenerator\\ISecretGeneratorProvider.cs",
+              "RelativeToolTip": "IdentityServer\\Providers\\SecretGenerator\\ISecretGeneratorProvider.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:41:41.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Contexts\\DapperContext.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Contexts\\DapperContext.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Contexts\\DapperContext.cs",
+              "RelativeToolTip": "IdentityServer\\Contexts\\DapperContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:57:07.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Secret160BitRandomGeneratorProvider.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Providers\\SecretGenerator\\Implementations\\Secret160BitRandomGeneratorProvider.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Providers\\SecretGenerator\\Implementations\\Secret160BitRandomGeneratorProvider.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Providers\\SecretGenerator\\Implementations\\Secret160BitRandomGeneratorProvider.cs",
+              "RelativeToolTip": "IdentityServer\\Providers\\SecretGenerator\\Implementations\\Secret160BitRandomGeneratorProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:41:15.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Secret128BitRandomGeneratorProvider.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Providers\\SecretGenerator\\Implementations\\Secret128BitRandomGeneratorProvider.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Providers\\SecretGenerator\\Implementations\\Secret128BitRandomGeneratorProvider.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Providers\\SecretGenerator\\Implementations\\Secret128BitRandomGeneratorProvider.cs",
+              "RelativeToolTip": "IdentityServer\\Providers\\SecretGenerator\\Implementations\\Secret128BitRandomGeneratorProvider.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:41:12.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "HMAC256UserIdSecretGeneratorProvider.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Providers\\SecretGenerator\\Implementations\\HMAC256UserIdSecretGeneratorProvider.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Providers\\SecretGenerator\\Implementations\\HMAC256UserIdSecretGeneratorProvider.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Providers\\SecretGenerator\\Implementations\\HMAC256UserIdSecretGeneratorProvider.cs",
+              "RelativeToolTip": "IdentityServer\\Providers\\SecretGenerator\\Implementations\\HMAC256UserIdSecretGeneratorProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:38:39.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "BaseRandomSecretGeneratorProvider.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Providers\\SecretGenerator\\Implementations\\BaseRandomSecretGeneratorProvider.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Providers\\SecretGenerator\\Implementations\\BaseRandomSecretGeneratorProvider.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Providers\\SecretGenerator\\Implementations\\BaseRandomSecretGeneratorProvider.cs",
+              "RelativeToolTip": "IdentityServer\\Providers\\SecretGenerator\\Implementations\\BaseRandomSecretGeneratorProvider.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:27:53.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "SerilogSetting.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\SerilogSetting.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\SerilogSetting.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\SerilogSetting.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\SerilogSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:27:21.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "BasicResponse.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\BasicResponse.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\BasicResponse.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\BasicResponse.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\BasicResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:27:15.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "RSACrypt.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Settings\\RSACrypt.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Settings\\RSACrypt.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Settings\\RSACrypt.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Settings\\RSACrypt.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAIBJwDIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:14:00.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "OTPSettings.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Settings\\OTPSettings.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Settings\\OTPSettings.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Settings\\OTPSettings.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Settings\\OTPSettings.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:13:47.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "ISettings.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Settings\\ISettings.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Settings\\ISettings.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Settings\\ISettings.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Settings\\ISettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:13:42.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Audience.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Settings\\Audience.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Settings\\Audience.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Settings\\Audience.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Settings\\Audience.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:11:56.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Responses\\Response.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Responses\\Response.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Responses\\Response.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Responses\\Response.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:11:00.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "PlxAuthenticateResponse.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Responses\\PlxAuthenticateResponse.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Responses\\PlxAuthenticateResponse.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Responses\\PlxAuthenticateResponse.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Responses\\PlxAuthenticateResponse.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:09:57.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "ValidateOTPResponse.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\OTPResult\\ValidateOTPResponse.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\OTPResult\\ValidateOTPResponse.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\OTPResult\\ValidateOTPResponse.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\OTPResult\\ValidateOTPResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:09:50.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ValidateOtpRequest.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\OTPResult\\ValidateOtpRequest.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\OTPResult\\ValidateOtpRequest.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\OTPResult\\ValidateOtpRequest.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\OTPResult\\ValidateOtpRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:09:48.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "SendOTPResponse.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\OTPResult\\SendOTPResponse.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\OTPResult\\SendOTPResponse.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\OTPResult\\SendOTPResponse.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\OTPResult\\SendOTPResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:09:47.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "SendOtpRequest.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\OTPResult\\SendOtpRequest.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\OTPResult\\SendOtpRequest.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\OTPResult\\SendOtpRequest.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\OTPResult\\SendOtpRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:09:46.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "OTPResult.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\OTPResult\\OTPResult.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\OTPResult\\OTPResult.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\OTPResult\\OTPResult.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\OTPResult\\OTPResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:09:41.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "SMSDriverPurchaseRequest.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\SMSDriverPurchaseRequest.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\SMSDriverPurchaseRequest.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\SMSDriverPurchaseRequest.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Auth\\SMSDriverPurchaseRequest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:09:31.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "SignInResponse.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\SignInResponse.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\SignInResponse.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\SignInResponse.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Auth\\SignInResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:08:56.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "SignInRequest.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\SignInRequest.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\SignInRequest.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\SignInRequest.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Auth\\SignInRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:08:53.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "SendPinSMSRequest.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\SendPinSMSRequest.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\SendPinSMSRequest.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\SendPinSMSRequest.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Auth\\SendPinSMSRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:08:51.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "RefreshBothTokenRequest.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\RefreshBothTokenRequest.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\RefreshBothTokenRequest.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\RefreshBothTokenRequest.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Auth\\RefreshBothTokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:08:48.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "GetCryptKeyResponse.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\GetCryptKeyResponse.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\GetCryptKeyResponse.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\GetCryptKeyResponse.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Auth\\GetCryptKeyResponse.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:03:42.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "CreateUserByPLXIDResponse.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\CreateUserByPLXIDResponse.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\CreateUserByPLXIDResponse.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\CreateUserByPLXIDResponse.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Auth\\CreateUserByPLXIDResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:01:22.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "CreateUserByPLXIDRequest.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\CreateUserByPLXIDRequest.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\CreateUserByPLXIDRequest.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\CreateUserByPLXIDRequest.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Auth\\CreateUserByPLXIDRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:56:34.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "CheckPinRequest.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\CheckPinRequest.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\CheckPinRequest.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\CheckPinRequest.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Auth\\CheckPinRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:56:28.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "AuthServiceRequest.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\AuthServiceRequest.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\AuthServiceRequest.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\AuthServiceRequest.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Auth\\AuthServiceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:51:56.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "SignUpResponse.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Account\\SignUpResponse.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Account\\SignUpResponse.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Account\\SignUpResponse.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Account\\SignUpResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:51:24.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "SendOTPPasswordRequest.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Account\\SendOTPPasswordRequest.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Account\\SendOTPPasswordRequest.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Account\\SendOTPPasswordRequest.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Account\\SendOTPPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:51:09.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "ResetPasswordRequest.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Account\\ResetPasswordRequest.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Account\\ResetPasswordRequest.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Account\\ResetPasswordRequest.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Account\\ResetPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:51:08.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "MapUserVehicleRequest.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Account\\MapUserVehicleRequest.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Account\\MapUserVehicleRequest.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Account\\MapUserVehicleRequest.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Account\\MapUserVehicleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:48:14.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "ForgotPasswordRequest.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Account\\ForgotPasswordRequest.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Account\\ForgotPasswordRequest.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Account\\ForgotPasswordRequest.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Account\\ForgotPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:48:12.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "ChangePasswordRequest.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Account\\ChangePasswordRequest.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Models\\Account\\ChangePasswordRequest.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Account\\ChangePasswordRequest.cs",
+              "RelativeToolTip": "IdentityServer\\Models\\Account\\ChangePasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:47:55.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "log-2024112318.txt",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Logs\\log-2024112318.txt",
+              "RelativeDocumentMoniker": "IdentityServer\\Logs\\log-2024112318.txt",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Logs\\log-2024112318.txt",
+              "RelativeToolTip": "IdentityServer\\Logs\\log-2024112318.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-16T03:47:50.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "BOSDLL.dll",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Lib\\BOSDLL.dll",
+              "RelativeDocumentMoniker": "IdentityServer\\Lib\\BOSDLL.dll",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Lib\\BOSDLL.dll",
+              "RelativeToolTip": "IdentityServer\\Lib\\BOSDLL.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-08-16T03:47:47.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "SQLMethodHelper.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Helpers\\SQLMethodHelper.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Helpers\\SQLMethodHelper.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Helpers\\SQLMethodHelper.cs",
+              "RelativeToolTip": "IdentityServer\\Helpers\\SQLMethodHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:47:40.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "MethodHelper.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Helpers\\MethodHelper.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Helpers\\MethodHelper.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Helpers\\MethodHelper.cs",
+              "RelativeToolTip": "IdentityServer\\Helpers\\MethodHelper.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwB8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:39:04.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "LoggingHelper.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Helpers\\LoggingHelper.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Helpers\\LoggingHelper.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Helpers\\LoggingHelper.cs",
+              "RelativeToolTip": "IdentityServer\\Helpers\\LoggingHelper.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwCAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:33:30.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "IdentityHelper.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Helpers\\IdentityHelper.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Helpers\\IdentityHelper.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Helpers\\IdentityHelper.cs",
+              "RelativeToolTip": "IdentityServer\\Helpers\\IdentityHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:33:27.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Helpers\\FileHelper.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Helpers\\FileHelper.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Helpers\\FileHelper.cs",
+              "RelativeToolTip": "IdentityServer\\Helpers\\FileHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:33:08.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "ExceptionHelper.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Helpers\\ExceptionHelper.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Helpers\\ExceptionHelper.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Helpers\\ExceptionHelper.cs",
+              "RelativeToolTip": "IdentityServer\\Helpers\\ExceptionHelper.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:06:18.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "AssemblyHelper.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Helpers\\AssemblyHelper.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Helpers\\AssemblyHelper.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Helpers\\AssemblyHelper.cs",
+              "RelativeToolTip": "IdentityServer\\Helpers\\AssemblyHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:05:19.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "Guard.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Guards\\Guard.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Guards\\Guard.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Guards\\Guard.cs",
+              "RelativeToolTip": "IdentityServer\\Guards\\Guard.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T15:34:37.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "DictionaryExtensions.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Extensions\\DictionaryExtensions.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Extensions\\DictionaryExtensions.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Extensions\\DictionaryExtensions.cs",
+              "RelativeToolTip": "IdentityServer\\Extensions\\DictionaryExtensions.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAzwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T15:18:58.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "DateTimeConverterTimeZone.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Extensions\\DateTimeConverterTimeZone.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Extensions\\DateTimeConverterTimeZone.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Extensions\\DateTimeConverterTimeZone.cs",
+              "RelativeToolTip": "IdentityServer\\Extensions\\DateTimeConverterTimeZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:01:23.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "DateOnlyJsonConverter.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Extensions\\DateOnlyJsonConverter.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Extensions\\DateOnlyJsonConverter.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Extensions\\DateOnlyJsonConverter.cs",
+              "RelativeToolTip": "IdentityServer\\Extensions\\DateOnlyJsonConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:57:09.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "DateOnlyTypeConverter.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Extensions\\DateOnlyTypeConverter.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Extensions\\DateOnlyTypeConverter.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Extensions\\DateOnlyTypeConverter.cs",
+              "RelativeToolTip": "IdentityServer\\Extensions\\DateOnlyTypeConverter.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:57:07.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "DapperExtension.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Extensions\\DapperExtension.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Extensions\\DapperExtension.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Extensions\\DapperExtension.cs",
+              "RelativeToolTip": "IdentityServer\\Extensions\\DapperExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:51:26.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "DateTimeParse.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Extensions\\DateTimeParse.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Extensions\\DateTimeParse.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Extensions\\DateTimeParse.cs",
+              "RelativeToolTip": "IdentityServer\\Extensions\\DateTimeParse.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T02:55:24.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "UnauthorizedException.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Exceptions\\UnauthorizedException.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Exceptions\\UnauthorizedException.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Exceptions\\UnauthorizedException.cs",
+              "RelativeToolTip": "IdentityServer\\Exceptions\\UnauthorizedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:51:20.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "GlobalInternalServerException.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Exceptions\\GlobalInternalServerException.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Exceptions\\GlobalInternalServerException.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Exceptions\\GlobalInternalServerException.cs",
+              "RelativeToolTip": "IdentityServer\\Exceptions\\GlobalInternalServerException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:41:42.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "ForbiddenException.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Exceptions\\ForbiddenException.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Exceptions\\ForbiddenException.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Exceptions\\ForbiddenException.cs",
+              "RelativeToolTip": "IdentityServer\\Exceptions\\ForbiddenException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:41:35.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "IdentityServer\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:32:59.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 140,
+              "Title": "SystemEnum.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Enums\\SystemEnum.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Enums\\SystemEnum.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Enums\\SystemEnum.cs",
+              "RelativeToolTip": "IdentityServer\\Enums\\SystemEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:32:36.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 141,
+              "Title": "RoleEnum.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Enums\\RoleEnum.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Enums\\RoleEnum.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Enums\\RoleEnum.cs",
+              "RelativeToolTip": "IdentityServer\\Enums\\RoleEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:29:15.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 142,
+              "Title": "RBDMSEnum.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Enums\\RBDMSEnum.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Enums\\RBDMSEnum.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Enums\\RBDMSEnum.cs",
+              "RelativeToolTip": "IdentityServer\\Enums\\RBDMSEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:29:03.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 143,
+              "Title": "UserPin.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Entities\\UserPin.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Domains\\Entities\\UserPin.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Entities\\UserPin.cs",
+              "RelativeToolTip": "IdentityServer\\Domains\\Entities\\UserPin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:23:42.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 144,
+              "Title": "UserSetting.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Dto\\UserSetting.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Domains\\Dto\\UserSetting.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Dto\\UserSetting.cs",
+              "RelativeToolTip": "IdentityServer\\Domains\\Dto\\UserSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:23:09.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 145,
+              "Title": "PlxIdInfoDto.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Dto\\PlxIdInfoDto.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Domains\\Dto\\PlxIdInfoDto.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Dto\\PlxIdInfoDto.cs",
+              "RelativeToolTip": "IdentityServer\\Domains\\Dto\\PlxIdInfoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:21:20.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 146,
+              "Title": "LogSMS.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Dto\\LogSMS.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Domains\\Dto\\LogSMS.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Dto\\LogSMS.cs",
+              "RelativeToolTip": "IdentityServer\\Domains\\Dto\\LogSMS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:21:01.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 147,
+              "Title": "CustomerInfoDto.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Dto\\CustomerInfoDto.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Domains\\Dto\\CustomerInfoDto.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Dto\\CustomerInfoDto.cs",
+              "RelativeToolTip": "IdentityServer\\Domains\\Dto\\CustomerInfoDto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:14:14.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 148,
+              "Title": "CheckPinDto.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Dto\\CheckPinDto.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Domains\\Dto\\CheckPinDto.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Dto\\CheckPinDto.cs",
+              "RelativeToolTip": "IdentityServer\\Domains\\Dto\\CheckPinDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:04:07.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 149,
+              "Title": "StringConverter.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Converters\\StringConverter.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Converters\\StringConverter.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Converters\\StringConverter.cs",
+              "RelativeToolTip": "IdentityServer\\Converters\\StringConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:03:56.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 150,
+              "Title": "IOneWayConverter.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Converters\\IOneWayConverter.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Converters\\IOneWayConverter.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Converters\\IOneWayConverter.cs",
+              "RelativeToolTip": "IdentityServer\\Converters\\IOneWayConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:23:06.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 151,
+              "Title": "HOTPValueLongToByteArrayConverter.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Converters\\HOTPValueLongToByteArrayConverter.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Converters\\HOTPValueLongToByteArrayConverter.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Converters\\HOTPValueLongToByteArrayConverter.cs",
+              "RelativeToolTip": "IdentityServer\\Converters\\HOTPValueLongToByteArrayConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:22:51.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 152,
+              "Title": "EFContext.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Contexts\\EFContext.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Contexts\\EFContext.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Contexts\\EFContext.cs",
+              "RelativeToolTip": "IdentityServer\\Contexts\\EFContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:04:42.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 153,
+              "Title": "HttpClientService.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Communication\\Sync\\HttpClientService.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Communication\\Sync\\HttpClientService.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Communication\\Sync\\HttpClientService.cs",
+              "RelativeToolTip": "IdentityServer\\Communication\\Sync\\HttpClientService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:52:39.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 154,
+              "Title": "GlobalData.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Common\\GlobalData.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Common\\GlobalData.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Common\\GlobalData.cs",
+              "RelativeToolTip": "IdentityServer\\Common\\GlobalData.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA6wA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:51:50.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 155,
+              "Title": "ServiceAPI",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\ServiceAPI.csproj",
+              "RelativeDocumentMoniker": "ServiceAPI\\ServiceAPI.csproj",
+              "ToolTip": "D:\\APIERP\\APIERP\\ServiceAPI\\ServiceAPI.csproj",
+              "RelativeToolTip": "ServiceAPI\\ServiceAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-13T11:11:06.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 156,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Authentication\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Authentication\\JwtMiddleware.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Authentication\\JwtMiddleware.cs",
+              "RelativeToolTip": "IdentityServer\\Authentication\\JwtMiddleware.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:28:52.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 157,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Authentication\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Authentication\\ApplicationUser.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Authentication\\ApplicationUser.cs",
+              "RelativeToolTip": "IdentityServer\\Authentication\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:21:22.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 158,
+              "Title": "RoleRejectedAttribute.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Attributes\\RoleRejectedAttribute.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Attributes\\RoleRejectedAttribute.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Attributes\\RoleRejectedAttribute.cs",
+              "RelativeToolTip": "IdentityServer\\Attributes\\RoleRejectedAttribute.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:21:07.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 159,
+              "Title": "RoleAttribute.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Attributes\\RoleAttribute.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Attributes\\RoleAttribute.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Attributes\\RoleAttribute.cs",
+              "RelativeToolTip": "IdentityServer\\Attributes\\RoleAttribute.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:12:09.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 160,
+              "Title": "RoleAcceptedAttribute.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Attributes\\RoleAcceptedAttribute.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Attributes\\RoleAcceptedAttribute.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Attributes\\RoleAcceptedAttribute.cs",
+              "RelativeToolTip": "IdentityServer\\Attributes\\RoleAcceptedAttribute.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:09:07.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 161,
+              "Title": "CustomRouteAttribute.cs",
+              "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Attributes\\CustomRouteAttribute.cs",
+              "RelativeDocumentMoniker": "IdentityServer\\Attributes\\CustomRouteAttribute.cs",
+              "ToolTip": "D:\\APIERP\\APIERP\\IdentityServer\\Attributes\\CustomRouteAttribute.cs",
+              "RelativeToolTip": "IdentityServer\\Attributes\\CustomRouteAttribute.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T08:46:42.961Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 44,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

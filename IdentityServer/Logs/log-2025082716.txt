@@ -1,0 +1,85 @@
+[INF] ==> [27/08/2025 16:00:21] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"adm123456"} 
+           Response => StatusCode: 200, Body: {"code":"03","message":"Mật khẩu không đúng.","data":null}
+[INF] ==> [27/08/2025 16:01:15] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 16:01:15","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI0NzkwMDVjYi04ZWIzLTQ1ZDUtOGJhNC03MTM3YTA5MjM0NTEiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyODUyNzUsImV4cCI6MjA2NzMyNTI3NSwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.Cuh5HG6czGd4manZ6k8sMymLPAlWWHkuLQZqMMxiwZzVR0a-xtmacsEqRWT92pR_DXp6udH1FVhU5n-sdlwinQ"}}
+[INF] ==> [27/08/2025 16:50:15] Now listening on: https://localhost:62362
+[INF] ==> [27/08/2025 16:50:15] Now listening on: http://localhost:62363
+[INF] ==> [27/08/2025 16:50:15] Application started. Press Ctrl+C to shut down.
+[INF] ==> [27/08/2025 16:50:15] Hosting environment: Development
+[INF] ==> [27/08/2025 16:50:15] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [27/08/2025 16:50:23] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [27/08/2025 16:50:29] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [27/08/2025 16:50:30] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [27/08/2025 16:50:31] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [27/08/2025 16:50:31] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [27/08/2025 16:50:35] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [27/08/2025 16:50:42] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [27/08/2025 16:51:08] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"359275598603616605615552552554550555555450437"} 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [27/08/2025 16:51:09] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [27/08/2025 16:51:15] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [27/08/2025 16:52:41] Now listening on: https://localhost:62362
+[INF] ==> [27/08/2025 16:52:41] Now listening on: http://localhost:62363
+[INF] ==> [27/08/2025 16:52:42] Application started. Press Ctrl+C to shut down.
+[INF] ==> [27/08/2025 16:52:42] Hosting environment: Development
+[INF] ==> [27/08/2025 16:52:42] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [27/08/2025 16:52:55] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [27/08/2025 16:53:07] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [27/08/2025 16:55:20] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 16:55:20","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI2OTkwNzc2Zi00MGMyLTQzYWYtOWJkZi04ZWFmNWNiOTIxZTQiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyODg1MjAsImV4cCI6MjA2NzMyODUyMCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.yLHeapp8ylrPwKrPAbv7Urz9meKW5ZH_dJm-CoIojLUYzGapox1dQ8xay6M7oicEHUkCZ36H2ohjeB0RC9g1UA"}}

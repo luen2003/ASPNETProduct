@@ -1,0 +1,30 @@
+[INF] ==> [07/01/2025 10:36:26] Now listening on: https://localhost:62362
+[INF] ==> [07/01/2025 10:36:26] Now listening on: http://localhost:62363
+[INF] ==> [07/01/2025 10:36:26] Application started. Press Ctrl+C to shut down.
+[INF] ==> [07/01/2025 10:36:26] Hosting environment: Development
+[INF] ==> [07/01/2025 10:36:26] Content root path: E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\IdentityServer\
+[INF] ==> [07/01/2025 10:38:26] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"Piacom@123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"07/01/2025 10:38:26","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMTgwMTI4IiwianRpIjoiZjRiMmI2OWYtZDU0MS00NGZkLWE3M2EtOTk3Njc4NWI1MGZkIiwibmFtZWlkIjoiMTY4a2llbmh4IiwiUG9zSWQiOiIxNjgiLCJVc2VySWQiOiIxNjhraWVuaHgiLCJSb2xlIjoiVTAiLCJQbHhJZCI6IiIsIm5iZiI6MTczNjIyMTEwNiwiZXhwIjoyMDQ3MjYxMTA2LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwNzkiLCJhdWQiOiJWaW5oRFEifQ.4X7SkLgaB3QklZrk6vtZP7GvzsNHtT_z6LF30b5Q_ema3Sa9r0GgFCmfkjxoILdFjChyzqYeyYrvSw2SVTJOpQ"}}
+[INF] ==> [07/01/2025 10:39:52] Now listening on: https://localhost:62362
+[INF] ==> [07/01/2025 10:39:52] Now listening on: http://localhost:62363
+[INF] ==> [07/01/2025 10:39:52] Application started. Press Ctrl+C to shut down.
+[INF] ==> [07/01/2025 10:39:52] Hosting environment: Development
+[INF] ==> [07/01/2025 10:39:52] Content root path: E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\IdentityServer\
+[INF] ==> [07/01/2025 10:48:28] Now listening on: https://localhost:62362
+[INF] ==> [07/01/2025 10:48:28] Now listening on: http://localhost:62363
+[INF] ==> [07/01/2025 10:48:29] Application started. Press Ctrl+C to shut down.
+[INF] ==> [07/01/2025 10:48:29] Hosting environment: Development
+[INF] ==> [07/01/2025 10:48:29] Content root path: E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\IdentityServer\
+[INF] ==> [07/01/2025 10:49:56] Now listening on: https://localhost:62362
+[INF] ==> [07/01/2025 10:49:56] Now listening on: http://localhost:62363
+[INF] ==> [07/01/2025 10:49:56] Application started. Press Ctrl+C to shut down.
+[INF] ==> [07/01/2025 10:49:56] Hosting environment: Development
+[INF] ==> [07/01/2025 10:49:56] Content root path: E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\IdentityServer\
+[INF] ==> [07/01/2025 10:52:14] Now listening on: https://localhost:62362
+[INF] ==> [07/01/2025 10:52:14] Now listening on: http://localhost:62363
+[INF] ==> [07/01/2025 10:52:14] Application started. Press Ctrl+C to shut down.
+[INF] ==> [07/01/2025 10:52:14] Hosting environment: Development
+[INF] ==> [07/01/2025 10:52:14] Content root path: E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\IdentityServer\

@@ -1,0 +1,20 @@
+[INF] ==> [27/08/2025 13:46:25] Now listening on: https://localhost:62362
+[INF] ==> [27/08/2025 13:46:26] Now listening on: http://localhost:62363
+[INF] ==> [27/08/2025 13:46:26] Application started. Press Ctrl+C to shut down.
+[INF] ==> [27/08/2025 13:46:26] Hosting environment: Development
+[INF] ==> [27/08/2025 13:46:26] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [27/08/2025 13:46:50] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin","password":"admin"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 13:46:50","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwIiwianRpIjoiMzE2N2U1NWMtZjFhNS00MTgyLWJjOTgtYjU4Njc0ZjAxZTM0IiwibmFtZWlkIjoiYWRtaW4iLCJQb3NJZCI6IjAiLCJVc2VySWQiOiJhZG1pbiIsIlJvbGUiOiJVMCIsIlBseElkIjoiIiwibmJmIjoxNzU2Mjc3MjEwLCJleHAiOjIwNjczMTcyMTAsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA3OSIsImF1ZCI6IlZpbmhEUSJ9.u9KMc1ztg8AJIHcAz5MB2JW4PSV1nuF5q-TFDiG3p_J7iyEwdvkHSYFy84qyGXyNTx9BbBcYMCNg5zUPJ9UIDQ"}}
+[INF] ==> [27/08/2025 13:59:07] Now listening on: https://localhost:62362
+[INF] ==> [27/08/2025 13:59:08] Now listening on: http://localhost:62363
+[INF] ==> [27/08/2025 13:59:08] Application started. Press Ctrl+C to shut down.
+[INF] ==> [27/08/2025 13:59:08] Hosting environment: Development
+[INF] ==> [27/08/2025 13:59:08] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [27/08/2025 13:59:48] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin","password":"admin"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 13:59:48","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwIiwianRpIjoiZDg5ZDM4ZDItMzBkNS00NzBhLWEyNGItMjYxNGRkZmM5MWM3IiwibmFtZWlkIjoiYWRtaW4iLCJQb3NJZCI6IjAiLCJVc2VySWQiOiJhZG1pbiIsIlJvbGUiOiJVMCIsIlBseElkIjoiIiwibmJmIjoxNzU2Mjc3OTg4LCJleHAiOjIwNjczMTc5ODgsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA3OSIsImF1ZCI6IlZpbmhEUSJ9.egp1VvTjwfu1wfNMI1R5DScejANAWfRxqzIsrruUIh3lXshOm-hoUI-ezBH0Ir0eS4zmnjagyUeLmsO4nbGdyw"}}

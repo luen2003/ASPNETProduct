@@ -1,0 +1,75 @@
+[INF] ==> [20/08/2025 16:11:04] Now listening on: https://localhost:62362
+[INF] ==> [20/08/2025 16:11:04] Now listening on: http://localhost:62363
+[INF] ==> [20/08/2025 16:11:04] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/08/2025 16:11:04] Hosting environment: Development
+[INF] ==> [20/08/2025 16:11:04] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [20/08/2025 16:14:39] Now listening on: https://localhost:62362
+[INF] ==> [20/08/2025 16:14:39] Now listening on: http://localhost:62363
+[INF] ==> [20/08/2025 16:14:39] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/08/2025 16:14:39] Hosting environment: Development
+[INF] ==> [20/08/2025 16:14:39] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [20/08/2025 16:15:50] Now listening on: https://localhost:62362
+[INF] ==> [20/08/2025 16:15:50] Now listening on: http://localhost:62363
+[INF] ==> [20/08/2025 16:15:50] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/08/2025 16:15:50] Hosting environment: Development
+[INF] ==> [20/08/2025 16:15:50] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [20/08/2025 16:19:14] Now listening on: https://localhost:62362
+[INF] ==> [20/08/2025 16:19:14] Now listening on: http://localhost:62363
+[INF] ==> [20/08/2025 16:19:14] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/08/2025 16:19:14] Hosting environment: Development
+[INF] ==> [20/08/2025 16:19:14] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [20/08/2025 16:21:42] Now listening on: https://localhost:62362
+[INF] ==> [20/08/2025 16:21:42] Now listening on: http://localhost:62363
+[INF] ==> [20/08/2025 16:21:42] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/08/2025 16:21:42] Hosting environment: Development
+[INF] ==> [20/08/2025 16:21:42] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [20/08/2025 16:29:42] Now listening on: https://localhost:62362
+[INF] ==> [20/08/2025 16:29:42] Now listening on: http://localhost:62363
+[INF] ==> [20/08/2025 16:29:42] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/08/2025 16:29:42] Hosting environment: Development
+[INF] ==> [20/08/2025 16:29:42] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [20/08/2025 16:30:48] Now listening on: https://localhost:62362
+[INF] ==> [20/08/2025 16:30:49] Now listening on: http://localhost:62363
+[INF] ==> [20/08/2025 16:30:49] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/08/2025 16:30:49] Hosting environment: Development
+[INF] ==> [20/08/2025 16:30:49] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [20/08/2025 16:36:02] Now listening on: https://localhost:62362
+[INF] ==> [20/08/2025 16:36:02] Now listening on: http://localhost:62363
+[INF] ==> [20/08/2025 16:36:02] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/08/2025 16:36:02] Hosting environment: Development
+[INF] ==> [20/08/2025 16:36:02] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [20/08/2025 16:38:18] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin","password":"admin"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"20/08/2025 16:38:18","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwIiwianRpIjoiNGMzZWI2NTItNjMwZS00MTIyLWE3N2UtNDQzNmM3YzU3NWFmIiwibmFtZWlkIjoiYWRtaW4iLCJQb3NJZCI6IjAiLCJVc2VySWQiOiJhZG1pbiIsIlJvbGUiOiJVMCIsIlBseElkIjoiIiwibmJmIjoxNzU1NjgyNjk4LCJleHAiOjIwNjY3MjI2OTgsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA3OSIsImF1ZCI6IlZpbmhEUSJ9.YJYRvtA27IPh2hd1BySNnLQdZqItiD_SXWucdjPuuoQhG5YWiCt91SJSOXSxB-NmCK3vEzBbsqnvoAa1LNFitA"}}
+[INF] ==> [20/08/2025 16:46:10] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin","password":"admin"} 
+           Response => StatusCode: 400, Body: {"code":"400","message":"Bad request","data":["The JSON object contains a trailing comma at the end which is not supported in this mode. Change the reader options. Path: $ | LineNumber: 4 | BytePositionInLine: 0.","The param field is required."]}
+[INF] ==> [20/08/2025 16:46:41] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin","password":"admin"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"20/08/2025 16:46:41","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwIiwianRpIjoiNjZlNThiODMtMjUyNC00ODUxLTliNDMtZWE1N2JmMGYyYjBkIiwibmFtZWlkIjoiYWRtaW4iLCJQb3NJZCI6IjAiLCJVc2VySWQiOiJhZG1pbiIsIlJvbGUiOiJVMCIsIlBseElkIjoiIiwibmJmIjoxNzU1NjgzMjAxLCJleHAiOjIwNjY3MjMyMDEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA3OSIsImF1ZCI6IlZpbmhEUSJ9.S3366ocHVF_nDZhkOXM7YfEesV4ptoUkji2ISfU1r53WFbkETrIpySf12gBXR8jL9-JBpTYMqeBT4pOr0DZXDg"}}
+[INF] ==> [20/08/2025 16:49:05] Now listening on: https://localhost:62362
+[INF] ==> [20/08/2025 16:49:05] Now listening on: http://localhost:62363
+[INF] ==> [20/08/2025 16:49:05] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/08/2025 16:49:05] Hosting environment: Development
+[INF] ==> [20/08/2025 16:49:05] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [20/08/2025 16:49:35] Now listening on: https://localhost:62362
+[INF] ==> [20/08/2025 16:49:36] Now listening on: http://localhost:62363
+[INF] ==> [20/08/2025 16:49:36] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/08/2025 16:49:36] Hosting environment: Development
+[INF] ==> [20/08/2025 16:49:36] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [20/08/2025 16:50:15] Now listening on: https://localhost:62362
+[INF] ==> [20/08/2025 16:50:15] Now listening on: http://localhost:62363
+[INF] ==> [20/08/2025 16:50:16] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/08/2025 16:50:16] Hosting environment: Development
+[INF] ==> [20/08/2025 16:50:16] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [20/08/2025 16:51:41] Now listening on: https://localhost:62362
+[INF] ==> [20/08/2025 16:51:41] Now listening on: http://localhost:62363
+[INF] ==> [20/08/2025 16:51:41] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/08/2025 16:51:41] Hosting environment: Development
+[INF] ==> [20/08/2025 16:51:41] Content root path: D:\APIERP\APIERP\IdentityServer

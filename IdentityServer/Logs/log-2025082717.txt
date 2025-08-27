@@ -1,0 +1,265 @@
+[INF] ==> [27/08/2025 17:15:26] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [27/08/2025 17:15:28] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [27/08/2025 17:15:28] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [27/08/2025 17:15:52] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [27/08/2025 17:19:23] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:19:23","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJlNjU4YmE0Ni1kNGE1LTQ3YzYtOTYxZC1mNmE3Nzk5MDlkMjgiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyODk5NjMsImV4cCI6MjA2NzMyOTk2MywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.Nv4laCXCmV9DBx3UVvlpa5TnlzvpD7kLVTM7OTsMdaygTyPSL74URkP3OLoZujTkLs-3nS1PFPZmnTnEWX_2sg"}}
+[INF] ==> [27/08/2025 17:19:29] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:19:29","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI3NzdhN2Y4ZC1jMDA5LTRhMmEtODU2NC1iMDQ1ODk2NTY1Y2MiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyODk5NjksImV4cCI6MjA2NzMyOTk2OSwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.0YUQJIk86Sqc_sTKky76wFWtnbqXt7Z5bKsWXTDeo-seyZALhDlTozyKO34FFNrF6azNWjok4hLQPCdQayo9tg"}}
+[INF] ==> [27/08/2025 17:19:44] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:19:44","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiIyYjVlYTU1MS0yOGJkLTQzOTItYTUyYy03ZjZjYjU1MTliMGYiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyODk5ODQsImV4cCI6MjA2NzMyOTk4NCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.w89JNUgfoqLOZF2Ay6qAwJyOhdaISIsGD6PKI4QaJzuzDwdt_ZtoXBthNjEeXFg8ZZI4tQT9XoGZFEsegznYNA"}}
+[INF] ==> [27/08/2025 17:19:44] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:19:44","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI1MjNiZjBjMS01ZGQ4LTRhODQtODU5Yi1kMzY1NTkwODk5NzYiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyODk5ODQsImV4cCI6MjA2NzMyOTk4NCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.bU7Dx-SOSwP07CQhv-7vbhbFRIkLgYH5wEQHKnKlWy4E4FaEd-Ybu4opPWnpola0SfjByA3gbwTjudEVWqsWtw"}}
+[INF] ==> [27/08/2025 17:19:57] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:19:57","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJkNmVlNGZiMi01ZWZkLTQ3N2MtYTllZC02ODg3OTZkZWI1ZWIiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyODk5OTcsImV4cCI6MjA2NzMyOTk5NywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.lxy2Age5dqhrqT91MBZQmCQ4qj0z_lWM4WHo1gMr1sx5sswgY74XL2I32A9qdkns3YWmLQODS_OwlIISG-jZvw"}}
+[INF] ==> [27/08/2025 17:21:34] RemoteIpAddress => ::1
+           Request => Method: GET, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: null 
+           Response => StatusCode: 405, Body: 
+[INF] ==> [27/08/2025 17:22:15] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:22:15","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJkNzM5ZmExMy1lMzk0LTRhY2UtODkyNy1lMzBjNGVlZDViYmMiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTAxMzUsImV4cCI6MjA2NzMzMDEzNSwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.BwJNxY_LYzqjJA8AB7bw3x9a-2NBfPpFlbwFtlVpCqiCOGnYZwHSZk_4lb2k-21vap3lSl9Vz5EIrIxuUyshuw"}}
+[INF] ==> [27/08/2025 17:24:36] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:24:36","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI0NTA3MjUwNi03MTA3LTQ2ZWEtOTc5OS03NDM2MjVhZjA2YjMiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTAyNzYsImV4cCI6MjA2NzMzMDI3NiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.dLzYPhkDYng5TKEaGXlIYrIRqR24J_6eojcHUmyZU94gJGwEW-GEzmfKrlcOhLJhe2AY00a4slMI72kPM6MQWg"}}
+[INF] ==> [27/08/2025 17:24:40] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:24:40","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI5YTVlMDVlYy0wNDhhLTQ4MDktYTJjOS0xNThhMTExMjlkMzkiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTAyODAsImV4cCI6MjA2NzMzMDI4MCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.zn1E3NYG970vT6jgCT7rkSmom6PaWQkAdoCNAuw1Q7krikebtQVG_CL-lVZ2Dw12E1wjoz2PbcMmGVtVCinmYw"}}
+[INF] ==> [27/08/2025 17:24:45] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:24:45","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI3MDZlNzI3My1lNDg2LTQ4YWItOTJhMC02YTYxNDUzY2Y3ZWUiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTAyODUsImV4cCI6MjA2NzMzMDI4NSwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.EvkK2DhNT1F9B4UX6GrjcxKE9qTQkVg3BYhMlDjQwM1eefOPycBD9ipjM4URS7Wr2G9wl5rmMVhS_otAuSkBiQ"}}
+[INF] ==> [27/08/2025 17:24:57] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:24:57","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiIyZjQ5MDE0MC0wZWJkLTQxYmMtYWFhMC01ZjVlM2M3ZTAxMzMiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTAyOTcsImV4cCI6MjA2NzMzMDI5NywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.vGiD_FTzK7ZZNS10DKsp6G_AsJq4p4UAevAn_i0S4j3FMfGbXqHLhyGooII7G9o8WcoJIuoZblFoG87Jaq-gmg"}}
+[INF] ==> [27/08/2025 17:25:53] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:25:53","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJjNTkxN2Y3NS00MTgwLTQxMWUtOGI4ZS01Y2NkZTk2NDI3MDQiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTAzNTMsImV4cCI6MjA2NzMzMDM1MywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.SCXrdF4R6hpYTdeDMOiNkA-rgfB9g-wqPFpas4RBXe-z3xVabxAGpZcYRi2J0nLydS8gu_3ScPo_AIUr9j6TQQ"}}
+[INF] ==> [27/08/2025 17:26:23] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:26:22","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI0MDdmNGFlZi0wMWI4LTQxNGEtYmNiNi0zMWM5MmY5ZmI4YTAiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTAzODIsImV4cCI6MjA2NzMzMDM4MiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.QD6yB_qAQQUD1VNY6qnHCARudKw3fj8adxwMSuUxT1hoEp622--9v6toyDNI2UivihKkoE3YWRAI_Aj_2KyMLA"}}
+[INF] ==> [27/08/2025 17:28:55] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:28:55","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI2ZmE4NmYzZi1kZjQzLTRjMGItOWM3Ni1lMjJmNTM4Yzg0ODgiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA1MzUsImV4cCI6MjA2NzMzMDUzNSwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0._XVry7h5Tstkkyzxf0YlRLPbi3mnDKnn1qI7Ql9xnRoTFmj3YUeDWqTacL-uKR54cs2GUpxBOSWDVF5UaaeeAQ"}}
+[INF] ==> [27/08/2025 17:29:10] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:29:10","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI4NDI5YWJkOC1hZGExLTQzZWEtYTAzYy1mYzc0NmMxNWY2OWQiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA1NTAsImV4cCI6MjA2NzMzMDU1MCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.vYjMWqoQQ9m5uuh1LZ7NH1WVa6XJP6NNIYKpifQ6dK_u5NstDTBuINvzx7mIITX1AXhw5QfLQ-TBoeiF4pnGYQ"}}
+[INF] ==> [27/08/2025 17:29:12] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:29:12","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI5YTJkZTI2Yi03ZjFiLTQwZGQtYWYyYi1hOTZhNzBlNzQ5YzQiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA1NTIsImV4cCI6MjA2NzMzMDU1MiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.3v485wPW7iaX_5QP6nr64y_17HCXmNNGducg0KvX-Fu27FxwbJSavTgmSQSQdwiTN2BVh8AhhMmNTd4kr5B4Vg"}}
+[INF] ==> [27/08/2025 17:29:13] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:29:13","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJmODIwZjNkMy03MWJmLTRjMzMtOGM4NC1mOGQ5N2ZiYzEyOTYiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA1NTMsImV4cCI6MjA2NzMzMDU1MywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.tSJWl3FSY6wf4RufY28T6LD1zv54IEwk6TBelrNxdCLRgvG6vWzkQQGoUoKGjBHT2-BLXF8uOXE2qDD4BQ9skw"}}
+[INF] ==> [27/08/2025 17:29:14] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:29:14","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI0NTQzOWEwZi1hODEzLTQwMzktOTAzMC01MGM1M2JmMGIyMGEiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA1NTQsImV4cCI6MjA2NzMzMDU1NCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.w2pcDEIRK2dsM1zzyOLwLtBrv-4odlJ_yvndaVJcqZ2G7celLKPwIJbGXGB7IhMhazDoryDpDf51k7U_CPpExA"}}
+[INF] ==> [27/08/2025 17:29:14] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:29:14","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI3Zjg0ZjNhNi1hNGU5LTQ5ODMtYWJjNi0xMmMyMjI3M2YwNWMiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA1NTQsImV4cCI6MjA2NzMzMDU1NCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.kHqHWr1kEzUfZ_jDDtJSJ3GFw_iYl0_ifGla2padB6pj2f-DQZqL3TwryEeJiRIaK6cSyTK2b4-Y42N5x2Qtfw"}}
+[INF] ==> [27/08/2025 17:29:15] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:29:15","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI1NjNlNmMyMy05Y2ZmLTRmYjMtODY2NC01OGY3MTc0MDQ2MGIiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA1NTUsImV4cCI6MjA2NzMzMDU1NSwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.Dx-VghCxwtEnoecD0zg7PlHekIWXesA_CNS8zzWQ0qxoKfKcyybvvf4PlQ-YF7_bYOe58R8KkH6uHVB67b-NDw"}}
+[INF] ==> [27/08/2025 17:29:15] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:29:15","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJjMzJiNjVhYy03MTZkLTRiMGUtODhjMS0wMWRlMDg1YTkzYmYiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA1NTUsImV4cCI6MjA2NzMzMDU1NSwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.Rr5a3r1aOdlwyVZDHBcv4Z2TDQnasx9whKK4hpZqQ375uZiWPGAdZQC9zDu2A4q1RePfKfExSi_lIxPCrx1AWg"}}
+[INF] ==> [27/08/2025 17:29:16] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:29:16","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJjYzZkOGUwNS1iN2UwLTQ1YTctODIzNi1hMGE3YTUwZmExOWUiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA1NTYsImV4cCI6MjA2NzMzMDU1NiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.pLucTMG1gwFIpGAugo9vIEBBDnb2lnfsLqc9I454UWuA50YpNqq6s7_cYFPPmXZwFPag_sbIuTASISevaaxRWg"}}
+[INF] ==> [27/08/2025 17:29:16] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:29:16","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiIwY2M3MTViNi0zOTA5LTQ5ODgtOGIzYS04ZTZiMGY2ODYyNmMiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA1NTYsImV4cCI6MjA2NzMzMDU1NiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.LgdHeeHC5la0S8AcltHzh03zpzg08j2Kw_M9juTQOYNR6Nr_lc2HJL3yzZ9gIYAyFUQbywf_PMmfUg-AfVCPaw"}}
+[INF] ==> [27/08/2025 17:29:17] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:29:17","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJlZmI1MWRkZS1jOTdjLTQxMTQtODE0My1kYTBmNzY5NTUwZjMiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA1NTcsImV4cCI6MjA2NzMzMDU1NywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.mWbh10ydsP1GtcpGc_dBcobz4tBRwB7v8HXohzF0Wf74T36NYIp5eAtrxVVHQEqIHARHJM793NiB8ltOVo_i7Q"}}
+[INF] ==> [27/08/2025 17:29:18] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:29:18","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiIzYWYyN2M0NS0xOGUwLTQ3OTAtYjc5YS02NTY4ZDhjY2YwNDYiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA1NTgsImV4cCI6MjA2NzMzMDU1OCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.DjGHCq1isxOkXOoL9xdAgk7AGpyoIWFQcjYennj5uq7lKFyVy355J-g-CZRJ9F7gA_I7lfMXTXiV97dTBQSqaQ"}}
+[INF] ==> [27/08/2025 17:29:18] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:29:18","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJjZjdhZDI3My0xMjdlLTQ2ZmQtYTIzNi0xNWRlMWU4ZDFjNTEiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA1NTgsImV4cCI6MjA2NzMzMDU1OCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.D5Vfk6Z0dxZcLXXydjoiv50hW7jnQUZ5COWJ7_CaJYIml1OPgjrx0et31Jt-LoyM_5XTEegn1PVbHTvmx64VSQ"}}
+[INF] ==> [27/08/2025 17:29:19] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:29:19","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiIxOWM0YWU1Mi02MjI3LTQ3NTItYTMwYi1iYzk1MGM2MTljNjkiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA1NTksImV4cCI6MjA2NzMzMDU1OSwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.4Yf2Wtsmly3-VF7HvHrKja83COxgfjiVNqODlvDxGeucxRW2ISx6r8zJSdZjHFNTtGnDTNXmTv3vr4xfLiST2g"}}
+[INF] ==> [27/08/2025 17:29:21] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:29:21","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJkMjNhOTE5NS0wODNlLTQ0ZDktODkyOS03ZjcyZWE1OTU5MjEiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA1NjEsImV4cCI6MjA2NzMzMDU2MSwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.3RIS_RWGRsygVTEYeoKTg2iMGx2fK9MKST6Bjvh5vmMwH-P0RjcczyvdsoUkEfxcQKFescGPuFqYrLf6xxIrdw"}}
+[INF] ==> [27/08/2025 17:29:21] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:29:21","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI3NDVmMmQ4Yi1hYmM4LTQ4YTUtODkxNC1mOWQ2NjY3MWI2MTIiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA1NjEsImV4cCI6MjA2NzMzMDU2MSwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.49sO5EBeMB-008hq7xZJfeA1_auLFdYax0sEDuyStj_HwfH8RZEy8Smq58bEdJ2NzyLF8YnKZoUmBng7U7oaQQ"}}
+[INF] ==> [27/08/2025 17:29:22] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:29:22","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJiYTJiZjk2ZS01MzM2LTQzNDktODRlMS0xMTRmZDBlYTRlMjUiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA1NjIsImV4cCI6MjA2NzMzMDU2MiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.aWZm3Zs3PfVwq7axBX6V-JF-gB6JyKzSa2RK_p3JIYpq2v18GNyxgynoMA3ttnTvEOw9fNfDKRujOBj36GS-3Q"}}
+[INF] ==> [27/08/2025 17:29:23] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:29:23","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI1YzYwYmE4Yy03NmU2LTRjNTMtYjAxMC0yMzY0MDFkY2U3NjYiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA1NjMsImV4cCI6MjA2NzMzMDU2MywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.Xav2adeiSEHopl7814pPRD1aYBxU9HlCS_rosgSE82hhXzBIdk59zgEF2YYcyTBhcCVnCodzHY8H0kV6rXw-JQ"}}
+[INF] ==> [27/08/2025 17:29:44] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:29:44","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJlM2FkZDYzNi03OWRkLTRlOTktOTg2MC1lMDIwNzIwZmQ4MDAiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA1ODQsImV4cCI6MjA2NzMzMDU4NCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.m6lkrIZFXICXmBZg82zyALr3FIj-OyG_4p-6xu1iOw4EW-KzFsJyWAv8w_7PwseXkzNMXpWJjdnw-Xmf7yrG9Q"}}
+[INF] ==> [27/08/2025 17:33:09] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:33:09","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiIzNWRiMTY3NC03YzZlLTQwY2ItYTAyMi1hY2JkOGRjYzkxZTAiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA3ODksImV4cCI6MjA2NzMzMDc4OSwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.otcz5LUO4xUPv1wX9hVHrqwt5dOEjZY6wJ0EQoeVUwQaWcCUiiafZpREprKIDu8j5q4MNmzgmldJUlROpEizGQ"}}
+[INF] ==> [27/08/2025 17:33:17] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:33:17","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI0NGIxYzk4MS0wY2RkLTQ2Y2UtYjE5OC0zMjgyZDE1NWQzYTIiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA3OTcsImV4cCI6MjA2NzMzMDc5NywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.v8DmZYV-s8CXjIVhl0tDYab5FlYNSwrZ1d_fpeR2994MYkpXqV-LFGdgh03iQXOmAif8T13Xo9Of9UrkM8zGEg"}}
+[INF] ==> [27/08/2025 17:33:19] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:33:19","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJiNmVkNjljZS0xNTZhLTQ4MWUtOGM1Mi05MjI5MWYwM2ZjYjUiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA3OTksImV4cCI6MjA2NzMzMDc5OSwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.7st3CHMssJyCLBAhh0hQhwG6v_Z8rpr7xWuWcCppIeeGHsrXWFF7f4ikG3M2_EiNfuLDTpaLyKBHtl53lO2w1w"}}
+[INF] ==> [27/08/2025 17:33:20] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:33:20","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiIxZDc1MTUzNy0yNmU0LTRlN2ItOWNhOC1iM2QwYzlkOTg3YWQiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA4MDAsImV4cCI6MjA2NzMzMDgwMCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.KsD88txh35dyECefw2CIjM3ltgghalH75luBDQT3URDGaqoZ0mLhNgQulxNMIu_piBHIUTVJ4r5fEItk2r9pfw"}}
+[INF] ==> [27/08/2025 17:33:21] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:33:21","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiIwYTNmNTkwMC1iNjZmLTQ3OTktYjMzMC03OWFkMDkxNmRhMzkiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA4MDEsImV4cCI6MjA2NzMzMDgwMSwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.7R3uVg9ZPLLKKL1ultrruQnisu0tfHI8YN9gA1-f3OKq2YK1UHkW1YCH35Sq5b-y2iuXQzG5NFLuSACNkKpiTQ"}}
+[INF] ==> [27/08/2025 17:33:22] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:33:22","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI2MjEwMTE5Ny0zOWEyLTQ2MGQtOTZjMi1mMDEzZjY1ZmUwOTUiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA4MDIsImV4cCI6MjA2NzMzMDgwMiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.KVzQ9nYTYCKaK2b5Y8n8_sMZ7JdwgeXLEkJmUbEEqqm4qPPi9nvaRoe2k3BIU06q9ZUusqoSwXW5AXufKNgLyg"}}
+[INF] ==> [27/08/2025 17:33:22] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:33:22","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiIwNjJjZTY5Zi1kODY1LTRiNzgtOWQwZS00MjdjZWM0MWFlNTkiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA4MDIsImV4cCI6MjA2NzMzMDgwMiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.iFBwrAaosO06ZuxX2q29RnpmFfaP9Ehf1vBWvqI8fmzxAH-hlpr60RNY61QWARnNiUUkxxdZ8loJmaljoEnQ7g"}}
+[INF] ==> [27/08/2025 17:33:23] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:33:23","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJjZWI0ZWNlYy1hNzY3LTRjOTAtYWEyNC1jYzIzMDY3MGRkYzYiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA4MDMsImV4cCI6MjA2NzMzMDgwMywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.vxojmBqeqQr0_b3PicDOGrdvHca45CpXltcre8HaszXGU24fwBsAEzqb140XF-JEgoWPfZU1XfDgo8Wb2IP0OQ"}}
+[INF] ==> [27/08/2025 17:33:24] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:33:24","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiIwOWE5NWJlMS1kM2M2LTQ3MzUtYWEyYS04YmViZTgyOWZhZWMiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA4MDQsImV4cCI6MjA2NzMzMDgwNCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.qUIyizribxnxZjAx73fMvc7iBSqAMD8kikrw79QDi--MChc9POiqShobQsqKlA4-duEgebsMoW-Rom_wOVnheg"}}
+[INF] ==> [27/08/2025 17:33:24] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:33:24","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI5NWIyYmNkMy01ZmUyLTQ1OTgtYjRhZS1mNzUzZDEyMGYwMGYiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA4MDQsImV4cCI6MjA2NzMzMDgwNCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0._BAgoMQgDqr93zmaK51H56LoBP4QjE8jj5VkcwKeBcq_YJe3pHbtR3l9fAJIVF-A4QHQD8GRlJqtoC8WokSV4Q"}}
+[INF] ==> [27/08/2025 17:33:25] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:33:25","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI3YzVhZmU3ZC0xNzQ5LTRmNGItOGE4MS00NDVkZmU5MzE3NzMiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA4MDUsImV4cCI6MjA2NzMzMDgwNSwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.9VG6uUEH6nh09XlktHPiva-UVfxXZv8ufG_MgY_0oev6pxmycjIxr5ue7B7nmftWgfEkz2tVrqpC6pBFg1XGWA"}}
+[INF] ==> [27/08/2025 17:33:26] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:33:26","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiIxY2VkZmZmYy05ZDQ0LTRhODUtOTRlZS05ZTBhMmZjYTE2MzgiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA4MDYsImV4cCI6MjA2NzMzMDgwNiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.QiH6FKobwCqkvdxHYRY83hzxvbY-C7NmXxIjE2PqdHLLdFeIDm88RRcrWIO21u3BvnX2T69eTuqFi5kVes1kyQ"}}
+[INF] ==> [27/08/2025 17:33:26] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:33:26","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI3YzU4YTkwNi1lMDU2LTRiNmMtODAxNy1iOGI1YzkwZTI3MDYiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA4MDYsImV4cCI6MjA2NzMzMDgwNiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.jn4dVsiP3i-IjlKsFV0Xx_qELsdvjy-nONeY8yok6k1nuy-29gWdy2c8zKX3f29BI16NfrijbDz773Toa3eaZw"}}
+[INF] ==> [27/08/2025 17:33:26] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:33:26","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJjY2I2Y2FhZC02YzczLTQyOTgtYTI4NS0zMDdkYjMwYjIwNzEiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA4MDYsImV4cCI6MjA2NzMzMDgwNiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.X-4_tZ9ge89cAqCNWk481_CRE45LBzV_A-BwqytRVx1EV4inWTE46kxz5mMBqh1NVg693mWB_Igklpi0bbr06w"}}
+[INF] ==> [27/08/2025 17:34:52] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:34:52","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJjM2JmMGVkMS0yMjY3LTRiNmMtYjE2Ni1hNDgwNjI3NDQyNDgiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTA4OTIsImV4cCI6MjA2NzMzMDg5MiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.4fal7Usk7x5UPxSzWlL_I5tgc28AIleXUkh-h_cauwzxlX5gqnDFJt_Ys6-xo10R4zl4TG-aa-B4ccR9o2Exnw"}}
+[INF] ==> [27/08/2025 17:37:28] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:37:28","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiIyM2Q5NTdlZC1iZGVjLTQyM2QtYTk3ZS0wNTQ2NjZjMzdiMmEiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTEwNDgsImV4cCI6MjA2NzMzMTA0OCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.UnucDjzThTpWp10Gnbbt4XlqrpPyThea_PlTTDdYwGf-LBQLBk2XvOHyhjG5fIM_sRKAUdaXbKwH5J_lII8Lzw"}}
+[INF] ==> [27/08/2025 17:40:06] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 17:40:06","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJjYzM5Zjg2Yy1lZWRmLTQwYzItOGY4ZC1jZDc5OTU4ZDE0YjkiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTEyMDYsImV4cCI6MjA2NzMzMTIwNiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.7sv_Vy3iLKIMMt9LZBkrmyz8j7ZWAtDedUjKH966uuCsR0oW4ILhx7QP8tAyRaI2CERny9Yjr__GWjHWDgso9w"}}

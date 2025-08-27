@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\ServiceAPI\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2025-04-16T06:55:56.8635427Z||;True|2025-04-16T10:43:16.8449370+07:00||;True|2025-04-16T07:27:20.6667894+07:00||;True|2025-04-15T13:57:34.3683229+07:00||;True|2025-04-15T11:02:35.3349796+07:00||;True|2025-04-15T09:47:12.7882016+07:00||;True|2025-03-26T16:41:21.7131000+07:00||;True|2025-03-22T00:22:27.9962336+07:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

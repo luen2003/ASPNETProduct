@@ -1,0 +1,35 @@
+[INF] ==> [27/08/2025 19:03:06] Now listening on: https://localhost:62362
+[INF] ==> [27/08/2025 19:03:06] Now listening on: http://localhost:62363
+[INF] ==> [27/08/2025 19:03:07] Application started. Press Ctrl+C to shut down.
+[INF] ==> [27/08/2025 19:03:07] Hosting environment: Development
+[INF] ==> [27/08/2025 19:03:07] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [27/08/2025 19:05:10] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 19:05:10","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJkNDZiZjNlNS1jNDBjLTQxMDgtOWY5NC0xYWRkYjUyOGE3MDEiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTYzMTAsImV4cCI6MjA2NzMzNjMxMCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.91jM0MKmZFKtR6l_jIQug3WJZ3JCvYYuIWOJ0bnR0fPUWV2IXmE3Juhqdn7hdANm1TfT8Ydp_O9gvtF6U9dWWw"}}
+[INF] ==> [27/08/2025 19:21:04] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 19:21:04","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiIwYzVjMzdhOC1mMWY0LTRlODAtYmI0Mi1iNGU5YWRiYmYxMDEiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTcyNjQsImV4cCI6MjA2NzMzNzI2NCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.zRqYBFmHMv0ls4hFBg7pCWjO_jByRzMZyeiSYfPX2OAW8E7OL-nRxGqEWOf0twMEa8JQkLsCr65JhsyZKQ3C7Q"}}
+[INF] ==> [27/08/2025 19:51:52] Now listening on: https://localhost:62362
+[INF] ==> [27/08/2025 19:51:52] Now listening on: http://localhost:62363
+[INF] ==> [27/08/2025 19:51:52] Application started. Press Ctrl+C to shut down.
+[INF] ==> [27/08/2025 19:51:52] Hosting environment: Development
+[INF] ==> [27/08/2025 19:51:52] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [27/08/2025 19:52:37] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 19:52:37","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI4MzkxYzAzNi0zMmRkLTQ1OTQtYjU4NC1jNWYyZDgxYzYzMzMiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYyOTkxNTcsImV4cCI6MjA2NzMzOTE1NywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.IA-RYpRzJg93vKWxVvhn3NdnWvzJNHjGWz9ome3QOKHhtzP2Hr2Kkp3D7Q1hP0E8yI-juBK-JiaTSbyDlwiDSQ"}}
+[INF] ==> [27/08/2025 19:54:30] Now listening on: https://localhost:62362
+[INF] ==> [27/08/2025 19:54:30] Now listening on: http://localhost:62363
+[INF] ==> [27/08/2025 19:54:30] Application started. Press Ctrl+C to shut down.
+[INF] ==> [27/08/2025 19:54:30] Hosting environment: Development
+[INF] ==> [27/08/2025 19:54:30] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [27/08/2025 19:59:24] Now listening on: https://localhost:62362
+[INF] ==> [27/08/2025 19:59:24] Now listening on: http://localhost:62363
+[INF] ==> [27/08/2025 19:59:24] Application started. Press Ctrl+C to shut down.
+[INF] ==> [27/08/2025 19:59:24] Hosting environment: Development
+[INF] ==> [27/08/2025 19:59:24] Content root path: D:\APIERP\APIERP\IdentityServer

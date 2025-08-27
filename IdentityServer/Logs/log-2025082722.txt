@@ -1,0 +1,45 @@
+[INF] ==> [27/08/2025 22:38:25] Now listening on: https://localhost:62362
+[INF] ==> [27/08/2025 22:38:25] Now listening on: http://localhost:62363
+[INF] ==> [27/08/2025 22:38:26] Application started. Press Ctrl+C to shut down.
+[INF] ==> [27/08/2025 22:38:26] Hosting environment: Development
+[INF] ==> [27/08/2025 22:38:26] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [27/08/2025 22:39:03] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 22:39:03","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJjOGNkYjc3Yy0wMjQ2LTQ1YjgtYWY0ZS1lNmY4OGJlMWI5YTkiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYzMDkxNDMsImV4cCI6MjA2NzM0OTE0MywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.920cH_VqV_n28C4Ky84Xaf4kpwQA42D46XCy12RrNv2puy0YWtUrHNP4HZV4Wnj07d6KzwgSiG-Gor5FgqGbAQ"}}
+[INF] ==> [27/08/2025 22:44:49] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 22:44:49","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiI2MzhiMDVkMC01YjMwLTRhMjktOWM5OS02M2FjZDdkYjUxOGIiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYzMDk0ODksImV4cCI6MjA2NzM0OTQ4OSwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.df2NT4HgdoFMniFo9BwGsTmxp0Nc7g3G6gcfSXyEv1ekX6aiHBg2Gh3L9QOlJ3fEMq5JmzMpBKPSDC2rxS9z8g"}}
+[INF] ==> [27/08/2025 22:48:40] Now listening on: https://localhost:62362
+[INF] ==> [27/08/2025 22:48:40] Now listening on: http://localhost:62363
+[INF] ==> [27/08/2025 22:48:40] Application started. Press Ctrl+C to shut down.
+[INF] ==> [27/08/2025 22:48:40] Hosting environment: Development
+[INF] ==> [27/08/2025 22:48:40] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [27/08/2025 22:51:25] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin12","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"-1","message":"Tài khoản không Tồn tại.","data":null}
+[INF] ==> [27/08/2025 22:51:33] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin","password":"admin\\"} 
+           Response => StatusCode: 200, Body: {"code":"03","message":"Mật khẩu không đúng.","data":null}
+[INF] ==> [27/08/2025 22:51:38] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin","password":"admin"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 22:51:38","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwIiwianRpIjoiMTcxZDUzYTMtZmE4OC00ODU1LTlhNGEtNWZiMGQ4OTNiZWU1IiwibmFtZWlkIjoiYWRtaW4iLCJQb3NJZCI6IjAiLCJVc2VySWQiOiJhZG1pbiIsIlJvbGUiOiJVMCIsIlBseElkIjoiIiwibmJmIjoxNzU2MzA5ODk4LCJleHAiOjIwNjczNDk4OTgsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA3OSIsImF1ZCI6IlZpbmhEUSJ9.FKEl-X152NgQdVQ0EpQtnSfsdVBEMwWyBXukCHS9wRtYFqs9LrX69e4MCaWsXVXDPj4c5lKIKw7eLFa3dIA-Fg"}}
+[INF] ==> [27/08/2025 22:51:46] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin","password":"admin"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 22:51:46","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwIiwianRpIjoiMjI3OWRkZWMtMzFkOS00Y2NhLTljZjQtZDNkMzBhNzg4YzUxIiwibmFtZWlkIjoiYWRtaW4iLCJQb3NJZCI6IjAiLCJVc2VySWQiOiJhZG1pbiIsIlJvbGUiOiJVMCIsIlBseElkIjoiIiwibmJmIjoxNzU2MzA5OTA2LCJleHAiOjIwNjczNDk5MDYsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA3OSIsImF1ZCI6IlZpbmhEUSJ9.pK0xINxr1RbKXHOJSqclgibWLVDB0orU2IbXTicEVDEPllyKqIqVKEBEhcyNC_R0XU-8Wo4uBZ5hVuKTGxPXvg"}}
+[INF] ==> [27/08/2025 22:51:51] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123456","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"-1","message":"Tài khoản không Tồn tại.","data":null}

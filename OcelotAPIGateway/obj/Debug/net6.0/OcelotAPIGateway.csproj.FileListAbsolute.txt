@@ -1,0 +1,238 @@
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\appsettings.Development.json
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\appsettings.json
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\ocelot.json
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.exe
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.deps.json
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.runtimeconfig.json
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.dll
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.pdb
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\FluentValidation.dll
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\Ocelot.dll
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.csproj.AssemblyReference.cache
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.AssemblyInfoInputs.cache
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.AssemblyInfo.cs
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.csproj.CoreCompileInputs.cache
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets.build.json
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets.development.json
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\obj\Debug\net6.0\scopedcss\bundle\OcelotAPIGateway.styles.css
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.csproj.CopyComplete
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.dll
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\obj\Debug\net6.0\refint\OcelotAPIGateway.dll
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.pdb
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.genruntimeconfig.cache
+E:\Source-svn PORTAL\EGAS_PORTAL_BACKEND\trunk\OcelotAPIGateway\obj\Debug\net6.0\ref\OcelotAPIGateway.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\appsettings.Development.json
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\appsettings.json
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\ocelot.json
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.exe
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.deps.json
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.runtimeconfig.json
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.pdb
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\FluentValidation.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\Ocelot.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.csproj.AssemblyReference.cache
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.AssemblyInfoInputs.cache
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.AssemblyInfo.cs
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.csproj.CoreCompileInputs.cache
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets.build.json
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets.development.json
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.OcelotAPIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.OcelotAPIGateway.props
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OcelotAPIGateway.props
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OcelotAPIGateway.props
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets.pack.json
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\obj\Debug\net6.0\scopedcss\bundle\OcelotAPIGateway.styles.css
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAP.63820C8F.Up2Date
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\obj\Debug\net6.0\refint\OcelotAPIGateway.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.pdb
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.genruntimeconfig.cache
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\obj\Debug\net6.0\ref\OcelotAPIGateway.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\IPAddressRange.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PIACOM\Source Code\trunk\trunk\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\appsettings.Development.json
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\appsettings.json
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\ocelot.json
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.exe
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.deps.json
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.runtimeconfig.json
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.pdb
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\FluentValidation.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\IPAddressRange.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Ocelot.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.csproj.AssemblyReference.cache
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.AssemblyInfoInputs.cache
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.AssemblyInfo.cs
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.csproj.CoreCompileInputs.cache
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets.build.json
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets.development.json
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.OcelotAPIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.OcelotAPIGateway.props
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OcelotAPIGateway.props
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OcelotAPIGateway.props
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets.pack.json
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\obj\Debug\net6.0\scopedcss\bundle\OcelotAPIGateway.styles.css
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAP.63820C8F.Up2Date
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\obj\Debug\net6.0\refint\OcelotAPIGateway.dll
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.pdb
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.genruntimeconfig.cache
+E:\PIACOM\Source Code\APIERP\OcelotAPIGateway\obj\Debug\net6.0\ref\OcelotAPIGateway.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\appsettings.Development.json
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\appsettings.json
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\ocelot.json
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.staticwebassets.endpoints.json
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.exe
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.deps.json
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.runtimeconfig.json
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.pdb
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\FluentValidation.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\IPAddressRange.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Ocelot.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.csproj.AssemblyReference.cache
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.AssemblyInfoInputs.cache
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.AssemblyInfo.cs
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.csproj.CoreCompileInputs.cache
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\scopedcss\bundle\OcelotAPIGateway.styles.css
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets.build.json
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets.development.json
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.OcelotAPIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.OcelotAPIGateway.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.OcelotAPIGateway.props
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OcelotAPIGateway.props
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OcelotAPIGateway.props
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets.pack.json
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAP.63820C8F.Up2Date
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\refint\OcelotAPIGateway.dll
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.pdb
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.genruntimeconfig.cache
+E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\OcelotAPIGateway\obj\Debug\net6.0\ref\OcelotAPIGateway.dll
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\appsettings.Development.json
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\appsettings.json
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\ocelot.json
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.staticwebassets.endpoints.json
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.exe
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.deps.json
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.runtimeconfig.json
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.dll
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\OcelotAPIGateway.pdb
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\FluentValidation.dll
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\IPAddressRange.dll
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\Ocelot.dll
+D:\APIERP\APIERP\OcelotAPIGateway\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.csproj.AssemblyReference.cache
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.AssemblyInfoInputs.cache
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.AssemblyInfo.cs
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.csproj.CoreCompileInputs.cache
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\scopedcss\bundle\OcelotAPIGateway.styles.css
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets.build.json
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets.development.json
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAP.63820C8F.Up2Date
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.dll
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\refint\OcelotAPIGateway.dll
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.pdb
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\OcelotAPIGateway.genruntimeconfig.cache
+D:\APIERP\APIERP\OcelotAPIGateway\obj\Debug\net6.0\ref\OcelotAPIGateway.dll

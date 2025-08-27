@@ -1,0 +1,45 @@
+[INF] ==> [23/11/2024 15:26:20] Now listening on: https://localhost:62362
+[INF] ==> [23/11/2024 15:26:20] Now listening on: http://localhost:62363
+[INF] ==> [23/11/2024 15:26:20] Application started. Press Ctrl+C to shut down.
+[INF] ==> [23/11/2024 15:26:20] Hosting environment: Development
+[INF] ==> [23/11/2024 15:26:20] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [23/11/2024 15:27:29] Now listening on: https://localhost:62362
+[INF] ==> [23/11/2024 15:27:29] Now listening on: http://localhost:62363
+[INF] ==> [23/11/2024 15:27:30] Application started. Press Ctrl+C to shut down.
+[INF] ==> [23/11/2024 15:27:30] Hosting environment: Development
+[INF] ==> [23/11/2024 15:27:30] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [23/11/2024 15:29:11] Now listening on: https://localhost:62362
+[INF] ==> [23/11/2024 15:29:11] Now listening on: http://localhost:62363
+[INF] ==> [23/11/2024 15:29:11] Application started. Press Ctrl+C to shut down.
+[INF] ==> [23/11/2024 15:29:11] Hosting environment: Development
+[INF] ==> [23/11/2024 15:29:11] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [23/11/2024 15:31:11] Now listening on: https://localhost:62362
+[INF] ==> [23/11/2024 15:31:11] Now listening on: http://localhost:62363
+[INF] ==> [23/11/2024 15:31:11] Application started. Press Ctrl+C to shut down.
+[INF] ==> [23/11/2024 15:31:11] Hosting environment: Development
+[INF] ==> [23/11/2024 15:31:11] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [23/11/2024 15:45:56] Now listening on: https://localhost:62362
+[INF] ==> [23/11/2024 15:45:56] Now listening on: http://localhost:62363
+[INF] ==> [23/11/2024 15:45:57] Application started. Press Ctrl+C to shut down.
+[INF] ==> [23/11/2024 15:45:57] Hosting environment: Development
+[INF] ==> [23/11/2024 15:45:57] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [23/11/2024 15:47:34] Now listening on: https://localhost:62362
+[INF] ==> [23/11/2024 15:47:35] Now listening on: http://localhost:62363
+[INF] ==> [23/11/2024 15:47:35] Application started. Press Ctrl+C to shut down.
+[INF] ==> [23/11/2024 15:47:35] Hosting environment: Development
+[INF] ==> [23/11/2024 15:47:35] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [23/11/2024 15:54:14] Now listening on: https://localhost:62362
+[INF] ==> [23/11/2024 15:54:14] Now listening on: http://localhost:62363
+[INF] ==> [23/11/2024 15:54:14] Application started. Press Ctrl+C to shut down.
+[INF] ==> [23/11/2024 15:54:14] Hosting environment: Development
+[INF] ==> [23/11/2024 15:54:14] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [23/11/2024 15:54:54] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"23/11/2024 15:54:54","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMTgwMTI4IiwianRpIjoiNDVjZjg1MzYtM2M1Zi00MTJiLWEzNWQtZDQ5OTYwM2QyMGM1IiwibmFtZWlkIjoiMTY4a2llbmh4IiwiUG9zSWQiOiIxNTIiLCJVc2VySWQiOiIxNjhraWVuaHgiLCJSb2xlIjoiVTAiLCJQbHhJZCI6IiIsIm5iZiI6MTczMjM1MjA5NCwiZXhwIjoyMDQzMzkyMDk0LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwNzkiLCJhdWQiOiJWaW5oRFEifQ.TqdXfKp7dQO0_JbJsQUUkjSwvOnAYn2Y4JuESLpiPYQ6VFURX4Wjz38C7aQctgaO6Amn68yF1AefrqAA83Vr6g"}}
+[INF] ==> [23/11/2024 15:57:34] Now listening on: https://localhost:62362
+[INF] ==> [23/11/2024 15:57:35] Now listening on: http://localhost:62363
+[INF] ==> [23/11/2024 15:57:35] Application started. Press Ctrl+C to shut down.
+[INF] ==> [23/11/2024 15:57:35] Hosting environment: Development
+[INF] ==> [23/11/2024 15:57:35] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\

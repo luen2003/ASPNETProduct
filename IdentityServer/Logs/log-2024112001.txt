@@ -1,0 +1,221 @@
+[INF] ==> [20/11/2024 01:08:32] Now listening on: https://localhost:62362
+[INF] ==> [20/11/2024 01:08:32] Now listening on: http://localhost:62363
+[INF] ==> [20/11/2024 01:08:32] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/11/2024 01:08:32] Hosting environment: Development
+[INF] ==> [20/11/2024 01:08:32] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [20/11/2024 01:08:37] RemoteIpAddress => ::1
+           Request => Method: GET, Path: /, 
+                      Token: , 
+                      Body: null 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [20/11/2024 01:09:15] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234","authenTyp":2,"rememberMe":true} 
+           Response => StatusCode: 500, Body: ORA-50201: Oracle Communication: Failed to connect to server or failed to parse connect string
+[INF] ==> [20/11/2024 01:10:08] Now listening on: https://localhost:62362
+[INF] ==> [20/11/2024 01:10:08] Now listening on: http://localhost:62363
+[INF] ==> [20/11/2024 01:10:08] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/11/2024 01:10:08] Hosting environment: Development
+[INF] ==> [20/11/2024 01:10:08] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [20/11/2024 01:10:12] RemoteIpAddress => ::1
+           Request => Method: GET, Path: /, 
+                      Token: , 
+                      Body: null 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [20/11/2024 01:10:21] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234","authenTyp":2,"rememberMe":true} 
+           Response => StatusCode: 500, Body: ORA-50201: Oracle Communication: Failed to connect to server or failed to parse connect string
+[INF] ==> [20/11/2024 01:12:50] Now listening on: https://localhost:62362
+[INF] ==> [20/11/2024 01:12:50] Now listening on: http://localhost:62363
+[INF] ==> [20/11/2024 01:12:50] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/11/2024 01:12:50] Hosting environment: Development
+[INF] ==> [20/11/2024 01:12:50] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [20/11/2024 01:12:54] RemoteIpAddress => ::1
+           Request => Method: GET, Path: /, 
+                      Token: , 
+                      Body: null 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [20/11/2024 01:13:59] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234","authenTyp":2,"rememberMe":true} 
+           Response => StatusCode: 500, Body: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+[INF] ==> [20/11/2024 01:16:25] Now listening on: https://localhost:62362
+[INF] ==> [20/11/2024 01:16:25] Now listening on: http://localhost:62363
+[INF] ==> [20/11/2024 01:16:25] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/11/2024 01:16:25] Hosting environment: Development
+[INF] ==> [20/11/2024 01:16:25] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [20/11/2024 01:16:29] RemoteIpAddress => ::1
+           Request => Method: GET, Path: /, 
+                      Token: , 
+                      Body: null 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [20/11/2024 01:16:33] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234","authenTyp":2,"rememberMe":true} 
+           Response => StatusCode: 500, Body: Incorrect syntax near ':'.
+[INF] ==> [20/11/2024 01:18:23] Now listening on: https://localhost:62362
+[INF] ==> [20/11/2024 01:18:23] Now listening on: http://localhost:62363
+[INF] ==> [20/11/2024 01:18:23] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/11/2024 01:18:23] Hosting environment: Development
+[INF] ==> [20/11/2024 01:18:23] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [20/11/2024 01:18:27] RemoteIpAddress => ::1
+           Request => Method: GET, Path: /, 
+                      Token: , 
+                      Body: null 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [20/11/2024 01:18:32] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234","authenTyp":2,"rememberMe":true} 
+           Response => StatusCode: 200, Body: {"code":"01-001-02","message":"Tài khoản không Tồn tại.","data":null}
+[INF] ==> [20/11/2024 01:18:52] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234"} 
+           Response => StatusCode: 200, Body: {"code":"01-001-02","message":"Tài khoản không Tồn tại.","data":null}
+[INF] ==> [20/11/2024 01:19:28] Now listening on: https://localhost:62362
+[INF] ==> [20/11/2024 01:19:28] Now listening on: http://localhost:62363
+[INF] ==> [20/11/2024 01:19:28] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/11/2024 01:19:28] Hosting environment: Development
+[INF] ==> [20/11/2024 01:19:28] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [20/11/2024 01:19:32] RemoteIpAddress => ::1
+           Request => Method: GET, Path: /, 
+                      Token: , 
+                      Body: null 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [20/11/2024 01:20:12] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234"} 
+           Response => StatusCode: 200, Body: {"code":"01-001-02","message":"Tài khoản không Tồn tại.","data":null}
+[INF] ==> [20/11/2024 01:22:36] Now listening on: https://localhost:62362
+[INF] ==> [20/11/2024 01:22:36] Now listening on: http://localhost:62363
+[INF] ==> [20/11/2024 01:22:37] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/11/2024 01:22:37] Hosting environment: Development
+[INF] ==> [20/11/2024 01:22:37] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[WRN] ==> [20/11/2024 01:27:41] Unable to contact VS to retrieve Browser Link script tag.
+[INF] ==> [20/11/2024 01:27:41] RemoteIpAddress => ::1
+           Request => Method: GET, Path: /, 
+                      Token: , 
+                      Body: null 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [20/11/2024 01:29:12] Now listening on: https://localhost:62362
+[INF] ==> [20/11/2024 01:29:12] Now listening on: http://localhost:62363
+[INF] ==> [20/11/2024 01:29:12] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/11/2024 01:29:12] Hosting environment: Development
+[INF] ==> [20/11/2024 01:29:12] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [20/11/2024 01:29:26] RemoteIpAddress => ::1
+           Request => Method: GET, Path: /, 
+                      Token: , 
+                      Body: null 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [20/11/2024 01:32:31] Now listening on: https://localhost:62362
+[INF] ==> [20/11/2024 01:32:31] Now listening on: http://localhost:62363
+[INF] ==> [20/11/2024 01:32:31] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/11/2024 01:32:31] Hosting environment: Development
+[INF] ==> [20/11/2024 01:32:31] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [20/11/2024 01:32:33] RemoteIpAddress => ::1
+           Request => Method: GET, Path: /, 
+                      Token: , 
+                      Body: null 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [20/11/2024 01:35:13] Now listening on: https://localhost:62362
+[INF] ==> [20/11/2024 01:35:13] Now listening on: http://localhost:62363
+[INF] ==> [20/11/2024 01:35:14] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/11/2024 01:35:14] Hosting environment: Development
+[INF] ==> [20/11/2024 01:35:14] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [20/11/2024 01:35:17] RemoteIpAddress => ::1
+           Request => Method: GET, Path: /, 
+                      Token: , 
+                      Body: null 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [20/11/2024 01:37:11] Now listening on: https://localhost:62362
+[INF] ==> [20/11/2024 01:37:11] Now listening on: http://localhost:62363
+[INF] ==> [20/11/2024 01:37:11] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/11/2024 01:37:11] Hosting environment: Development
+[INF] ==> [20/11/2024 01:37:11] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [20/11/2024 01:37:16] RemoteIpAddress => ::1
+           Request => Method: GET, Path: /, 
+                      Token: , 
+                      Body: null 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [20/11/2024 01:37:30] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234"} 
+           Response => StatusCode: 500, Body: Incorrect syntax near '}'.
+[INF] ==> [20/11/2024 01:37:50] Now listening on: https://localhost:62362
+[INF] ==> [20/11/2024 01:37:50] Now listening on: http://localhost:62363
+[INF] ==> [20/11/2024 01:37:51] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/11/2024 01:37:51] Hosting environment: Development
+[INF] ==> [20/11/2024 01:37:51] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [20/11/2024 01:38:01] RemoteIpAddress => ::1
+           Request => Method: GET, Path: /, 
+                      Token: , 
+                      Body: null 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [20/11/2024 01:38:27] Now listening on: https://localhost:62362
+[INF] ==> [20/11/2024 01:38:28] Now listening on: http://localhost:62363
+[INF] ==> [20/11/2024 01:38:28] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/11/2024 01:38:28] Hosting environment: Development
+[INF] ==> [20/11/2024 01:38:28] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [20/11/2024 01:38:30] RemoteIpAddress => ::1
+           Request => Method: GET, Path: /, 
+                      Token: , 
+                      Body: null 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [20/11/2024 01:38:33] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234"} 
+           Response => StatusCode: 500, Body: Invalid salt version
+[INF] ==> [20/11/2024 01:39:28] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234"} 
+           Response => StatusCode: 500, Body: Invalid salt version
+[INF] ==> [20/11/2024 01:39:53] Now listening on: https://localhost:62362
+[INF] ==> [20/11/2024 01:39:53] Now listening on: http://localhost:62363
+[INF] ==> [20/11/2024 01:39:53] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/11/2024 01:39:53] Hosting environment: Development
+[INF] ==> [20/11/2024 01:39:53] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [20/11/2024 01:39:58] RemoteIpAddress => ::1
+           Request => Method: GET, Path: /, 
+                      Token: , 
+                      Body: null 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [20/11/2024 01:41:39] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234"} 
+           Response => StatusCode: 500, Body: Invalid salt version
+[INF] ==> [20/11/2024 01:57:27] Now listening on: https://localhost:62362
+[INF] ==> [20/11/2024 01:57:27] Now listening on: http://localhost:62363
+[INF] ==> [20/11/2024 01:57:27] Application started. Press Ctrl+C to shut down.
+[INF] ==> [20/11/2024 01:57:27] Hosting environment: Development
+[INF] ==> [20/11/2024 01:57:27] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [20/11/2024 01:57:31] RemoteIpAddress => ::1
+           Request => Method: GET, Path: /, 
+                      Token: , 
+                      Body: null 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [20/11/2024 01:58:19] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234"} 
+           Response => StatusCode: 500, Body: Incorrect syntax near ':'.
+[INF] ==> [20/11/2024 01:58:52] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234"} 
+           Response => StatusCode: 500, Body: Incorrect syntax near ':'.
+[INF] ==> [20/11/2024 01:59:29] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234"} 
+           Response => StatusCode: 500, Body: Invalid column name 'Parent'.

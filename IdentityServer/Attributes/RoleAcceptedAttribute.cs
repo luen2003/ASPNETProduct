@@ -1,0 +1,20 @@
+﻿using IdentityServer.Exceptions;
+using Microsoft.AspNetCore.Mvc.Filters;
+
+namespace IdentityServer.Attributes;
+
+[AttributeUsage(AttributeTargets.Method)]
+public class RoleAcceptedAttribute : RoleAttribute
+{
+    public RoleAcceptedAttribute(params RoleEnum[] roles) : base(roles)
+    {
+
+    }
+
+    public override void OnAuthorization(AuthorizationFilterContext context)
+    {
+        base.OnAuthorization(context);
+        if (!_checkedRole) throw new ForbiddenException();
+    }
+}
+

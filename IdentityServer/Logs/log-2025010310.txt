@@ -1,0 +1,20 @@
+[INF] ==> [03/01/2025 10:25:34] Now listening on: https://localhost:62362
+[INF] ==> [03/01/2025 10:25:34] Now listening on: http://localhost:62363
+[INF] ==> [03/01/2025 10:25:34] Application started. Press Ctrl+C to shut down.
+[INF] ==> [03/01/2025 10:25:34] Hosting environment: Development
+[INF] ==> [03/01/2025 10:25:34] Content root path: E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\IdentityServer\
+[INF] ==> [03/01/2025 10:25:54] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"Piacom@123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"03/01/2025 10:25:54","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMTgwMTI4IiwianRpIjoiOTdjMmEyODItMDQ2Zi00Mzk3LThjNmQtMGJlZmEwMzU5N2FlIiwibmFtZWlkIjoiMTY4a2llbmh4IiwiUG9zSWQiOiIxNjgiLCJVc2VySWQiOiIxNjhraWVuaHgiLCJSb2xlIjoiVTAiLCJQbHhJZCI6IiIsIm5iZiI6MTczNTg3NDc1NCwiZXhwIjoyMDQ2OTE0NzU0LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwNzkiLCJhdWQiOiJWaW5oRFEifQ.Js1F1Yqp4JAeJHiS0fImc5sVP1wgIhc8vZNUiVqvnCRCmzVR6VzSvcv1l-ReBC69IKpFaAf0PHA5butBQoKfSg"}}
+[INF] ==> [03/01/2025 10:33:09] Now listening on: https://localhost:62362
+[INF] ==> [03/01/2025 10:33:10] Now listening on: http://localhost:62363
+[INF] ==> [03/01/2025 10:33:10] Application started. Press Ctrl+C to shut down.
+[INF] ==> [03/01/2025 10:33:10] Hosting environment: Development
+[INF] ==> [03/01/2025 10:33:10] Content root path: E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\IdentityServer\
+[INF] ==> [03/01/2025 10:36:51] Now listening on: https://localhost:62362
+[INF] ==> [03/01/2025 10:36:51] Now listening on: http://localhost:62363
+[INF] ==> [03/01/2025 10:36:51] Application started. Press Ctrl+C to shut down.
+[INF] ==> [03/01/2025 10:36:51] Hosting environment: Development
+[INF] ==> [03/01/2025 10:36:51] Content root path: E:\PIACOM\Source Code\ERP_THANHLE_API_UAT\APIERP\IdentityServer\

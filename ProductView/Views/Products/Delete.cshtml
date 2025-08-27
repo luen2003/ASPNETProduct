@@ -1,0 +1,32 @@
+@model ProductView.Models.ProductDto
+
+@{
+    ViewData["Title"] = "Xóa sản phẩm";
+}
+
+<h3>Xóa sản phẩm</h3>
+
+<h4>Bạn có chắc chắn muốn xóa sản phẩm này không?</h4>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <!--<th>ID</th> -->
+            <th>Tên</th>
+            <th>Giá</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            @*<td>@Model.Id</td>*@
+            <td>@Model.Name</td>
+            <td>@Model.Price</td>
+        </tr>
+    </tbody>
+</table>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

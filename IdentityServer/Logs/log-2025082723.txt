@@ -1,0 +1,20 @@
+[INF] ==> [27/08/2025 23:08:51] Now listening on: https://localhost:62362
+[INF] ==> [27/08/2025 23:08:51] Now listening on: http://localhost:62363
+[INF] ==> [27/08/2025 23:08:51] Application started. Press Ctrl+C to shut down.
+[INF] ==> [27/08/2025 23:08:51] Hosting environment: Development
+[INF] ==> [27/08/2025 23:08:51] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [27/08/2025 23:09:02] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 23:09:01","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJiM2U0ZmI0Yi1hODg4LTQ4YTUtYmI4Yi0yYmU1MDc0YzcwZWUiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYzMTA5NDEsImV4cCI6MjA2NzM1MDk0MSwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiVmluaERRIn0.ueXv1I3fCaDxucqhheG_FriQrkiRX4RaOmZFsfWp5oZOMWMUpkCigyemBcvvV6lkSqUx_EUaR-HXLkizXrbGmg"}}
+[INF] ==> [27/08/2025 23:15:21] Now listening on: https://localhost:62362
+[INF] ==> [27/08/2025 23:15:21] Now listening on: http://localhost:62363
+[INF] ==> [27/08/2025 23:15:21] Application started. Press Ctrl+C to shut down.
+[INF] ==> [27/08/2025 23:15:21] Hosting environment: Development
+[INF] ==> [27/08/2025 23:15:21] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [27/08/2025 23:15:29] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"27/08/2025 23:15:29","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiIwODQ1YzZkMy04MTI0LTRiNzUtYWFhNC02MDRmNmI5Yjk5ZjgiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYzMTEzMjksImV4cCI6MjA2NzM1MTMyOSwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiTHVvbmdURCJ9.QvJvU24ePoi_Ady5abZB-qLoGtA_DiQCxWP3E3XC_DRsy0vqBIzmDIJ8836cpicq310CQ2_MKFmxq6hcBW04GA"}}

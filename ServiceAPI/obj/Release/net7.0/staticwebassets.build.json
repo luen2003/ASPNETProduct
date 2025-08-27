@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4/uVvzKCTv3iX7HXx1J8cmNgLUStW4sprUGjZyw8078=",
+  "Source": "ServiceAPI",
+  "BasePath": "_content/ServiceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

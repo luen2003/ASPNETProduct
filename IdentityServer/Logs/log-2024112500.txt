@@ -1,0 +1,5 @@
+[INF] ==> [25/11/2024 00:46:32] Now listening on: https://localhost:62362
+[INF] ==> [25/11/2024 00:46:32] Now listening on: http://localhost:62363
+[INF] ==> [25/11/2024 00:46:33] Application started. Press Ctrl+C to shut down.
+[INF] ==> [25/11/2024 00:46:33] Hosting environment: Development
+[INF] ==> [25/11/2024 00:46:33] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\

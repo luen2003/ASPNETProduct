@@ -1,0 +1,45 @@
+[INF] ==> [26/11/2024 10:06:43] Now listening on: https://localhost:62362
+[INF] ==> [26/11/2024 10:06:43] Now listening on: http://localhost:62363
+[INF] ==> [26/11/2024 10:06:44] Application started. Press Ctrl+C to shut down.
+[INF] ==> [26/11/2024 10:06:44] Hosting environment: Development
+[INF] ==> [26/11/2024 10:06:44] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [26/11/2024 10:07:02] Now listening on: https://localhost:62362
+[INF] ==> [26/11/2024 10:07:02] Now listening on: http://localhost:62363
+[INF] ==> [26/11/2024 10:07:03] Application started. Press Ctrl+C to shut down.
+[INF] ==> [26/11/2024 10:07:03] Hosting environment: Development
+[INF] ==> [26/11/2024 10:07:03] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [26/11/2024 10:23:25] Now listening on: https://localhost:62362
+[INF] ==> [26/11/2024 10:23:25] Now listening on: http://localhost:62363
+[INF] ==> [26/11/2024 10:23:25] Application started. Press Ctrl+C to shut down.
+[INF] ==> [26/11/2024 10:23:25] Hosting environment: Development
+[INF] ==> [26/11/2024 10:23:25] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [26/11/2024 10:30:04] Now listening on: https://localhost:62362
+[INF] ==> [26/11/2024 10:30:04] Now listening on: http://localhost:62363
+[INF] ==> [26/11/2024 10:30:05] Application started. Press Ctrl+C to shut down.
+[INF] ==> [26/11/2024 10:30:05] Hosting environment: Development
+[INF] ==> [26/11/2024 10:30:05] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [26/11/2024 10:32:20] Now listening on: https://localhost:62362
+[INF] ==> [26/11/2024 10:32:21] Now listening on: http://localhost:62363
+[INF] ==> [26/11/2024 10:32:21] Application started. Press Ctrl+C to shut down.
+[INF] ==> [26/11/2024 10:32:21] Hosting environment: Development
+[INF] ==> [26/11/2024 10:32:21] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [26/11/2024 10:33:43] Now listening on: https://localhost:62362
+[INF] ==> [26/11/2024 10:33:43] Now listening on: http://localhost:62363
+[INF] ==> [26/11/2024 10:33:44] Application started. Press Ctrl+C to shut down.
+[INF] ==> [26/11/2024 10:33:44] Hosting environment: Development
+[INF] ==> [26/11/2024 10:33:44] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [26/11/2024 10:43:35] Now listening on: https://localhost:62362
+[INF] ==> [26/11/2024 10:43:35] Now listening on: http://localhost:62363
+[INF] ==> [26/11/2024 10:43:35] Application started. Press Ctrl+C to shut down.
+[INF] ==> [26/11/2024 10:43:35] Hosting environment: Development
+[INF] ==> [26/11/2024 10:43:35] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [26/11/2024 10:45:47] Now listening on: https://localhost:62362
+[INF] ==> [26/11/2024 10:45:47] Now listening on: http://localhost:62363
+[INF] ==> [26/11/2024 10:45:47] Application started. Press Ctrl+C to shut down.
+[INF] ==> [26/11/2024 10:45:47] Hosting environment: Development
+[INF] ==> [26/11/2024 10:45:47] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [26/11/2024 10:47:05] Now listening on: https://localhost:62362
+[INF] ==> [26/11/2024 10:47:05] Now listening on: http://localhost:62363
+[INF] ==> [26/11/2024 10:47:06] Application started. Press Ctrl+C to shut down.
+[INF] ==> [26/11/2024 10:47:06] Hosting environment: Development
+[INF] ==> [26/11/2024 10:47:06] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\

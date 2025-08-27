@@ -1,0 +1,40 @@
+[INF] ==> [19/11/2024 17:05:32] Now listening on: https://localhost:62362
+[INF] ==> [19/11/2024 17:05:32] Now listening on: http://localhost:62363
+[INF] ==> [19/11/2024 17:05:32] Application started. Press Ctrl+C to shut down.
+[INF] ==> [19/11/2024 17:05:32] Hosting environment: Development
+[INF] ==> [19/11/2024 17:05:32] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [19/11/2024 17:05:34] RemoteIpAddress => ::1
+           Request => Method: GET, Path: /, 
+                      Token: , 
+                      Body: null 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [19/11/2024 17:06:01] Now listening on: https://localhost:62362
+[INF] ==> [19/11/2024 17:06:01] Now listening on: http://localhost:62363
+[INF] ==> [19/11/2024 17:06:01] Application started. Press Ctrl+C to shut down.
+[INF] ==> [19/11/2024 17:06:01] Hosting environment: Development
+[INF] ==> [19/11/2024 17:06:01] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [19/11/2024 17:06:02] RemoteIpAddress => ::1
+           Request => Method: GET, Path: /, 
+                      Token: , 
+                      Body: null 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [19/11/2024 17:06:55] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234","authenTyp":2,"rememberMe":true} 
+           Response => StatusCode: 500, Body: ORA-50000: Connection request timed out
+[INF] ==> [19/11/2024 17:11:24] Now listening on: https://localhost:62362
+[INF] ==> [19/11/2024 17:11:24] Now listening on: http://localhost:62363
+[INF] ==> [19/11/2024 17:11:24] Application started. Press Ctrl+C to shut down.
+[INF] ==> [19/11/2024 17:11:24] Hosting environment: Development
+[INF] ==> [19/11/2024 17:11:24] Content root path: E:\PIACOM\Source Code\APIERP\IdentityServer\
+[INF] ==> [19/11/2024 17:11:26] RemoteIpAddress => ::1
+           Request => Method: GET, Path: /, 
+                      Token: , 
+                      Body: null 
+           Response => StatusCode: 404, Body: 
+[INF] ==> [19/11/2024 17:12:29] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"168kienhx","password":"pia@1234","authenTyp":2,"rememberMe":true} 
+           Response => StatusCode: 500, Body: ORA-50000: Connection request timed out
