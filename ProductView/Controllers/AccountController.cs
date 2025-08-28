@@ -1,10 +1,10 @@
 using Microsoft.AspNetCore.Mvc;
 using ProductView.Services;
-using ProductView.Helpers; // để dùng SessionKeys
+using ProductView.Helpers;
 
 namespace ProductView.Controllers
 {
-    [Route("Auth")] // 👈 tất cả action trong controller này sẽ bắt đầu bằng /Auth
+    [Route("Auth")]
     public class AccountController : Controller
     {
         private readonly IAuthService _authService;
