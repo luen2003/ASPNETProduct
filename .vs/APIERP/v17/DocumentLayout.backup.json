@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{5D70F4B8-F908-473D-BA7B-FDE483EC07F9}|ProductView\\ProductView.csproj|solutionrelative:productview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D70F4B8-F908-473D-BA7B-FDE483EC07F9}|ProductView\\ProductView.csproj|d:\\apierp\\apierp\\productview\\models\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D70F4B8-F908-473D-BA7B-FDE483EC07F9}|ProductView\\ProductView.csproj|solutionrelative:productview\\models\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -645,6 +641,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|d:\\apierp\\apierp\\identityserver\\attributes\\customrouteattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97819E61-2171-4C36-A198-8B6FD4D6ADD5}|IdentityServer\\IdentityServer.csproj|solutionrelative:identityserver\\attributes\\customrouteattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\APIERP\\APIERP\\ProductView\\Models\\AuthDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductView\\Models\\AuthDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -666,7 +666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 160,
               "Title": "AuthDtos.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ProductView\\Models\\AuthDtos.cs",
               "RelativeDocumentMoniker": "ProductView\\Models\\AuthDtos.cs",
@@ -691,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ProductView\\appsettings.json",
               "RelativeDocumentMoniker": "ProductView\\appsettings.json",
@@ -703,7 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "TransactionController.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Controllers\\TransactionController.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Controllers\\TransactionController.cs",
@@ -715,7 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Controllers\\CustomerController.cs",
@@ -727,7 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Startup.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Startup.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Startup.cs",
@@ -739,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Controllers\\ProductController.cs",
@@ -751,7 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ServiceAPI\\appsettings.json",
@@ -763,7 +763,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Response.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\Responses\\Response.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Models\\Responses\\Response.cs",
@@ -775,7 +775,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Controllers\\AuthController.cs",
@@ -787,7 +787,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Program.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Program.cs",
@@ -799,7 +799,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Repositories\\ProductRepository.cs",
@@ -811,7 +811,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\ApiResponse.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Models\\ApiResponse.cs",
@@ -823,7 +823,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Repositories\\Interfaces\\IProductRepository.cs",
@@ -835,7 +835,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Models\\Product.cs",
@@ -847,7 +847,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "TransactionResponse.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\Responses\\TransactionResponse.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Models\\Responses\\TransactionResponse.cs",
@@ -859,7 +859,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Authentication\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Authentication\\ApplicationUser.cs",
@@ -871,7 +871,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "JwtMiddleware.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Authentication\\JwtMiddleware.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Authentication\\JwtMiddleware.cs",
@@ -883,7 +883,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "DapperContext.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Context\\DapperContext.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Context\\DapperContext.cs",
@@ -895,7 +895,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "AuthServiceResponse.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\AuthServiceResponse.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\AuthServiceResponse.cs",
@@ -907,7 +907,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Services\\AuthService.cs",
@@ -919,7 +919,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "SignUpRequest.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Account\\SignUpRequest.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Account\\SignUpRequest.cs",
@@ -931,7 +931,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "Response.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Response.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Response.cs",
@@ -943,7 +943,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Program.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Program.cs",
@@ -955,7 +955,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\appsettings.json",
               "RelativeDocumentMoniker": "OcelotAPIGateway\\appsettings.json",
@@ -967,7 +967,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "Startup.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\Startup.cs",
               "RelativeDocumentMoniker": "OcelotAPIGateway\\Startup.cs",
@@ -979,7 +979,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "ocelot.json",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\ocelot.json",
               "RelativeDocumentMoniker": "OcelotAPIGateway\\ocelot.json",
@@ -991,7 +991,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\Dockerfile",
               "RelativeDocumentMoniker": "OcelotAPIGateway\\Dockerfile",
@@ -1003,7 +1003,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\Program.cs",
               "RelativeDocumentMoniker": "OcelotAPIGateway\\Program.cs",
@@ -1015,7 +1015,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "OcelotAPIGateway\\WeatherForecast.cs",
@@ -1027,7 +1027,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "OcelotAPIGateway.csproj",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\OcelotAPIGateway.csproj",
               "RelativeDocumentMoniker": "OcelotAPIGateway\\OcelotAPIGateway.csproj",
@@ -1039,7 +1039,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\appsettings.json",
               "RelativeDocumentMoniker": "IdentityServer\\appsettings.json",
@@ -1051,7 +1051,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "Utils.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Utils\\Utils.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Utils\\Utils.cs",
@@ -1063,7 +1063,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "Utils.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Utils\\Utils.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Utils\\Utils.cs",
@@ -1075,7 +1075,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "UserCompanyDto.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Dto\\UserCompanyDto.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Domains\\Dto\\UserCompanyDto.cs",
@@ -1087,7 +1087,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "UserAddNewParam.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Param\\UserAddNewParam.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Domains\\Param\\UserAddNewParam.cs",
@@ -1099,7 +1099,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Entities\\User.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Domains\\Entities\\User.cs",
@@ -1111,7 +1111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "log-2024123016.txt",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Logs\\log-2024123016.txt",
               "RelativeDocumentMoniker": "IdentityServer\\Logs\\log-2024123016.txt",
@@ -1123,7 +1123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "ServiceUrlRepository.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Repositories\\ServiceUrlRepository.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Repositories\\ServiceUrlRepository.cs",
@@ -1135,7 +1135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "ServiceUrl.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Entities\\ServiceUrl.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Domains\\Entities\\ServiceUrl.cs",
@@ -1147,7 +1147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Repositories\\UserRepository.cs",
@@ -1159,7 +1159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 40,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "IdentityServer\\Properties\\launchSettings.json",
@@ -1171,7 +1171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 41,
               "Title": "IdentityServer",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\IdentityServer.csproj",
               "RelativeDocumentMoniker": "IdentityServer\\IdentityServer.csproj",
@@ -1182,7 +1182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 42,
               "Title": "Guard.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Guard.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Guard.cs",
@@ -1194,7 +1194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 43,
               "Title": "GlobalData.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\GlobalData.cs",
               "RelativeDocumentMoniker": "IdentityServer\\GlobalData.cs",
@@ -1206,7 +1206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 44,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "IdentityServer\\GlobalUsings.cs",
@@ -1218,7 +1218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 45,
               "Title": "IdentityServer.csproj",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\IdentityServer.csproj",
               "RelativeDocumentMoniker": "IdentityServer\\IdentityServer.csproj",
@@ -1230,7 +1230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 48,
               "Title": "DateTimeParse.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Utils\\DateTimeParse.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Utils\\DateTimeParse.cs",
@@ -1242,7 +1242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 46,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ServiceAPI\\Properties\\launchSettings.json",
@@ -1254,7 +1254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 49,
               "Title": "Constant.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Utils\\Constant.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Utils\\Constant.cs",
@@ -1266,7 +1266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 47,
               "Title": "ServiceAPI.http",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\ServiceAPI.http",
               "RelativeDocumentMoniker": "ServiceAPI\\ServiceAPI.http",
@@ -1278,7 +1278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 50,
               "Title": "CallAPIHttpClient.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Utils\\CallAPIHttpClient.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Utils\\CallAPIHttpClient.cs",
@@ -1290,7 +1290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 51,
               "Title": "VehicleService.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Services\\VehicleService.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Services\\VehicleService.cs",
@@ -1302,7 +1302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 53,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Services\\CustomerService.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Services\\CustomerService.cs",
@@ -1314,7 +1314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 54,
               "Title": "VehicleRepository.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\VehicleRepository.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Repositories\\VehicleRepository.cs",
@@ -1326,7 +1326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 55,
               "Title": "TransactionRepository.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\TransactionRepository.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Repositories\\TransactionRepository.cs",
@@ -1338,7 +1338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 52,
               "Title": "TransactionService.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Services\\TransactionService.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Services\\TransactionService.cs",
@@ -1350,7 +1350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 56,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Repositories\\CustomerRepository.cs",
@@ -1362,7 +1362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 57,
               "Title": "IVehicleRepository.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\Interfaces\\IVehicleRepository.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Repositories\\Interfaces\\IVehicleRepository.cs",
@@ -1374,7 +1374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 58,
               "Title": "ITransactionRepository.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\Interfaces\\ITransactionRepository.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Repositories\\Interfaces\\ITransactionRepository.cs",
@@ -1386,7 +1386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 59,
               "Title": "ICustomerRepository.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Repositories\\Interfaces\\ICustomerRepository.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Repositories\\Interfaces\\ICustomerRepository.cs",
@@ -1398,7 +1398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 60,
               "Title": "TransactionTypeMD.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\Transaction\\TransactionTypeMD.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Models\\Transaction\\TransactionTypeMD.cs",
@@ -1410,7 +1410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 61,
               "Title": "TransactionResponse.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\Transaction\\TransactionResponse.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Models\\Transaction\\TransactionResponse.cs",
@@ -1422,7 +1422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 62,
               "Title": "TransactionRequest.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\Transaction\\TransactionRequest.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Models\\Transaction\\TransactionRequest.cs",
@@ -1434,7 +1434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 63,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\MD\\Vehicle.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Models\\MD\\Vehicle.cs",
@@ -1446,7 +1446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 64,
               "Title": "PageRequest.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\MD\\PageRequest.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Models\\MD\\PageRequest.cs",
@@ -1458,7 +1458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 65,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Models\\MD\\Customer.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Models\\MD\\Customer.cs",
@@ -1470,7 +1470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 66,
               "Title": "BOSL.dll - 1 [Neutral] - Version",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Lib\\BOSL.dll",
               "RelativeDocumentMoniker": "ServiceAPI\\Lib\\BOSL.dll",
@@ -1482,7 +1482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 68,
               "Title": "SystemEnum.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Enums\\SystemEnum.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Enums\\SystemEnum.cs",
@@ -1494,7 +1494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 69,
               "Title": "RoleEnum.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Enums\\RoleEnum.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Enums\\RoleEnum.cs",
@@ -1506,7 +1506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 70,
               "Title": "RBDMSEnum.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Enums\\RBDMSEnum.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Enums\\RBDMSEnum.cs",
@@ -1518,7 +1518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 67,
               "Title": "BOSL.dll",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Lib\\BOSL.dll",
               "RelativeDocumentMoniker": "ServiceAPI\\Lib\\BOSL.dll",
@@ -1529,7 +1529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 71,
               "Title": "VehicleController.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Controllers\\VehicleController.cs",
               "RelativeDocumentMoniker": "ServiceAPI\\Controllers\\VehicleController.cs",
@@ -1541,7 +1541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 72,
               "Title": "ServiceAPI.csproj",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\ServiceAPI.csproj",
               "RelativeDocumentMoniker": "ServiceAPI\\ServiceAPI.csproj",
@@ -1553,7 +1553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 73,
               "Title": "FolderProfile.pubxml",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\Properties\\PublishProfiles\\FolderProfile.pubxml",
               "RelativeDocumentMoniker": "ServiceAPI\\Properties\\PublishProfiles\\FolderProfile.pubxml",
@@ -1565,7 +1565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 74,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\appsettings.Development.json",
               "RelativeDocumentMoniker": "OcelotAPIGateway\\appsettings.Development.json",
@@ -1577,7 +1577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 76,
               "Title": "FolderProfile.pubxml",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\Properties\\PublishProfiles\\FolderProfile.pubxml",
               "RelativeDocumentMoniker": "OcelotAPIGateway\\Properties\\PublishProfiles\\FolderProfile.pubxml",
@@ -1589,7 +1589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 75,
               "Title": "FolderProfile1.pubxml",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\Properties\\PublishProfiles\\FolderProfile1.pubxml",
               "RelativeDocumentMoniker": "OcelotAPIGateway\\Properties\\PublishProfiles\\FolderProfile1.pubxml",
@@ -1601,7 +1601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 77,
               "Title": "OcelotAPIGateway",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\OcelotAPIGateway\\OcelotAPIGateway.csproj",
               "RelativeDocumentMoniker": "OcelotAPIGateway\\OcelotAPIGateway.csproj",
@@ -1612,7 +1612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 78,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Dockerfile",
               "RelativeDocumentMoniker": "IdentityServer\\Dockerfile",
@@ -1624,7 +1624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 79,
               "Title": "Constant.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Utils\\Constant.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Utils\\Constant.cs",
@@ -1636,7 +1636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 80,
               "Title": "CallAPIHttpClient.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Utils\\CallAPIHttpClient.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Utils\\CallAPIHttpClient.cs",
@@ -1648,7 +1648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 82,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Repositories\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Repositories\\Interfaces\\IUserRepository.cs",
@@ -1660,7 +1660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 83,
               "Title": "IServiceUrlRepository.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Repositories\\Interfaces\\IServiceUrlRepository.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Repositories\\Interfaces\\IServiceUrlRepository.cs",
@@ -1672,7 +1672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 84,
               "Title": "ISecretGeneratorProvider.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Providers\\SecretGenerator\\ISecretGeneratorProvider.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Providers\\SecretGenerator\\ISecretGeneratorProvider.cs",
@@ -1684,7 +1684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 81,
               "Title": "DapperContext.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Contexts\\DapperContext.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Contexts\\DapperContext.cs",
@@ -1696,7 +1696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 87,
               "Title": "Secret160BitRandomGeneratorProvider.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Providers\\SecretGenerator\\Implementations\\Secret160BitRandomGeneratorProvider.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Providers\\SecretGenerator\\Implementations\\Secret160BitRandomGeneratorProvider.cs",
@@ -1708,7 +1708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 86,
               "Title": "Secret128BitRandomGeneratorProvider.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Providers\\SecretGenerator\\Implementations\\Secret128BitRandomGeneratorProvider.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Providers\\SecretGenerator\\Implementations\\Secret128BitRandomGeneratorProvider.cs",
@@ -1720,7 +1720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 88,
               "Title": "HMAC256UserIdSecretGeneratorProvider.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Providers\\SecretGenerator\\Implementations\\HMAC256UserIdSecretGeneratorProvider.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Providers\\SecretGenerator\\Implementations\\HMAC256UserIdSecretGeneratorProvider.cs",
@@ -1732,7 +1732,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 85,
               "Title": "BaseRandomSecretGeneratorProvider.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Providers\\SecretGenerator\\Implementations\\BaseRandomSecretGeneratorProvider.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Providers\\SecretGenerator\\Implementations\\BaseRandomSecretGeneratorProvider.cs",
@@ -1744,7 +1744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 89,
               "Title": "SerilogSetting.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\SerilogSetting.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\SerilogSetting.cs",
@@ -1756,7 +1756,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 90,
               "Title": "BasicResponse.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\BasicResponse.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\BasicResponse.cs",
@@ -1768,7 +1768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 91,
               "Title": "RSACrypt.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Settings\\RSACrypt.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Settings\\RSACrypt.cs",
@@ -1780,7 +1780,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 92,
               "Title": "OTPSettings.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Settings\\OTPSettings.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Settings\\OTPSettings.cs",
@@ -1792,7 +1792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 93,
               "Title": "ISettings.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Settings\\ISettings.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Settings\\ISettings.cs",
@@ -1804,7 +1804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 94,
               "Title": "Audience.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Settings\\Audience.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Settings\\Audience.cs",
@@ -1816,7 +1816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 95,
               "Title": "Response.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Responses\\Response.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Responses\\Response.cs",
@@ -1828,7 +1828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 96,
               "Title": "PlxAuthenticateResponse.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Responses\\PlxAuthenticateResponse.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Responses\\PlxAuthenticateResponse.cs",
@@ -1840,7 +1840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 97,
               "Title": "ValidateOTPResponse.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\OTPResult\\ValidateOTPResponse.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\OTPResult\\ValidateOTPResponse.cs",
@@ -1852,7 +1852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 98,
               "Title": "ValidateOtpRequest.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\OTPResult\\ValidateOtpRequest.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\OTPResult\\ValidateOtpRequest.cs",
@@ -1864,7 +1864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 99,
               "Title": "SendOTPResponse.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\OTPResult\\SendOTPResponse.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\OTPResult\\SendOTPResponse.cs",
@@ -1876,7 +1876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 100,
               "Title": "SendOtpRequest.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\OTPResult\\SendOtpRequest.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\OTPResult\\SendOtpRequest.cs",
@@ -1888,7 +1888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 101,
               "Title": "OTPResult.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\OTPResult\\OTPResult.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\OTPResult\\OTPResult.cs",
@@ -1900,7 +1900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 102,
               "Title": "SMSDriverPurchaseRequest.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\SMSDriverPurchaseRequest.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\SMSDriverPurchaseRequest.cs",
@@ -1912,7 +1912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 103,
               "Title": "SignInResponse.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\SignInResponse.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\SignInResponse.cs",
@@ -1924,7 +1924,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 104,
               "Title": "SignInRequest.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\SignInRequest.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\SignInRequest.cs",
@@ -1936,7 +1936,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 105,
               "Title": "SendPinSMSRequest.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\SendPinSMSRequest.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\SendPinSMSRequest.cs",
@@ -1948,7 +1948,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 106,
               "Title": "RefreshBothTokenRequest.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\RefreshBothTokenRequest.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\RefreshBothTokenRequest.cs",
@@ -1960,7 +1960,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 107,
               "Title": "GetCryptKeyResponse.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\GetCryptKeyResponse.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\GetCryptKeyResponse.cs",
@@ -1972,7 +1972,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 108,
               "Title": "CreateUserByPLXIDResponse.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\CreateUserByPLXIDResponse.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\CreateUserByPLXIDResponse.cs",
@@ -1984,7 +1984,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 109,
               "Title": "CreateUserByPLXIDRequest.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\CreateUserByPLXIDRequest.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\CreateUserByPLXIDRequest.cs",
@@ -1996,7 +1996,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 110,
               "Title": "CheckPinRequest.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\CheckPinRequest.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\CheckPinRequest.cs",
@@ -2008,7 +2008,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 112,
+              "DocumentIndex": 111,
               "Title": "AuthServiceRequest.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Auth\\AuthServiceRequest.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Auth\\AuthServiceRequest.cs",
@@ -2020,7 +2020,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 113,
+              "DocumentIndex": 112,
               "Title": "SignUpResponse.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Account\\SignUpResponse.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Account\\SignUpResponse.cs",
@@ -2032,7 +2032,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 114,
+              "DocumentIndex": 113,
               "Title": "SendOTPPasswordRequest.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Account\\SendOTPPasswordRequest.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Account\\SendOTPPasswordRequest.cs",
@@ -2044,7 +2044,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 115,
+              "DocumentIndex": 114,
               "Title": "ResetPasswordRequest.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Account\\ResetPasswordRequest.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Account\\ResetPasswordRequest.cs",
@@ -2056,7 +2056,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 116,
+              "DocumentIndex": 115,
               "Title": "MapUserVehicleRequest.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Account\\MapUserVehicleRequest.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Account\\MapUserVehicleRequest.cs",
@@ -2068,7 +2068,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 117,
+              "DocumentIndex": 116,
               "Title": "ForgotPasswordRequest.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Account\\ForgotPasswordRequest.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Account\\ForgotPasswordRequest.cs",
@@ -2080,7 +2080,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 118,
+              "DocumentIndex": 117,
               "Title": "ChangePasswordRequest.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Models\\Account\\ChangePasswordRequest.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Models\\Account\\ChangePasswordRequest.cs",
@@ -2092,7 +2092,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 119,
+              "DocumentIndex": 118,
               "Title": "log-2024112318.txt",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Logs\\log-2024112318.txt",
               "RelativeDocumentMoniker": "IdentityServer\\Logs\\log-2024112318.txt",
@@ -2104,7 +2104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 120,
+              "DocumentIndex": 119,
               "Title": "BOSDLL.dll",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Lib\\BOSDLL.dll",
               "RelativeDocumentMoniker": "IdentityServer\\Lib\\BOSDLL.dll",
@@ -2115,7 +2115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 121,
+              "DocumentIndex": 120,
               "Title": "SQLMethodHelper.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Helpers\\SQLMethodHelper.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Helpers\\SQLMethodHelper.cs",
@@ -2127,7 +2127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 122,
+              "DocumentIndex": 121,
               "Title": "MethodHelper.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Helpers\\MethodHelper.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Helpers\\MethodHelper.cs",
@@ -2139,7 +2139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 123,
+              "DocumentIndex": 122,
               "Title": "LoggingHelper.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Helpers\\LoggingHelper.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Helpers\\LoggingHelper.cs",
@@ -2151,7 +2151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 124,
+              "DocumentIndex": 123,
               "Title": "IdentityHelper.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Helpers\\IdentityHelper.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Helpers\\IdentityHelper.cs",
@@ -2163,7 +2163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 125,
+              "DocumentIndex": 124,
               "Title": "FileHelper.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Helpers\\FileHelper.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Helpers\\FileHelper.cs",
@@ -2175,7 +2175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 126,
+              "DocumentIndex": 125,
               "Title": "ExceptionHelper.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Helpers\\ExceptionHelper.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Helpers\\ExceptionHelper.cs",
@@ -2187,7 +2187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 127,
+              "DocumentIndex": 126,
               "Title": "AssemblyHelper.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Helpers\\AssemblyHelper.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Helpers\\AssemblyHelper.cs",
@@ -2199,7 +2199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 128,
+              "DocumentIndex": 127,
               "Title": "Guard.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Guards\\Guard.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Guards\\Guard.cs",
@@ -2211,7 +2211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 129,
+              "DocumentIndex": 128,
               "Title": "DictionaryExtensions.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Extensions\\DictionaryExtensions.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Extensions\\DictionaryExtensions.cs",
@@ -2223,7 +2223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 131,
+              "DocumentIndex": 130,
               "Title": "DateTimeConverterTimeZone.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Extensions\\DateTimeConverterTimeZone.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Extensions\\DateTimeConverterTimeZone.cs",
@@ -2235,7 +2235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 133,
+              "DocumentIndex": 132,
               "Title": "DateOnlyJsonConverter.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Extensions\\DateOnlyJsonConverter.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Extensions\\DateOnlyJsonConverter.cs",
@@ -2247,7 +2247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 132,
+              "DocumentIndex": 131,
               "Title": "DateOnlyTypeConverter.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Extensions\\DateOnlyTypeConverter.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Extensions\\DateOnlyTypeConverter.cs",
@@ -2259,7 +2259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 134,
+              "DocumentIndex": 133,
               "Title": "DapperExtension.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Extensions\\DapperExtension.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Extensions\\DapperExtension.cs",
@@ -2271,7 +2271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 130,
+              "DocumentIndex": 129,
               "Title": "DateTimeParse.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Extensions\\DateTimeParse.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Extensions\\DateTimeParse.cs",
@@ -2283,7 +2283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 135,
+              "DocumentIndex": 134,
               "Title": "UnauthorizedException.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Exceptions\\UnauthorizedException.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Exceptions\\UnauthorizedException.cs",
@@ -2295,7 +2295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 136,
+              "DocumentIndex": 135,
               "Title": "GlobalInternalServerException.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Exceptions\\GlobalInternalServerException.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Exceptions\\GlobalInternalServerException.cs",
@@ -2307,7 +2307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 137,
+              "DocumentIndex": 136,
               "Title": "ForbiddenException.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Exceptions\\ForbiddenException.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Exceptions\\ForbiddenException.cs",
@@ -2319,7 +2319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 138,
+              "DocumentIndex": 137,
               "Title": "BadRequestException.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Exceptions\\BadRequestException.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Exceptions\\BadRequestException.cs",
@@ -2331,7 +2331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 139,
+              "DocumentIndex": 138,
               "Title": "SystemEnum.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Enums\\SystemEnum.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Enums\\SystemEnum.cs",
@@ -2343,7 +2343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 140,
+              "DocumentIndex": 139,
               "Title": "RoleEnum.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Enums\\RoleEnum.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Enums\\RoleEnum.cs",
@@ -2355,7 +2355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 141,
+              "DocumentIndex": 140,
               "Title": "RBDMSEnum.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Enums\\RBDMSEnum.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Enums\\RBDMSEnum.cs",
@@ -2367,7 +2367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 142,
+              "DocumentIndex": 141,
               "Title": "UserPin.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Entities\\UserPin.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Domains\\Entities\\UserPin.cs",
@@ -2379,7 +2379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 143,
+              "DocumentIndex": 142,
               "Title": "UserSetting.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Dto\\UserSetting.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Domains\\Dto\\UserSetting.cs",
@@ -2391,7 +2391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 144,
+              "DocumentIndex": 143,
               "Title": "PlxIdInfoDto.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Dto\\PlxIdInfoDto.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Domains\\Dto\\PlxIdInfoDto.cs",
@@ -2403,7 +2403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 145,
+              "DocumentIndex": 144,
               "Title": "LogSMS.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Dto\\LogSMS.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Domains\\Dto\\LogSMS.cs",
@@ -2415,7 +2415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 146,
+              "DocumentIndex": 145,
               "Title": "CustomerInfoDto.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Dto\\CustomerInfoDto.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Domains\\Dto\\CustomerInfoDto.cs",
@@ -2427,7 +2427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 147,
+              "DocumentIndex": 146,
               "Title": "CheckPinDto.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Domains\\Dto\\CheckPinDto.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Domains\\Dto\\CheckPinDto.cs",
@@ -2439,7 +2439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 148,
+              "DocumentIndex": 147,
               "Title": "StringConverter.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Converters\\StringConverter.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Converters\\StringConverter.cs",
@@ -2451,7 +2451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 149,
+              "DocumentIndex": 148,
               "Title": "IOneWayConverter.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Converters\\IOneWayConverter.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Converters\\IOneWayConverter.cs",
@@ -2463,7 +2463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 150,
+              "DocumentIndex": 149,
               "Title": "HOTPValueLongToByteArrayConverter.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Converters\\HOTPValueLongToByteArrayConverter.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Converters\\HOTPValueLongToByteArrayConverter.cs",
@@ -2475,7 +2475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 151,
+              "DocumentIndex": 150,
               "Title": "EFContext.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Contexts\\EFContext.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Contexts\\EFContext.cs",
@@ -2487,7 +2487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 152,
+              "DocumentIndex": 151,
               "Title": "HttpClientService.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Communication\\Sync\\HttpClientService.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Communication\\Sync\\HttpClientService.cs",
@@ -2499,7 +2499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 153,
+              "DocumentIndex": 152,
               "Title": "GlobalData.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Common\\GlobalData.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Common\\GlobalData.cs",
@@ -2511,7 +2511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 154,
+              "DocumentIndex": 153,
               "Title": "ServiceAPI",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\ServiceAPI\\ServiceAPI.csproj",
               "RelativeDocumentMoniker": "ServiceAPI\\ServiceAPI.csproj",
@@ -2522,7 +2522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 155,
+              "DocumentIndex": 154,
               "Title": "JwtMiddleware.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Authentication\\JwtMiddleware.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Authentication\\JwtMiddleware.cs",
@@ -2534,7 +2534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 156,
+              "DocumentIndex": 155,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Authentication\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Authentication\\ApplicationUser.cs",
@@ -2546,7 +2546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 157,
+              "DocumentIndex": 156,
               "Title": "RoleRejectedAttribute.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Attributes\\RoleRejectedAttribute.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Attributes\\RoleRejectedAttribute.cs",
@@ -2558,7 +2558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 158,
+              "DocumentIndex": 157,
               "Title": "RoleAttribute.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Attributes\\RoleAttribute.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Attributes\\RoleAttribute.cs",
@@ -2570,7 +2570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 159,
+              "DocumentIndex": 158,
               "Title": "RoleAcceptedAttribute.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Attributes\\RoleAcceptedAttribute.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Attributes\\RoleAcceptedAttribute.cs",
@@ -2582,7 +2582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 160,
+              "DocumentIndex": 159,
               "Title": "CustomRouteAttribute.cs",
               "DocumentMoniker": "D:\\APIERP\\APIERP\\IdentityServer\\Attributes\\CustomRouteAttribute.cs",
               "RelativeDocumentMoniker": "IdentityServer\\Attributes\\CustomRouteAttribute.cs",

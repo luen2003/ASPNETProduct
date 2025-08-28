@@ -13,7 +13,7 @@ namespace ProductView.Services
         public AuthService(HttpClient http)
         {
             _http = http;
-            _http.BaseAddress = new Uri("https://localhost:62362/"); // 👈 API IdentityServer
+            _http.BaseAddress = new Uri("https://localhost:62362/"); // API IdentityServer
         }
 
         public async Task<string?> LoginAndGetTokenAsync(string username, string password, CancellationToken ct = default)
