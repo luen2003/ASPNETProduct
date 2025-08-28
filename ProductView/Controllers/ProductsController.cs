@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using ProductView.Models;
 using ProductView.Services;
-using ProductView.Helpers; // để dùng SessionKeys
+using ProductView.Helpers;
 
 namespace ProductView.Controllers
 {

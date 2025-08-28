@@ -4,7 +4,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.AspNetCore.HttpOverrides;
-using ProductView.Services; // đổi WebClient.Services -> ProductView.Services
+using ProductView.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

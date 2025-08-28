@@ -41,7 +41,6 @@ namespace ProductView.Services
 
             using var doc = JsonDocument.Parse(content);
 
-            // 👇 lấy "data" -> "token"
             if (doc.RootElement.TryGetProperty("data", out var dataElement))
             {
                 if (dataElement.TryGetProperty("token", out var tokenElement))
