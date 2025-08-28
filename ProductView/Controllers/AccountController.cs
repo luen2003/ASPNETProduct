@@ -42,7 +42,8 @@ namespace ProductView.Controllers
             }
             catch (Exception ex)
             {
-                TempData["Error"] = "Lỗi đăng nhập: " + ex.Message;
+                TempData["Error"] = "Đăng nhập thất bại. Vui lòng kiểm tra tài khoản/mật khẩu.";
+                 //Lỗi đăng nhập: " + ex.Message;
                 return View();
             }
         }
