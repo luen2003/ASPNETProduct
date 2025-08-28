@@ -1,0 +1,40 @@
+[INF] ==> [28/08/2025 10:07:05] Now listening on: https://localhost:62362
+[INF] ==> [28/08/2025 10:07:05] Now listening on: http://localhost:62363
+[INF] ==> [28/08/2025 10:07:05] Application started. Press Ctrl+C to shut down.
+[INF] ==> [28/08/2025 10:07:05] Hosting environment: Development
+[INF] ==> [28/08/2025 10:07:05] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [28/08/2025 10:07:12] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"28/08/2025 10:07:12","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJmY2E1ZjAzMi0xOTdlLTQwMmYtYjgwOS1kYjliMzg2YzFkNjgiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYzNTA0MzEsImV4cCI6MjA2NzM5MDQzMSwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiTHVvbmdURCJ9.9uUeckGElcxDWhLEwWxg8q-E7b54yT02CjggdgN27aLnOoyZIn6LrUxo0Aj7ZVBR-w5QQgzR1kloG8WnLqx-ug"}}
+[INF] ==> [28/08/2025 10:08:32] Now listening on: https://localhost:62362
+[INF] ==> [28/08/2025 10:08:32] Now listening on: http://localhost:62363
+[INF] ==> [28/08/2025 10:08:32] Application started. Press Ctrl+C to shut down.
+[INF] ==> [28/08/2025 10:08:32] Hosting environment: Development
+[INF] ==> [28/08/2025 10:08:32] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [28/08/2025 10:08:37] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"28/08/2025 10:08:37","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJjZjBmZWFkMy1jMmQ3LTRlODQtYjYxNy0yZmM1NmJhNDZhMGMiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYzNTA1MTcsImV4cCI6MjA2NzM5MDUxNywiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiTHVvbmdURCJ9.FFIpo8KK6QpJCJMsNfPOm6qRt0pKK3_3oB6ucXVanD1s0n3JOZJBHmLli_qy94wAeoWpn4aoATPVfQ02fFaM-Q"}}
+[INF] ==> [28/08/2025 10:08:43] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456h"} 
+           Response => StatusCode: 200, Body: {"code":"03","message":"Mật khẩu không đúng.","data":null}
+[INF] ==> [28/08/2025 10:10:10] Now listening on: https://localhost:62362
+[INF] ==> [28/08/2025 10:10:10] Now listening on: http://localhost:62363
+[INF] ==> [28/08/2025 10:10:10] Application started. Press Ctrl+C to shut down.
+[INF] ==> [28/08/2025 10:10:10] Hosting environment: Development
+[INF] ==> [28/08/2025 10:10:10] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [28/08/2025 10:11:27] Now listening on: https://localhost:62362
+[INF] ==> [28/08/2025 10:11:27] Now listening on: http://localhost:62363
+[INF] ==> [28/08/2025 10:11:27] Application started. Press Ctrl+C to shut down.
+[INF] ==> [28/08/2025 10:11:27] Hosting environment: Development
+[INF] ==> [28/08/2025 10:11:27] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [28/08/2025 10:11:34] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"28/08/2025 10:11:34","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiIwNmQ1NzkzNC0xNGI5LTRhM2EtYjE4Ny0zOGRkZmFhODQzNTciLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTYzNTA2OTQsImV4cCI6MjA2NzM5MDY5NCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiTHVvbmdURCJ9.-D0KrOnFf8efxlE2hu8WwrJ3xJaI3jUFElYNSPDKqYhjUpK_-PpO9Tl1M2GcOjKcALs8fBEx5fAVIBlWxSGU_g"}}

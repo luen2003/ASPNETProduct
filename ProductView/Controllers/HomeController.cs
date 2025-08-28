@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace WebClient.Controllers
+namespace ProductView.Controllers
 {
     public class HomeController : Controller
     {
