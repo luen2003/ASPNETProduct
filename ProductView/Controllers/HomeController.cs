@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Diagnostics;
 
 namespace ProductView.Controllers
 {
@@ -10,7 +11,7 @@ namespace ProductView.Controllers
         }
         public IActionResult Error()
         {
-            var exception = HttpContext.Features.Get<Microsoft.AspNetCore.Diagnostics.IExceptionHandlerFeature>()?.Error;
+            var exception = HttpContext.Features.Get<IExceptionHandlerFeature>()?.Error;
             return View(model: exception?.Message);
         }
 
