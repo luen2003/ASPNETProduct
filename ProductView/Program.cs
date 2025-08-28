@@ -8,10 +8,8 @@ using ProductView.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 builder.Services.AddControllersWithViews();
 
-// Add Session
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession(options =>
 {
@@ -20,21 +18,18 @@ builder.Services.AddSession(options =>
     options.Cookie.IsEssential = true;
 });
 
-// HttpClientFactory - IdentityServer
 builder.Services.AddHttpClient("IdentityServer", client =>
 {
     var baseUrl = builder.Configuration["IdentityServer:BaseUrl"]!;
     client.BaseAddress = new Uri(baseUrl);
 });
 
-// HttpClientFactory - ServiceApi
 builder.Services.AddHttpClient("ServiceApi", client =>
 {
     var baseUrl = builder.Configuration["ServiceApi:BaseUrl"]!;
     client.BaseAddress = new Uri(baseUrl);
 });
 
-// DI services
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddHttpClient<IProductService, ProductService>(client =>
 {
@@ -47,7 +42,6 @@ builder.Services.AddHttpClient<IProductService, ProductService>(client =>
 var app = builder.Build();
 builder.Services.AddSession();
 
-// Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
