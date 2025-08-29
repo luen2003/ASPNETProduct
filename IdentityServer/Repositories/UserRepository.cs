@@ -94,7 +94,7 @@ namespace IdentityServer.Repositories
         {
             using var connection = _context.CreateConnection();
 
-            string hashedPassword = BUtils.GetMD5Hash(user.Password + user.UserName);
+            string hashedPassword = BUtils.GetMD5Hash(user.Password);
 
             const string sql = @"
     INSERT INTO MD.Users (C, N, SHORTN, PWD, UTYPE)
