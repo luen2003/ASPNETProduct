@@ -2,17 +2,18 @@
     ViewData["Title"] = "Đăng nhập";
 }
 
-@if (TempData["Success"] != null)
-{
-    <div class="alert alert-success">@TempData["Success"]</div>
-}
-@if (TempData["Error"] != null)
-{
-    <div class="alert alert-danger">@TempData["Error"]</div>
-}
+
 
 <div class="row justify-content-center">
     <div class="col-md-4">
+        @if (TempData["Success"] != null)
+        {
+            <div class="alert alert-success">@TempData["Success"]</div>
+        }
+        @if (TempData["Error"] != null)
+        {
+            <div class="alert alert-danger">@TempData["Error"]</div>
+        }
         <h3 class="mb-3">Đăng nhập</h3>
         <form method="post" asp-controller="Account" asp-action="Login">
             <div class="mb-3">

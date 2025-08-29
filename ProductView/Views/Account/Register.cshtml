@@ -5,10 +5,13 @@
     <div class="col-md-4">
         <h3 class="mb-3">Đăng ký</h3>
 
-        @* Hiển thị lỗi từ ViewBag (nếu có) *@
-        @if (ViewBag.Error != null)
+        @if (TempData["Error"] != null)
         {
-            <div class="alert alert-danger">@ViewBag.Error</div>
+            <div class="alert alert-danger">@TempData["Error"]</div>
+        }
+        @if (TempData["Success"] != null)
+        {
+            <div class="alert alert-success">@TempData["Success"]</div>
         }
 
         <form method="post" asp-controller="Account" asp-action="Register">

@@ -18,14 +18,14 @@
 </div>
 </nav>
 <div class="container py-3">
-@if (TempData["Error"] != null)
+@*@if (TempData["Error"] != null)
 {
 <div class="alert alert-danger">@TempData["Error"]</div>
 }
 @if (TempData["Success"] != null)
 {
 <div class="alert alert-success">@TempData["Success"]</div>
-}
+}*@
 @RenderBody()
 </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>

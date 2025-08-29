@@ -3,3 +3,18 @@
                       Token: , 
                       Body: {"userName":"user123","password":"user123456"} 
            Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"29/08/2025 14:54:10","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwIiwianRpIjoiNzFjMzJlM2UtNTlkOC00ODJkLWFhNDEtNmM4Yjg4ZWU1ZGQ1IiwibmFtZWlkIjoidXNlcjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6InVzZXIxMjMiLCJSb2xlIjoiVTAiLCJQbHhJZCI6IiIsIm5iZiI6MTc1NjQ1NDA1MCwiZXhwIjoyMDY3NDk0MDUwLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwNzkiLCJhdWQiOiJMdW9uZ1REIn0.g15lm5ohwkTh3Sds7eIzR6s5CLKP8pZPRGaI1J0xKeksB76n31AX5tG3FxsNDQsQ8b6q6gDwJY3AVNJgBNeI3Q"}}
+[INF] ==> [29/08/2025 14:57:57] Now listening on: https://localhost:62362
+[INF] ==> [29/08/2025 14:57:57] Now listening on: http://localhost:62363
+[INF] ==> [29/08/2025 14:57:57] Application started. Press Ctrl+C to shut down.
+[INF] ==> [29/08/2025 14:57:57] Hosting environment: Development
+[INF] ==> [29/08/2025 14:57:57] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [29/08/2025 14:58:04] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user12345","password":"user123456"} 
+           Response => StatusCode: 200, Body: {"message":"Đăng ký thành công.","username":"user12345"}
+[INF] ==> [29/08/2025 14:58:21] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user123","password":null} 
+           Response => StatusCode: 400, Body: {"code":"400","message":"Bad request","data":["The Password field is required."]}

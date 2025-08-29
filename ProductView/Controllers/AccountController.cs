@@ -89,6 +89,7 @@ namespace ProductView.Controllers
                 if (response.IsSuccessStatusCode)
                 {
                     TempData["Success"] = "Đăng ký thành công. Vui lòng đăng nhập!";
+                    return RedirectToAction("Login");
                 }
                 else
                 {
@@ -98,20 +99,20 @@ namespace ProductView.Controllers
 
                         if (errorObj.TryGetProperty("data", out var data) && data.ValueKind == JsonValueKind.Array && data.GetArrayLength() > 0)
                         {
-                            ViewBag.Error = data[0].GetString();
+                            TempData["Error"] = data[0].GetString();
                         }
                         else if (errorObj.TryGetProperty("message", out var message))
                         {
-                            ViewBag.Error = message.GetString();
+                            TempData["Error"] = message.GetString();
                         }
                         else
                         {
-                            ViewBag.Error = "Đăng ký thất bại.";
+                            TempData["Error"] = "Đăng ký thất bại.";
                         }
                     }
                     catch
                     {
-                        ViewBag.Error = "Đăng ký thất bại: " + content;
+                        TempData["Error"] = "Đăng ký thất bại: " + content;
                     }
                 }
 
