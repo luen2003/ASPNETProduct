@@ -99,14 +99,15 @@ namespace IdentityServer.Repositories
             const string sql = @"
     INSERT INTO MD.Users (C, N, SHORTN, PWD, UTYPE)
     VALUES (@C, @N, @SHORTN, @PWD, @UTYPE)";
-    
-await connection.ExecuteAsync(sql, new {
-    C = user.UserName,
-    N = user.FullName ?? user.UserName,
-    SHORTN = user.ShortName ?? user.UserName,
-    PWD = user.Password,
-    UTYPE = user.UserType
-});
+
+            await connection.ExecuteAsync(sql, new
+            {
+                C = user.UserName,
+                N = user.FullName ?? user.UserName,
+                SHORTN = user.ShortName ?? user.UserName,
+                PWD = user.Password,
+                UTYPE = user.UserType
+            });
 
         }
 
