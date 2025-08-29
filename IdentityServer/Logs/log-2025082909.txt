@@ -1,0 +1,493 @@
+[ERR] ==> [29/08/2025 09:00:05] Đăng ký thất bại.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Arithmetic overflow error converting expression to data type datetime.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__193_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at IdentityServer.Repositories.UserRepository.CreateUser(User user) in D:\APIERP\APIERP\IdentityServer\Repositories\UserRepository.cs:line 213
+   at IdentityServer.Services.AuthService.RegisterUserAsync(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Services\AuthService.cs:line 49
+   at IdentityServer.Controllers.AuthController.Register(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Controllers\AuthController.cs:line 56
+ClientConnectionId:f5eaf73a-7978-46ab-9211-f71872c10564
+Error Number:8115,State:2,Class:16
+[INF] ==> [29/08/2025 09:00:05] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user","password":"user123"} 
+           Response => StatusCode: 500, Body: Lỗi hệ thống: Arithmetic overflow error converting expression to data type datetime.
+The statement has been terminated. -    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__193_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at IdentityServer.Repositories.UserRepository.CreateUser(User user) in D:\APIERP\APIERP\IdentityServer\Repositories\UserRepository.cs:line 213
+   at IdentityServer.Services.AuthService.RegisterUserAsync(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Services\AuthService.cs:line 49
+   at IdentityServer.Controllers.AuthController.Register(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Controllers\AuthController.cs:line 56
+[INF] ==> [29/08/2025 09:04:44] Now listening on: https://localhost:62362
+[INF] ==> [29/08/2025 09:04:44] Now listening on: http://localhost:62363
+[INF] ==> [29/08/2025 09:04:44] Application started. Press Ctrl+C to shut down.
+[INF] ==> [29/08/2025 09:04:44] Hosting environment: Development
+[INF] ==> [29/08/2025 09:04:44] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [29/08/2025 09:07:51] Now listening on: https://localhost:62362
+[INF] ==> [29/08/2025 09:07:51] Now listening on: http://localhost:62363
+[INF] ==> [29/08/2025 09:07:51] Application started. Press Ctrl+C to shut down.
+[INF] ==> [29/08/2025 09:07:51] Hosting environment: Development
+[INF] ==> [29/08/2025 09:07:51] Content root path: D:\APIERP\APIERP\IdentityServer
+[ERR] ==> [29/08/2025 09:08:12] Đăng ký thất bại.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Must declare the scalar variable "@C".
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__193_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at IdentityServer.Repositories.UserRepository.CreateUser(User user) in D:\APIERP\APIERP\IdentityServer\Repositories\UserRepository.cs:line 201
+   at IdentityServer.Services.AuthService.RegisterUserAsync(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Services\AuthService.cs:line 61
+   at IdentityServer.Controllers.AuthController.Register(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Controllers\AuthController.cs:line 56
+ClientConnectionId:d97c36ca-0817-4330-9e82-3b2c60e794c8
+Error Number:137,State:2,Class:15
+[INF] ==> [29/08/2025 09:08:12] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user","password":"user"} 
+           Response => StatusCode: 500, Body: Lỗi hệ thống: Must declare the scalar variable "@C". -    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__193_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at IdentityServer.Repositories.UserRepository.CreateUser(User user) in D:\APIERP\APIERP\IdentityServer\Repositories\UserRepository.cs:line 201
+   at IdentityServer.Services.AuthService.RegisterUserAsync(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Services\AuthService.cs:line 61
+   at IdentityServer.Controllers.AuthController.Register(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Controllers\AuthController.cs:line 56
+[INF] ==> [29/08/2025 09:08:30] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"username":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"29/08/2025 09:08:30","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJhMTYwNWY0My1jNmRkLTQ1ODMtODM3MS00ZjAzY2RkMjlmYTQiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTY0MzMzMTAsImV4cCI6MjA2NzQ3MzMxMCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiTHVvbmdURCJ9.PE86SIkaASc2AZMu1xwheKCS03e4lIdLfJWJGzzWuLPLfqcDbVikP4qVkLgoY7J3GVVCjaHPRE-flOhZBu8ajg"}}
+[ERR] ==> [29/08/2025 09:08:35] Đăng ký thất bại.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Must declare the scalar variable "@C".
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__193_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at IdentityServer.Repositories.UserRepository.CreateUser(User user) in D:\APIERP\APIERP\IdentityServer\Repositories\UserRepository.cs:line 201
+   at IdentityServer.Services.AuthService.RegisterUserAsync(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Services\AuthService.cs:line 61
+   at IdentityServer.Controllers.AuthController.Register(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Controllers\AuthController.cs:line 56
+ClientConnectionId:d97c36ca-0817-4330-9e82-3b2c60e794c8
+Error Number:137,State:2,Class:15
+[INF] ==> [29/08/2025 09:08:35] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user","password":"user"} 
+           Response => StatusCode: 500, Body: Lỗi hệ thống: Must declare the scalar variable "@C". -    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__193_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at IdentityServer.Repositories.UserRepository.CreateUser(User user) in D:\APIERP\APIERP\IdentityServer\Repositories\UserRepository.cs:line 201
+   at IdentityServer.Services.AuthService.RegisterUserAsync(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Services\AuthService.cs:line 61
+   at IdentityServer.Controllers.AuthController.Register(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Controllers\AuthController.cs:line 56
+[INF] ==> [29/08/2025 09:17:32] Now listening on: https://localhost:62362
+[INF] ==> [29/08/2025 09:17:32] Now listening on: http://localhost:62363
+[INF] ==> [29/08/2025 09:17:32] Application started. Press Ctrl+C to shut down.
+[INF] ==> [29/08/2025 09:17:32] Hosting environment: Development
+[INF] ==> [29/08/2025 09:17:32] Content root path: D:\APIERP\APIERP\IdentityServer
+[ERR] ==> [29/08/2025 09:17:49] Đăng ký thất bại.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'Status'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__193_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at IdentityServer.Repositories.UserRepository.CreateUser(User user) in D:\APIERP\APIERP\IdentityServer\Repositories\UserRepository.cs:line 104
+   at IdentityServer.Services.AuthService.RegisterUserAsync(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Services\AuthService.cs:line 61
+   at IdentityServer.Controllers.AuthController.Register(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Controllers\AuthController.cs:line 56
+ClientConnectionId:bc3ede4b-502d-4ec4-8723-6598e4ddbeea
+Error Number:207,State:1,Class:16
+[INF] ==> [29/08/2025 09:17:50] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user","password":"user"} 
+           Response => StatusCode: 500, Body: Lỗi hệ thống: Invalid column name 'Status'. -    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__193_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at IdentityServer.Repositories.UserRepository.CreateUser(User user) in D:\APIERP\APIERP\IdentityServer\Repositories\UserRepository.cs:line 104
+   at IdentityServer.Services.AuthService.RegisterUserAsync(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Services\AuthService.cs:line 61
+   at IdentityServer.Controllers.AuthController.Register(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Controllers\AuthController.cs:line 56
+[INF] ==> [29/08/2025 09:20:48] Now listening on: https://localhost:62362
+[INF] ==> [29/08/2025 09:20:48] Now listening on: http://localhost:62363
+[INF] ==> [29/08/2025 09:20:48] Application started. Press Ctrl+C to shut down.
+[INF] ==> [29/08/2025 09:20:48] Hosting environment: Development
+[INF] ==> [29/08/2025 09:20:48] Content root path: D:\APIERP\APIERP\IdentityServer
+[ERR] ==> [29/08/2025 09:21:11] Đăng ký thất bại.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Conversion failed when converting the nvarchar value 'user' to data type int.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__193_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at IdentityServer.Repositories.UserRepository.CreateUser(User user) in D:\APIERP\APIERP\IdentityServer\Repositories\UserRepository.cs:line 104
+   at IdentityServer.Services.AuthService.RegisterUserAsync(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Services\AuthService.cs:line 61
+   at IdentityServer.Controllers.AuthController.Register(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Controllers\AuthController.cs:line 56
+ClientConnectionId:3b77730c-4dd0-4e47-ae05-da4432afc7c1
+Error Number:245,State:1,Class:16
+[INF] ==> [29/08/2025 09:21:11] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user","password":"user"} 
+           Response => StatusCode: 500, Body: Lỗi hệ thống: Conversion failed when converting the nvarchar value 'user' to data type int. -    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__193_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at IdentityServer.Repositories.UserRepository.CreateUser(User user) in D:\APIERP\APIERP\IdentityServer\Repositories\UserRepository.cs:line 104
+   at IdentityServer.Services.AuthService.RegisterUserAsync(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Services\AuthService.cs:line 61
+   at IdentityServer.Controllers.AuthController.Register(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Controllers\AuthController.cs:line 56
+[INF] ==> [29/08/2025 09:26:50] Now listening on: https://localhost:62362
+[INF] ==> [29/08/2025 09:26:50] Now listening on: http://localhost:62363
+[INF] ==> [29/08/2025 09:26:50] Application started. Press Ctrl+C to shut down.
+[INF] ==> [29/08/2025 09:26:50] Hosting environment: Development
+[INF] ==> [29/08/2025 09:26:50] Content root path: D:\APIERP\APIERP\IdentityServer
+[ERR] ==> [29/08/2025 09:27:11] Đăng ký thất bại.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Conversion failed when converting the nvarchar value 'user' to data type int.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__193_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at IdentityServer.Repositories.UserRepository.CreateUser(User user) in D:\APIERP\APIERP\IdentityServer\Repositories\UserRepository.cs:line 104
+   at IdentityServer.Services.AuthService.RegisterUserAsync(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Services\AuthService.cs:line 51
+   at IdentityServer.Controllers.AuthController.Register(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Controllers\AuthController.cs:line 56
+ClientConnectionId:83ff1b07-16bc-4316-a334-bf2099d2a177
+Error Number:245,State:1,Class:16
+[INF] ==> [29/08/2025 09:27:11] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user","password":"user"} 
+           Response => StatusCode: 500, Body: Lỗi hệ thống: Conversion failed when converting the nvarchar value 'user' to data type int. -    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__193_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at IdentityServer.Repositories.UserRepository.CreateUser(User user) in D:\APIERP\APIERP\IdentityServer\Repositories\UserRepository.cs:line 104
+   at IdentityServer.Services.AuthService.RegisterUserAsync(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Services\AuthService.cs:line 51
+   at IdentityServer.Controllers.AuthController.Register(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Controllers\AuthController.cs:line 56
+[INF] ==> [29/08/2025 09:29:55] Now listening on: https://localhost:62362
+[INF] ==> [29/08/2025 09:29:55] Now listening on: http://localhost:62363
+[INF] ==> [29/08/2025 09:29:55] Application started. Press Ctrl+C to shut down.
+[INF] ==> [29/08/2025 09:29:55] Hosting environment: Development
+[INF] ==> [29/08/2025 09:29:55] Content root path: D:\APIERP\APIERP\IdentityServer
+[ERR] ==> [29/08/2025 09:30:23] Đăng ký thất bại.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'Users'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__193_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at IdentityServer.Repositories.UserRepository.CreateUser(User user) in D:\APIERP\APIERP\IdentityServer\Repositories\UserRepository.cs:line 103
+   at IdentityServer.Services.AuthService.RegisterUserAsync(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Services\AuthService.cs:line 51
+   at IdentityServer.Controllers.AuthController.Register(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Controllers\AuthController.cs:line 56
+ClientConnectionId:760aae76-70e4-4cc2-9004-9c7e3d8655e4
+Error Number:208,State:1,Class:16
+[INF] ==> [29/08/2025 09:30:23] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user","password":"user"} 
+           Response => StatusCode: 500, Body: Lỗi hệ thống: Invalid object name 'Users'. -    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__193_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at IdentityServer.Repositories.UserRepository.CreateUser(User user) in D:\APIERP\APIERP\IdentityServer\Repositories\UserRepository.cs:line 103
+   at IdentityServer.Services.AuthService.RegisterUserAsync(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Services\AuthService.cs:line 51
+   at IdentityServer.Controllers.AuthController.Register(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Controllers\AuthController.cs:line 56
+[INF] ==> [29/08/2025 09:33:22] Now listening on: https://localhost:62362
+[INF] ==> [29/08/2025 09:33:22] Now listening on: http://localhost:62363
+[INF] ==> [29/08/2025 09:33:22] Application started. Press Ctrl+C to shut down.
+[INF] ==> [29/08/2025 09:33:22] Hosting environment: Development
+[INF] ==> [29/08/2025 09:33:22] Content root path: D:\APIERP\APIERP\IdentityServer
+[ERR] ==> [29/08/2025 09:33:36] Đăng ký thất bại.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'Users'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__193_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at IdentityServer.Repositories.UserRepository.CreateUser(User user) in D:\APIERP\APIERP\IdentityServer\Repositories\UserRepository.cs:line 103
+   at IdentityServer.Services.AuthService.RegisterUserAsync(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Services\AuthService.cs:line 51
+   at IdentityServer.Controllers.AuthController.Register(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Controllers\AuthController.cs:line 56
+ClientConnectionId:8d97be78-7840-4690-9cdd-4731e434d206
+Error Number:208,State:1,Class:16
+[INF] ==> [29/08/2025 09:33:36] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user","password":"user"} 
+           Response => StatusCode: 500, Body: Lỗi hệ thống: Invalid object name 'Users'. -    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__193_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at IdentityServer.Repositories.UserRepository.CreateUser(User user) in D:\APIERP\APIERP\IdentityServer\Repositories\UserRepository.cs:line 103
+   at IdentityServer.Services.AuthService.RegisterUserAsync(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Services\AuthService.cs:line 51
+   at IdentityServer.Controllers.AuthController.Register(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Controllers\AuthController.cs:line 56
+[INF] ==> [29/08/2025 09:35:29] Now listening on: https://localhost:62362
+[INF] ==> [29/08/2025 09:35:29] Now listening on: http://localhost:62363
+[INF] ==> [29/08/2025 09:35:29] Application started. Press Ctrl+C to shut down.
+[INF] ==> [29/08/2025 09:35:29] Hosting environment: Development
+[INF] ==> [29/08/2025 09:35:29] Content root path: D:\APIERP\APIERP\IdentityServer
+[ERR] ==> [29/08/2025 09:35:50] Đăng ký thất bại.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Must declare the scalar variable "@C".
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__193_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at IdentityServer.Repositories.UserRepository.CreateUser(User user) in D:\APIERP\APIERP\IdentityServer\Repositories\UserRepository.cs:line 104
+   at IdentityServer.Services.AuthService.RegisterUserAsync(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Services\AuthService.cs:line 51
+   at IdentityServer.Controllers.AuthController.Register(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Controllers\AuthController.cs:line 56
+ClientConnectionId:bc9a1ee3-5f62-46e7-a96b-d1a2b032ccc9
+Error Number:137,State:2,Class:15
+[INF] ==> [29/08/2025 09:35:50] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user","password":"user"} 
+           Response => StatusCode: 500, Body: Lỗi hệ thống: Must declare the scalar variable "@C". -    at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__193_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at IdentityServer.Repositories.UserRepository.CreateUser(User user) in D:\APIERP\APIERP\IdentityServer\Repositories\UserRepository.cs:line 104
+   at IdentityServer.Services.AuthService.RegisterUserAsync(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Services\AuthService.cs:line 51
+   at IdentityServer.Controllers.AuthController.Register(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Controllers\AuthController.cs:line 56
+[INF] ==> [29/08/2025 09:37:23] Now listening on: https://localhost:62362
+[INF] ==> [29/08/2025 09:37:23] Now listening on: http://localhost:62363
+[INF] ==> [29/08/2025 09:37:23] Application started. Press Ctrl+C to shut down.
+[INF] ==> [29/08/2025 09:37:23] Hosting environment: Development
+[INF] ==> [29/08/2025 09:37:23] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [29/08/2025 09:37:46] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user","password":"user"} 
+           Response => StatusCode: 200, Body: {"message":"Đăng ký thành công.","username":"user"}
+[INF] ==> [29/08/2025 09:38:34] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"user","password":"user"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"29/08/2025 09:38:34","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwIiwianRpIjoiZmZkZDhmYTgtNzkxZS00YjlkLWE1M2EtNmIwOTQ1OGViOTc1IiwibmFtZWlkIjoidXNlciIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6InVzZXIiLCJSb2xlIjoiVTAiLCJQbHhJZCI6IiIsIm5iZiI6MTc1NjQzNTExNCwiZXhwIjoyMDY3NDc1MTE0LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwNzkiLCJhdWQiOiJMdW9uZ1REIn0.oz4uiTytuVFaWsSIDG0eUAHSPmDBjkZ5QvY6BJh_0O_se3O9s79z-BJaR6WkxmCb4CqUYPo7I727EzW_3Edp6g"}}
+[INF] ==> [29/08/2025 09:45:09] Now listening on: https://localhost:62362
+[INF] ==> [29/08/2025 09:45:09] Now listening on: http://localhost:62363
+[INF] ==> [29/08/2025 09:45:09] Application started. Press Ctrl+C to shut down.
+[INF] ==> [29/08/2025 09:45:09] Hosting environment: Development
+[INF] ==> [29/08/2025 09:45:09] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [29/08/2025 09:45:19] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"admin123","password":"admin123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"29/08/2025 09:45:19","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjMiLCJqdGkiOiJhNzQ0ZWI2MS1hNjg2LTQ1YjktOTMzOS1kMGMxYmRjYjZhNmUiLCJuYW1laWQiOiJhZG1pbjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6ImFkbWluMTIzIiwiUm9sZSI6IlUwIiwiUGx4SWQiOiIiLCJuYmYiOjE3NTY0MzU1MTgsImV4cCI6MjA2NzQ3NTUxOCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDc5IiwiYXVkIjoiTHVvbmdURCJ9.oKh88qTE1-Zy02-UYMfn4prnjKXnK8ZMkJRKOXTg3acu6drd9H8aju562tgqK5irEdM06-8q9Le5qyzqAqcyKw"}}
+[INF] ==> [29/08/2025 09:47:42] Now listening on: https://localhost:62362
+[INF] ==> [29/08/2025 09:47:42] Now listening on: http://localhost:62363
+[INF] ==> [29/08/2025 09:47:42] Application started. Press Ctrl+C to shut down.
+[INF] ==> [29/08/2025 09:47:42] Hosting environment: Development
+[INF] ==> [29/08/2025 09:47:42] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [29/08/2025 09:47:59] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user123","password":"user123456"} 
+           Response => StatusCode: 200, Body: {"message":"Đăng ký thành công.","username":"user123"}
+[INF] ==> [29/08/2025 09:48:10] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"user123","password":"user123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"29/08/2025 09:48:10","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwIiwianRpIjoiZjg0NjRiZTAtOWFmYy00MmM3LTk2N2QtZmU4YzM3NWQxZjJiIiwibmFtZWlkIjoidXNlcjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6InVzZXIxMjMiLCJSb2xlIjoiVTAiLCJQbHhJZCI6IiIsIm5iZiI6MTc1NjQzNTY5MCwiZXhwIjoyMDY3NDc1NjkwLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwNzkiLCJhdWQiOiJMdW9uZ1REIn0.duAD97_KWwaXa9gAaAp4kbPt1KLaU88D26WGtZ6ZfZNvVY8guE44_HGAXt9H-FHQDZFybnrGR4IOTDJ3VHDyFg"}}
+[INF] ==> [29/08/2025 09:52:10] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user123456","password":"user123456789"} 
+           Response => StatusCode: 200, Body: {"message":"Đăng ký thành công.","username":"user123456"}
+[INF] ==> [29/08/2025 09:53:38] Now listening on: https://localhost:62362
+[INF] ==> [29/08/2025 09:53:38] Now listening on: http://localhost:62363
+[INF] ==> [29/08/2025 09:53:39] Application started. Press Ctrl+C to shut down.
+[INF] ==> [29/08/2025 09:53:39] Hosting environment: Development
+[INF] ==> [29/08/2025 09:53:39] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [29/08/2025 09:53:54] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"useradmin","password":"123456"} 
+           Response => StatusCode: 200, Body: {"message":"Đăng ký thành công.","username":"useradmin"}
+[INF] ==> [29/08/2025 09:54:56] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"useradmin","password":"123456"} 
+           Response => StatusCode: 400, Body: Username đã tồn tại.
+[INF] ==> [29/08/2025 09:55:11] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"useradmin123","password":"123456"} 
+           Response => StatusCode: 200, Body: {"message":"Đăng ký thành công.","username":"useradmin123"}
+[INF] ==> [29/08/2025 09:55:17] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user123","password":null} 
+           Response => StatusCode: 400, Body: {"code":"400","message":"Bad request","data":["The Password field is required."]}
+[INF] ==> [29/08/2025 09:58:58] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user123","password":null} 
+           Response => StatusCode: 400, Body: {"code":"400","message":"Bad request","data":["The Password field is required."]}
+[INF] ==> [29/08/2025 09:59:08] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user123","password":null} 
+           Response => StatusCode: 400, Body: {"code":"400","message":"Bad request","data":["The Password field is required."]}
+[INF] ==> [29/08/2025 09:59:09] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user123","password":"user123456"} 
+           Response => StatusCode: 400, Body: Username đã tồn tại.
+[INF] ==> [29/08/2025 09:59:12] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user123","password":"user123456"} 
+           Response => StatusCode: 400, Body: Username đã tồn tại.

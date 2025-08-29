@@ -1,29 +1,26 @@
 ﻿using IdentityServer.Authentication;
 using IdentityServer.Services;
-using IdentityServer.Attributes;
-using IdentityServer.Enums;
+using IdentityServer.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace IdentityServer.Controllers
 {
-    //[Route("api/[controller]")]
-
     [Route("IdentityServer/v1/[controller]")]
     [ApiController]
     public class AuthController : ControllerBase
     {
-        private readonly ILogger _logger;
-
+        private readonly ILogger<AuthController> _logger;
         private readonly AuthService _authService;
 
-        private readonly ApplicationUser _applicationUser;
-
-        public AuthController(ILogger<AuthController> logger, AuthService authService, ApplicationUser applicationUser)
+        public AuthController(ILogger<AuthController> logger, AuthService authService)
         {
             _logger = logger;
             _authService = authService;
-            _applicationUser = applicationUser;
         }
 
+        /// <summary>
+        /// Tạo JWT token từ username/password
+        /// </summary>
         [HttpPost("authService")]
         public async Task<IActionResult> AuthService([FromBody] AuthServiceRequest param)
         {
@@ -34,27 +31,47 @@ namespace IdentityServer.Controllers
             }
             catch (Exception ex)
             {
-                _logger.LogDebug(ex.Message);
-                _logger.LogDebug(ex.StackTrace);
-                return StatusCode(500, ex.Message);
+                _logger.LogError(ex, "AuthService error");
+                return StatusCode(500, "Lỗi hệ thống: " + ex.Message);
             }
-
         }
 
+        /// <summary>
+        /// Test API
+        /// </summary>
         [HttpPost("TestAPI")]
-        public async Task<IActionResult> GetDataTest()
+        public IActionResult GetDataTest()
         {
-            try
-            { 
-                return Ok("Responsetest");
-            }
-            catch (Exception ex)
-            {
-                _logger.LogDebug(ex.Message);
-                _logger.LogDebug(ex.StackTrace);
-                return StatusCode(500, ex.Message);
-            }
-
+            return Ok("Responsetest");
         }
+
+        /// <summary>
+        /// Đăng ký tài khoản mới
+        /// </summary>
+        [HttpPost("register")]
+public async Task<IActionResult> Register([FromBody] RegisterRequest request)
+{
+    try
+    {
+        var user = await _authService.RegisterUserAsync(request);
+        if (user == null)
+        {
+            return BadRequest("Username đã tồn tại.");
+        }
+
+        return Ok(new
+        {
+            message = "Đăng ký thành công.",
+            username = user.UserName
+        });
+    }
+    catch (Exception ex)
+    {
+        _logger.LogError(ex, "Đăng ký thất bại.");
+        // Tạm thời trả về chi tiết để debug (chỉ dùng dev)
+        return StatusCode(500, $"Lỗi hệ thống: {ex.Message} - {ex.StackTrace}");
+    }
+}
+
     }
 }

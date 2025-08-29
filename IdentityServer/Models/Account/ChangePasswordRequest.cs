@@ -1,7 +1,11 @@
-﻿namespace IdentityServer.Models.Account;
-
-public class ChangePasswordRequest
+﻿namespace IdentityServer.Models
 {
-    public string OldPassword { get; set; } = null!;
-    public string NewPassword { get; set; } = null!;
+    public class ChangePasswordRequest
+    {
+        public string UserName { get; set; }
+        public string OldPassword { get; set; }
+        public string NewPassword { get; set; }
+    }
+
+    
 }

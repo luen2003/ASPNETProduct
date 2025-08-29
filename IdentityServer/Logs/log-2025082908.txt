@@ -1,0 +1,72 @@
+[INF] ==> [29/08/2025 08:29:14] Now listening on: https://localhost:62362
+[INF] ==> [29/08/2025 08:29:14] Now listening on: http://localhost:62363
+[INF] ==> [29/08/2025 08:29:14] Application started. Press Ctrl+C to shut down.
+[INF] ==> [29/08/2025 08:29:14] Hosting environment: Development
+[INF] ==> [29/08/2025 08:29:14] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [29/08/2025 08:47:17] Now listening on: https://localhost:62362
+[INF] ==> [29/08/2025 08:47:17] Now listening on: http://localhost:62363
+[INF] ==> [29/08/2025 08:47:17] Application started. Press Ctrl+C to shut down.
+[INF] ==> [29/08/2025 08:47:17] Hosting environment: Development
+[INF] ==> [29/08/2025 08:47:17] Content root path: D:\APIERP\APIERP\IdentityServer
+[ERR] ==> [29/08/2025 08:48:33] Đăng ký thất bại.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Arithmetic overflow error converting expression to data type datetime.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__193_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at IdentityServer.Repositories.UserRepository.CreateUser(User user) in D:\APIERP\APIERP\IdentityServer\Repositories\UserRepository.cs:line 213
+   at IdentityServer.Services.AuthService.RegisterUserAsync(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Services\AuthService.cs:line 153
+   at IdentityServer.Controllers.AuthController.Register(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Controllers\AuthController.cs:line 65
+ClientConnectionId:185db634-f849-4ce5-81e5-fcdfc32fbeec
+Error Number:8115,State:2,Class:16
+[INF] ==> [29/08/2025 08:48:33] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"admin123456789","password":"admin123456789"} 
+           Response => StatusCode: 500, Body: Lỗi hệ thống.
+[INF] ==> [29/08/2025 08:57:10] Now listening on: https://localhost:62362
+[INF] ==> [29/08/2025 08:57:10] Now listening on: http://localhost:62363
+[INF] ==> [29/08/2025 08:57:10] Application started. Press Ctrl+C to shut down.
+[INF] ==> [29/08/2025 08:57:10] Hosting environment: Development
+[INF] ==> [29/08/2025 08:57:10] Content root path: D:\APIERP\APIERP\IdentityServer
+[ERR] ==> [29/08/2025 08:57:31] Đăng ký thất bại.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Arithmetic overflow error converting expression to data type datetime.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.CompleteAsyncExecuteReader(Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__193_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in /_/Dapper/SqlMapper.Async.cs:line 662
+   at IdentityServer.Repositories.UserRepository.CreateUser(User user) in D:\APIERP\APIERP\IdentityServer\Repositories\UserRepository.cs:line 213
+   at IdentityServer.Services.AuthService.RegisterUserAsync(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Services\AuthService.cs:line 49
+   at IdentityServer.Controllers.AuthController.Register(RegisterRequest request) in D:\APIERP\APIERP\IdentityServer\Controllers\AuthController.cs:line 56
+ClientConnectionId:f705a2f5-7c80-4377-abc4-1f4f17fe167d
+Error Number:8115,State:2,Class:16
+[INF] ==> [29/08/2025 08:57:32] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"admin123456789","password":"admin123456789"} 
+           Response => StatusCode: 500, Body: Lỗi hệ thống.
+[INF] ==> [29/08/2025 08:59:46] Now listening on: https://localhost:62362
+[INF] ==> [29/08/2025 08:59:46] Now listening on: http://localhost:62363
+[INF] ==> [29/08/2025 08:59:46] Application started. Press Ctrl+C to shut down.
+[INF] ==> [29/08/2025 08:59:46] Hosting environment: Development
+[INF] ==> [29/08/2025 08:59:46] Content root path: D:\APIERP\APIERP\IdentityServer

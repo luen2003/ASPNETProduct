@@ -195,3 +195,4 @@ D:\APIERP\APIERP\IdentityServer\obj\Debug\net8.0\refint\IdentityServer.dll
 D:\APIERP\APIERP\IdentityServer\obj\Debug\net8.0\IdentityServer.pdb
 D:\APIERP\APIERP\IdentityServer\obj\Debug\net8.0\IdentityServer.genruntimeconfig.cache
 D:\APIERP\APIERP\IdentityServer\obj\Debug\net8.0\ref\IdentityServer.dll
+D:\APIERP\APIERP\IdentityServer\obj\Debug\net8.0\IdentityServer.sourcelink.json

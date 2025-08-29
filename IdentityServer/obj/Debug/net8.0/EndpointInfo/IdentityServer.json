@@ -48,6 +48,37 @@
           }
         }
       }
+    },
+    "/IdentityServer/v1/Auth/register": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RegisterRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RegisterRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RegisterRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {
@@ -55,18 +86,20 @@
       "AuthServiceRequest": {
         "type": "object",
         "properties": {
-          "requestId": {
+          "username": {
             "type": "string",
             "nullable": true
           },
-          "requestDate": {
+          "password": {
             "type": "string",
             "nullable": true
-          },
-          "checkSum": {
-            "type": "string",
-            "nullable": true
-          },
+          }
+        },
+        "additionalProperties": false
+      },
+      "RegisterRequest": {
+        "type": "object",
+        "properties": {
           "username": {
             "type": "string",
             "nullable": true

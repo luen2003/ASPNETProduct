@@ -1,8 +1,7 @@
 ﻿namespace IdentityServer.Models.Account;
 
 public class MapUserVehicleRequest
-{
-    public string Username { get; set; } = null!;
-    public string VehicleNo { get; set; } = null!;
-    public string FromDate { get; set; } = null!;
-}
+    {
+        public long UserId { get; set; }       
+        public long VehicleId { get; set; }   
+    }

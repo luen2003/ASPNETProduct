@@ -17,6 +17,22 @@
   },
   {
     "ContainingType": "IdentityServer.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "IdentityServer/v1/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "IdentityServer.Models.RegisterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IdentityServer.Controllers.AuthController",
     "Method": "GetDataTest",
     "RelativePath": "IdentityServer/v1/Auth/TestAPI",
     "HttpMethod": "POST",

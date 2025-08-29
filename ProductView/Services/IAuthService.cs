@@ -1,7 +1,7 @@
-namespace ProductView.Services
-{
-    public interface IAuthService
+    namespace ProductView.Services
     {
-        Task<string?> LoginAndGetTokenAsync(string username, string password, CancellationToken ct = default);
+        public interface IAuthService
+        {
+            Task<string?> LoginAndGetTokenAsync(string username, string password, CancellationToken ct = default);
+        }
     }
-}

@@ -3,34 +3,56 @@ using IdentityServer.Extensions;
 using IdentityServer.Communication.Sync;
 using IdentityServer.Converters;
 using IdentityServer.Enums;
-
+using IdentityServer.Models;
 namespace IdentityServer.Services
 {
-    public class AuthService
+public class AuthService
+{
+    private readonly Audience _audience;
+    private readonly RSACrypt _RSACrypt;
+    private readonly IServiceUrlRepository _iServiceUrlRepository;
+    private readonly IUserRepository _userRepo;
+    private readonly ILogger _logger;
+    private readonly TokenExtension _tokenExtension;
+
+    public AuthService(
+        ILogger<AuthService> logger,
+        IServiceUrlRepository serviceRepo,
+        Audience audience,
+        RSACrypt rsaCrypt,
+        TokenExtension tokenExtension,
+        IUserRepository userRepo)
     {
+        _audience = audience;
+        _RSACrypt = rsaCrypt;
+        _iServiceUrlRepository = serviceRepo;
+        _userRepo = userRepo;
+        _logger = logger;
+        _tokenExtension = tokenExtension;
+    }
 
-        private readonly Audience _audience;
-        RSACrypt _RSACrypt;
-        private readonly IServiceUrlRepository _iServiceUrlRepository;
-        private readonly IUserRepository _userRepo;
-        private readonly ILogger _logger;
-        private ApplicationUser _applicationUser; 
-        private readonly TokenExtension _tokenExtension;
+    public async Task<User?> RegisterUserAsync(RegisterRequest request)
+{
+    var existingUser = await _userRepo.GetUserByUserName(request.Username);
+    if (existingUser != null)
+        return null; // user đã tồn tại
 
-        public AuthService(
-            ILogger<AuthService> logger, IServiceUrlRepository serviceRepo,
-            Audience audience, RSACrypt rsaCrypt,
-            ApplicationUser applicationUser,
-            TokenExtension tokenExtension, IUserRepository userRepo)
-        {
-            _audience = audience;
-            _RSACrypt = rsaCrypt;
-            _iServiceUrlRepository = serviceRepo;
-            _userRepo = userRepo;
-            _logger = logger;
-            _applicationUser = applicationUser;
-            _tokenExtension = tokenExtension;
-        }
+    var encryptedPassword = Utils.Utils.TBTEncrypt(request.Password);
+
+    var newUser = new User
+    {
+        UserName = request.Username,          // C trong SQL
+        FullName = request.Username,          // N trong SQL
+        ShortName = request.Username,         // SHORTN trong SQL
+        Password = encryptedPassword,         // PWD trong SQL
+        UserType = 1,                         // UTYPE, mặc định user thường
+    };
+
+    await _userRepo.CreateUser(newUser);
+    return newUser;
+}
+
+
 
         //public async Task<AuthServiceResponse> AuthSrv(AuthServiceRequest param)
         //{
@@ -135,10 +157,11 @@ namespace IdentityServer.Services
 
         //    return response;
         //}
+        
 
         public async Task<AuthServiceResponse> AuthCreateToken(AuthServiceRequest param)
         {
-            var Iuser = await _iServiceUrlRepository.GetUserByUserName(param.Username); 
+            var Iuser = await _iServiceUrlRepository.GetUserByUserName(param.Username);
             var response = new AuthServiceResponse();
 
             if (Iuser != null)
