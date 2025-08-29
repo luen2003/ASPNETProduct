@@ -1,0 +1,30 @@
+[INF] ==> [29/08/2025 11:29:26] Now listening on: https://localhost:62362
+[INF] ==> [29/08/2025 11:29:26] Now listening on: http://localhost:62363
+[INF] ==> [29/08/2025 11:29:26] Application started. Press Ctrl+C to shut down.
+[INF] ==> [29/08/2025 11:29:26] Hosting environment: Development
+[INF] ==> [29/08/2025 11:29:26] Content root path: D:\APIERP\APIERP\IdentityServer
+[INF] ==> [29/08/2025 11:37:18] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"user123","password":"user123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"29/08/2025 11:37:18","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwIiwianRpIjoiZDlhZTdjNWUtZjhkOS00NTc0LWJkNmEtMDcxYjNhMDU5NjU4IiwibmFtZWlkIjoidXNlcjEyMyIsIlBvc0lkIjoiMCIsIlVzZXJJZCI6InVzZXIxMjMiLCJSb2xlIjoiVTAiLCJQbHhJZCI6IiIsIm5iZiI6MTc1NjQ0MjIzOCwiZXhwIjoyMDY3NDgyMjM4LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwNzkiLCJhdWQiOiJMdW9uZ1REIn0.U-dmIdDzbenKhaXce1IuwxF2SIzSnZBpm0wAGdLR8Nx0LYLEbMFy8flnQHqrcEDtmTZNYWQ5CsHJwdQ-mh5ALw"}}
+[INF] ==> [29/08/2025 11:37:43] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user123","password":"user123456"} 
+           Response => StatusCode: 400, Body: Username đã tồn tại.
+[INF] ==> [29/08/2025 11:37:47] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user1234","password":"user123456"} 
+           Response => StatusCode: 200, Body: {"message":"Đăng ký thành công.","username":"user1234"}
+[INF] ==> [29/08/2025 11:37:51] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/register, 
+                      Token: , 
+                      Body: {"username":"user1234","password":"user123456"} 
+           Response => StatusCode: 400, Body: Username đã tồn tại.
+[INF] ==> [29/08/2025 11:37:57] RemoteIpAddress => ::1
+           Request => Method: POST, Path: /IdentityServer/v1/Auth/authService, 
+                      Token: , 
+                      Body: {"userName":"user1234","password":"user123456"} 
+           Response => StatusCode: 200, Body: {"code":"00","message":"Thành công.","data":{"requestDate":"29/08/2025 11:37:57","serviceName":"AuthCreateToken","status":1,"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwIiwianRpIjoiZWMwZDc3MTItOGNhNi00M2M3LTg4YWMtYmE4ZDNlZDdlYzY2IiwibmFtZWlkIjoidXNlcjEyMzQiLCJQb3NJZCI6IjAiLCJVc2VySWQiOiJ1c2VyMTIzNCIsIlJvbGUiOiJVMCIsIlBseElkIjoiIiwibmJmIjoxNzU2NDQyMjc3LCJleHAiOjIwNjc0ODIyNzcsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA3OSIsImF1ZCI6Ikx1b25nVEQifQ.gQH3qoE6oDOUAuo_s-y5S2_RW1smL2Wu1j8_U4gtGLTtXmHXYgNEko6LeLwcJyFOl-lsnR4Sz3UQjRq2nRcCfA"}}

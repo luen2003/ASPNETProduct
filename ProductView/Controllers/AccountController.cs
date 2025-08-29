@@ -111,7 +111,7 @@ namespace ProductView.Controllers
                     }
                     catch
                     {
-                        ViewBag.Error = "Đăng ký thất bại: " + content; // fallback
+                        ViewBag.Error = "Đăng ký thất bại: " + content;
                     }
                 }
 
